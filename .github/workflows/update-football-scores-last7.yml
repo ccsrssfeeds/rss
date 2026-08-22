@@ -24,6 +24,34 @@ jobs:
         with:
           python-version: '3.12'
       - run: python build_football_scores_last7.py
+      - name: Add plain image URL fields
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+
+          path = 'football_scores_last7.xml'
+          tree = ET.parse(path)
+          root = tree.getroot()
+
+          for item in root.findall('./channel/item'):
+              away = item.findtext('awayLogo') or ''
+              home = item.findtext('homeLogo') or ''
+
+              away_node = item.find('awayImageUrl')
+              if away_node is None:
+                  away_node = ET.Element('awayImageUrl')
+                  item.insert(5, away_node)
+              away_node.text = away
+
+              home_node = item.find('homeImageUrl')
+              if home_node is None:
+                  home_node = ET.Element('homeImageUrl')
+                  item.insert(6, home_node)
+              home_node.text = home
+
+          ET.indent(tree, space='  ')
+          tree.write(path, encoding='utf-8', xml_declaration=True)
+          PY
       - name: Commit updated last-7-days football feed
         run: |
           git config user.name "CCS RSS Bot"
