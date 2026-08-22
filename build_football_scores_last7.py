@@ -4,7 +4,7 @@ import re
 from datetime import datetime, timedelta
 from email.utils import format_datetime
 from html.parser import HTMLParser
-from urllib.parse import quote
+from urllib.parse import quote, urljoin
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
@@ -16,29 +16,22 @@ END_DATE = TODAY - timedelta(days=1)
 OUTPUT = "football_scores_last7.xml"
 FEED_URL = "https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml"
 
-# Eastern / southeastern NC public-school football footprint plus Horry County, SC.
 REGIONAL_TEAMS = {
-    # Columbus / Bladen / Brunswick / Robeson
     "whiteville", "east columbus", "south columbus", "west columbus",
     "east bladen", "west bladen",
     "north brunswick", "south brunswick", "west brunswick",
     "fairmont", "lumberton", "purnell swett", "red springs", "st pauls", "st. pauls", "south robeson",
-    # New Hanover / Pender
     "ashley", "hoggard", "laney", "new hanover",
     "pender", "heide trask", "topsail",
-    # Sampson / Duplin
     "clinton", "hobbton", "lakewood", "midway", "union",
     "east duplin", "james kenan", "north duplin", "wallace-rose hill",
-    # Onslow / Carteret / Craven
     "jacksonville", "northside", "southwest onslow", "white oak", "richlands", "swansboro", "dixon",
     "west carteret", "east carteret", "croatan",
     "new bern", "havelock", "west craven",
-    # Pitt / Lenoir / Wayne / nearby eastern NC
     "d.h. conley", "jh rose", "j.h. rose", "north pitt", "south central", "ayden-grifton", "ayden - grifton", "farmville central",
     "kinston", "north lenoir", "south lenoir",
     "eastern wayne", "southern wayne", "c.b. aycock", "goldsboro", "rosewood", "spring creek",
     "pamlico county", "jones senior",
-    # Horry County, SC
     "aynor", "carolina forest", "conway", "green sea floyds", "loris", "myrtle beach",
     "north myrtle beach", "socastee", "st james", "st. james",
 }
@@ -50,28 +43,47 @@ class VisibleTextParser(HTMLParser):
         self.parts: list[str] = []
         self.li_depth = 0
         self.li_parts: list[str] = []
-        self.lines: list[str] = []
+        self.li_images: list[tuple[str, str]] = []
+        self.entries: list[tuple[str, list[tuple[str, str]]]] = []
         self.skip_depth = 0
 
     def handle_starttag(self, tag, attrs):
         tag = tag.lower()
+        attrs_dict = dict(attrs)
         if tag in ("script", "style"):
             self.skip_depth += 1
+            return
+
         if tag == "li" and not self.skip_depth:
             self.li_depth += 1
             if self.li_depth == 1:
                 self.li_parts = []
+                self.li_images = []
+
+        if tag == "img" and self.li_depth and not self.skip_depth:
+            alt = (attrs_dict.get("alt") or "").strip()
+            src = (
+                attrs_dict.get("src")
+                or attrs_dict.get("data-src")
+                or attrs_dict.get("data-lazy-src")
+                or ""
+            ).strip()
+            if src:
+                self.li_images.append((alt, src))
 
     def handle_endtag(self, tag):
         tag = tag.lower()
         if tag in ("script", "style") and self.skip_depth:
             self.skip_depth -= 1
+            return
+
         if tag == "li" and self.li_depth:
             if self.li_depth == 1:
                 line = " ".join(" ".join(self.li_parts).split())
                 if line:
-                    self.lines.append(line)
+                    self.entries.append((line, list(self.li_images)))
                 self.li_parts = []
+                self.li_images = []
             self.li_depth -= 1
 
     def handle_data(self, data):
@@ -131,6 +143,18 @@ def parse_game_line(line: str):
     return away_team, away_score, home_team, home_score
 
 
+def pick_logo(team: str, images: list[tuple[str, str]], base_url: str) -> str:
+    target = re.sub(r"[^a-z0-9]", "", normalize_team(team))
+    if not target:
+        return ""
+
+    for alt, src in images:
+        alt_norm = re.sub(r"[^a-z0-9]", "", normalize_team(alt))
+        if target and alt_norm and (target in alt_norm or alt_norm in target):
+            return urljoin(base_url, src)
+    return ""
+
+
 def scrape_scoreboard(state: str, game_date) -> list[dict[str, str]]:
     date_text = f"{game_date.month}/{game_date.day}/{game_date.year}"
     url = f"https://www.maxpreps.com/{state}/football/scores/?date={quote(date_text)}&mobile=1"
@@ -138,12 +162,12 @@ def scrape_scoreboard(state: str, game_date) -> list[dict[str, str]]:
     parser = VisibleTextParser()
     parser.feed(html)
 
-    candidates = list(parser.lines)
-    candidates.extend(re.split(r"(?<=Final)", " ".join(parser.parts)))
+    candidates: list[tuple[str, list[tuple[str, str]]]] = list(parser.entries)
+    candidates.extend((text, []) for text in re.split(r"(?<=Final)", " ".join(parser.parts)))
 
     games: list[dict[str, str]] = []
     seen: set[tuple[str, str, str, str]] = set()
-    for line in candidates:
+    for line, images in candidates:
         parsed = parse_game_line(line)
         if not parsed:
             continue
@@ -158,6 +182,8 @@ def scrape_scoreboard(state: str, game_date) -> list[dict[str, str]]:
             "away_score": away_score,
             "home_team": home_team,
             "home_score": home_score,
+            "away_logo": pick_logo(away_team, images, url),
+            "home_logo": pick_logo(home_team, images, url),
             "source": url,
         })
     return games
@@ -183,7 +209,15 @@ def main() -> None:
 
     deduped: dict[str, dict[str, str]] = {}
     for row in rows:
-        deduped[game_key(row)] = row
+        key = game_key(row)
+        if key not in deduped:
+            deduped[key] = row
+        else:
+            existing = deduped[key]
+            if not existing.get("away_logo") and row.get("away_logo"):
+                existing["away_logo"] = row["away_logo"]
+            if not existing.get("home_logo") and row.get("home_logo"):
+                existing["home_logo"] = row["home_logo"]
 
     games = list(deduped.values())
     games.sort(key=lambda r: (r["date"], normalize_team(r["away_team"]), normalize_team(r["home_team"])), reverse=True)
@@ -208,6 +242,8 @@ def main() -> None:
         ET.SubElement(item, "title").text = title
         ET.SubElement(item, "link").text = row["source"]
         ET.SubElement(item, "description").text = f"Final: {title}"
+        ET.SubElement(item, "awayLogo").text = row.get("away_logo", "")
+        ET.SubElement(item, "homeLogo").text = row.get("home_logo", "")
         ET.SubElement(item, "guid", isPermaLink="false").text = game_key(row)
         item_dt = datetime.combine(game_date, datetime.min.time(), tzinfo=TZ)
         ET.SubElement(item, "pubDate").text = format_datetime(item_dt)
