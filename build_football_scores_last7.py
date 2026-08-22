@@ -201,7 +201,7 @@ def main() -> None:
 
     for row in games:
         game_date = datetime.strptime(row["date"], "%Y-%m-%d").date()
-        date_label = game_date.strftime("%a %b %d").replace(" 0", " ")
+        date_label = f"{game_date.month}/{game_date.day}"
         title = f"{date_label} — {row['away_team']} {row['away_score']} — {row['home_team']} {row['home_score']}"
 
         item = ET.SubElement(channel, "item")
