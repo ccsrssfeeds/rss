@@ -1,21 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Eastern NC &amp; Horry County Football Scores — Last 7 Days</title>
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:10:37 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:24:47 -0400</lastBuildDate>
     <item>
       <title>8/21 — West Brunswick 41 — South Brunswick 20</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=8/21/2026&amp;mobile=1</link>
       <description>Final: 8/21 — West Brunswick 41 — South Brunswick 20</description>
       <awayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=south%20brunswick&amp;size=256</homeLogo>
-      <media:thumbnail url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=south%20brunswick&amp;size=256" role="home" />
-      <media:content url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=south%20brunswick&amp;size=256" medium="image" />
+      <awayImageUrl>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=south%20brunswick&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=south%20brunswick&amp;size=256" role="home" />
+      <ns0:content url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=south%20brunswick&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-21|south brunswick|west brunswick</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -25,10 +27,12 @@
       <description>Final: 8/21 — Socastee 7 — NMBHS 31</description>
       <awayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayLogo>
       <homeLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</homeLogo>
-      <media:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="away" />
-      <media:thumbnail url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" role="home" />
-      <media:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
-      <media:content url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" medium="image" />
+      <awayImageUrl>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayImageUrl>
+      <homeImageUrl>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</homeImageUrl>
+      <ns0:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="away" />
+      <ns0:thumbnail url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" role="home" />
+      <ns0:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
+      <ns0:content url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" medium="image" />
       <guid isPermaLink="false">2026-08-21|north myrtle beach|socastee</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -38,10 +42,12 @@
       <description>Final: 8/21 — Lakewood 28 — Andrews 26</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=andrews&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=andrews&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=andrews&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=andrews&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=andrews&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=andrews&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-21|andrews|lakewood</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -51,10 +57,12 @@
       <description>Final: 8/21 — Hobbton 24 — Midway 47</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=hobbton&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=midway&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=hobbton&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=midway&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=hobbton&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=midway&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=hobbton&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=midway&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=hobbton&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=midway&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=hobbton&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=midway&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-21|hobbton|midway</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -64,10 +72,12 @@
       <description>Final: 8/21 — Aynor 20 — Georgetown 8</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=aynor&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=georgetown&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=aynor&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=georgetown&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=aynor&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=georgetown&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=aynor&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=georgetown&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=aynor&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=georgetown&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=aynor&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=georgetown&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-21|aynor|georgetown</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -77,10 +87,12 @@
       <description>Final: 8/20 — West Columbus 8 — Whiteville 53</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=west%20columbus&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=whiteville&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20columbus&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=whiteville&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20columbus&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=whiteville&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=west%20columbus&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=whiteville&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20columbus&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=whiteville&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20columbus&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=whiteville&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|west columbus|whiteville</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -90,10 +102,12 @@
       <description>Final: 8/20 — West Bladen 0 — Pender 52</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=west%20bladen&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=pender&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20bladen&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=pender&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20bladen&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=pender&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=west%20bladen&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=pender&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20bladen&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=pender&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20bladen&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=pender&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|pender|west bladen</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -103,10 +117,12 @@
       <description>Final: 8/20 — Southern Wayne 6 — James Kenan 49</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=southern%20wayne&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=james%20kenan&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=southern%20wayne&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=james%20kenan&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=southern%20wayne&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=james%20kenan&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=southern%20wayne&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=james%20kenan&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=southern%20wayne&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=james%20kenan&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=southern%20wayne&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=james%20kenan&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|james kenan|southern wayne</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -116,10 +132,12 @@
       <description>Final: 8/20 — Red Springs 0 — Anson 42</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=red%20springs&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=anson&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=red%20springs&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=anson&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=red%20springs&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=anson&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=red%20springs&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=anson&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=red%20springs&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=anson&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=red%20springs&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=anson&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|anson|red springs</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -129,10 +147,12 @@
       <description>Final: 8/20 — Purnell Swett 6 — St. Pauls 28</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=purnell%20swett&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=st.%20pauls&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=purnell%20swett&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=st.%20pauls&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=purnell%20swett&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=st.%20pauls&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=purnell%20swett&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=st.%20pauls&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=purnell%20swett&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=st.%20pauls&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=purnell%20swett&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=st.%20pauls&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|purnell swett|st. pauls</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -142,10 +162,12 @@
       <description>Final: 8/20 — Princeton 34 — Ayden - Grifton 9</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=princeton&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=ayden%20-%20grifton&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=princeton&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=ayden%20-%20grifton&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=princeton&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=ayden%20-%20grifton&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=princeton&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=ayden%20-%20grifton&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=princeton&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=ayden%20-%20grifton&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=princeton&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=ayden%20-%20grifton&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|ayden - grifton|princeton</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -155,10 +177,12 @@
       <description>Final: 8/20 — Pamlico County 34 — KIPP Pride 26</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=pamlico%20county&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=kipp%20pride&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=pamlico%20county&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=kipp%20pride&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=pamlico%20county&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=kipp%20pride&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=pamlico%20county&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=kipp%20pride&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=pamlico%20county&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=kipp%20pride&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=pamlico%20county&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=kipp%20pride&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|kipp pride|pamlico county</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -168,10 +192,12 @@
       <description>Final: 8/20 — Northern Nash 11 — J.H. Rose 20</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=northern%20nash&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=j.h.%20rose&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=northern%20nash&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=j.h.%20rose&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=northern%20nash&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=j.h.%20rose&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=northern%20nash&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=j.h.%20rose&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=northern%20nash&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=j.h.%20rose&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=northern%20nash&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=j.h.%20rose&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|j.h. rose|northern nash</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -181,10 +207,12 @@
       <description>Final: 8/20 — North Brunswick 10 — Corinth Holders 7</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=north%20brunswick&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=corinth%20holders&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=north%20brunswick&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=corinth%20holders&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=north%20brunswick&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=corinth%20holders&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=north%20brunswick&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=corinth%20holders&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=north%20brunswick&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=corinth%20holders&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=north%20brunswick&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=corinth%20holders&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|corinth holders|north brunswick</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -194,10 +222,12 @@
       <description>Final: 8/20 — Myrtle Beach 20 — Marlboro County 61</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=myrtle%20beach&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=marlboro%20county&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=myrtle%20beach&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=marlboro%20county&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=myrtle%20beach&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=marlboro%20county&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=myrtle%20beach&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=marlboro%20county&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=myrtle%20beach&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=marlboro%20county&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=myrtle%20beach&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=marlboro%20county&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|marlboro county|myrtle beach</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -207,10 +237,12 @@
       <description>Final: 8/20 — Lakewood 19 — Clinton 35</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=clinton&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=clinton&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=clinton&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=clinton&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=clinton&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=lakewood&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=clinton&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|clinton|lakewood</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -220,10 +252,12 @@
       <description>Final: 8/20 — (#17) Hoggard 27 — (#21) Richmond Senior 13</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=hoggard&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=richmond%20senior&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=hoggard&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=richmond%20senior&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=hoggard&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=richmond%20senior&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=hoggard&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=richmond%20senior&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=hoggard&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=richmond%20senior&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=hoggard&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=richmond%20senior&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|hoggard|richmond senior</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -233,10 +267,12 @@
       <description>Final: 8/20 — Heide Trask 0 — East Bladen 41</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=heide%20trask&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=east%20bladen&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=heide%20trask&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=east%20bladen&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=heide%20trask&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=east%20bladen&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=heide%20trask&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=east%20bladen&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=heide%20trask&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=east%20bladen&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=heide%20trask&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=east%20bladen&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|east bladen|heide trask</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -246,10 +282,12 @@
       <description>Final: 8/20 — Greene Central 49 — North Lenoir 20</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=greene%20central&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=north%20lenoir&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=greene%20central&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=north%20lenoir&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=greene%20central&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=north%20lenoir&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=greene%20central&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=north%20lenoir&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=greene%20central&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=north%20lenoir&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=greene%20central&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=north%20lenoir&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|greene central|north lenoir</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -259,10 +297,12 @@
       <description>Final: 8/20 — GSFHS 8 — East Columbus 12</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=green%20sea%20floyds&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=east%20columbus&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=green%20sea%20floyds&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=east%20columbus&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=green%20sea%20floyds&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=east%20columbus&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=green%20sea%20floyds&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=east%20columbus&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=green%20sea%20floyds&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=east%20columbus&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=green%20sea%20floyds&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=east%20columbus&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|east columbus|green sea floyds</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -272,10 +312,12 @@
       <description>Final: 8/20 — Fairmont 32 — Lumberton 31</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=fairmont&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=lumberton&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=fairmont&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=lumberton&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=fairmont&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=lumberton&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=fairmont&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=lumberton&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=fairmont&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=lumberton&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=fairmont&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=lumberton&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|fairmont|lumberton</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -285,10 +327,12 @@
       <description>Final: 8/20 — Eastern Wayne 77 — Goldsboro 0</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=eastern%20wayne&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=goldsboro&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=eastern%20wayne&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=goldsboro&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=eastern%20wayne&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=goldsboro&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=eastern%20wayne&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=goldsboro&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=eastern%20wayne&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=goldsboro&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=eastern%20wayne&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=goldsboro&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|eastern wayne|goldsboro</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -298,10 +342,12 @@
       <description>Final: 8/20 — Dixon 8 — Topsail 20</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=dixon&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=topsail&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=dixon&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=topsail&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=dixon&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=topsail&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=dixon&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=topsail&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=dixon&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=topsail&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=dixon&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=topsail&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|dixon|topsail</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -311,10 +357,12 @@
       <description>Final: 8/20 — C.B. Aycock 20 — Rosewood 0</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=c.b.%20aycock&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=rosewood&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=c.b.%20aycock&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=rosewood&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=c.b.%20aycock&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=rosewood&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=c.b.%20aycock&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=rosewood&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=c.b.%20aycock&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=rosewood&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=c.b.%20aycock&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=rosewood&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-20|c.b. aycock|rosewood</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -324,10 +372,12 @@
       <description>Final: 8/19 — (#20) Carolina Forest 16 — West Florence 14</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-19|carolina forest|west florence</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -337,10 +387,12 @@
       <description>Final: 8/18 — (#20) Carolina Forest 16 — West Florence 14</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-18|carolina forest|west florence</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -350,10 +402,12 @@
       <description>Final: 8/17 — (#20) Carolina Forest 16 — West Florence 14</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-17|carolina forest|west florence</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
     </item>
@@ -363,10 +417,12 @@
       <description>Final: 8/16 — (#20) Carolina Forest 16 — West Florence 14</description>
       <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" medium="image" />
+      <awayImageUrl>https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256</awayImageUrl>
+      <homeImageUrl>https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256</homeImageUrl>
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" role="away" />
+      <ns0:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" role="home" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=carolina%20forest&amp;size=256" medium="image" />
+      <ns0:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20florence&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-16|carolina forest|west florence</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 -0400</pubDate>
     </item>
