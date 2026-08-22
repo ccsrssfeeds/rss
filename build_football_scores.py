@@ -1,15 +1,18 @@
 from __future__ import annotations
 
 import csv
+import io
 from datetime import datetime
 from email.utils import format_datetime
 from pathlib import Path
+from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
 
 TZ = ZoneInfo("America/New_York")
 TODAY = datetime.now(TZ).date().isoformat()
-INPUT = Path("manual_scores.csv")
+LOCAL_INPUT = Path("manual_scores.csv")
+SHEET_URL_FILE = Path("google_sheet_url.txt")
 OUTPUT = Path("football_scores.xml")
 FEED_URL = "https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml"
 
@@ -18,6 +21,18 @@ LIVE_WORDS = ("Q1", "Q2", "Q3", "Q4", "1ST", "2ND", "3RD", "4TH", "HALF", "HALFT
 
 def clean(value: str | None) -> str:
     return (value or "").strip()
+
+
+def normalize_date(value: str) -> str:
+    value = clean(value)
+    if not value:
+        return ""
+    for fmt in ("%Y-%m-%d", "%m/%d/%Y", "%m/%d/%y", "%m-%d-%Y"):
+        try:
+            return datetime.strptime(value, fmt).date().isoformat()
+        except ValueError:
+            pass
+    return value
 
 
 def valid_score(value: str) -> bool:
@@ -29,7 +44,7 @@ def valid_score(value: str) -> bool:
 
 
 def include_row(row: dict[str, str]) -> bool:
-    if clean(row.get("date")) != TODAY:
+    if normalize_date(row.get("date", "")) != TODAY:
         return False
 
     status = clean(row.get("status")).upper()
@@ -46,13 +61,30 @@ def game_key(row: dict[str, str]) -> str:
     return f"{TODAY}|{'|'.join(teams)}"
 
 
-def main() -> None:
-    rows: list[dict[str, str]] = []
-    if INPUT.exists():
-        with INPUT.open(newline="", encoding="utf-8-sig") as f:
-            rows = [r for r in csv.DictReader(f) if include_row(r)]
+def load_rows() -> list[dict[str, str]]:
+    # Primary source: published Google Sheet CSV URL.
+    if SHEET_URL_FILE.exists():
+        sheet_url = clean(SHEET_URL_FILE.read_text(encoding="utf-8"))
+        if sheet_url and not sheet_url.startswith("PASTE_"):
+            try:
+                req = Request(sheet_url, headers={"User-Agent": "Mozilla/5.0"})
+                with urlopen(req, timeout=20) as response:
+                    text = response.read().decode("utf-8-sig")
+                return list(csv.DictReader(io.StringIO(text)))
+            except Exception as exc:
+                print(f"Google Sheet read failed; using local fallback: {exc}")
 
-    # Last manual entry for the same matchup wins.
+    # Fallback while the Google Sheet is being connected.
+    if LOCAL_INPUT.exists():
+        with LOCAL_INPUT.open(newline="", encoding="utf-8-sig") as f:
+            return list(csv.DictReader(f))
+    return []
+
+
+def main() -> None:
+    rows = [r for r in load_rows() if include_row(r)]
+
+    # Last row for the same matchup wins, so editing/updating a game does not duplicate it.
     deduped: dict[str, dict[str, str]] = {}
     for row in rows:
         deduped[game_key(row)] = row
@@ -70,7 +102,7 @@ def main() -> None:
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = "Eastern NC & Horry County Football Scores"
     ET.SubElement(channel, "link").text = FEED_URL
-    ET.SubElement(channel, "description").text = "Today's high school football scores and live game progress. Manual entries currently enabled."
+    ET.SubElement(channel, "description").text = "Today's high school football scores and live game progress. Google Sheet manual entries enabled."
     ET.SubElement(channel, "language").text = "en-us"
     ET.SubElement(channel, "lastBuildDate").text = format_datetime(datetime.now(TZ))
 
