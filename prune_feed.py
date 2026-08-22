@@ -45,9 +45,6 @@ def ccs_matchup_key(item):
         return None
 
     pair = tuple(sorted((school, opponent)))
-    # Same sport + same calendar date + same two CCS schools = one event.
-    # Using the date instead of exact time also catches minor time differences
-    # between the two schools' published schedule pages.
     return (sport.lower(), dt.date().isoformat(), pair)
 
 
@@ -82,8 +79,16 @@ def prune(path: str):
                 continue
             seen_ccs_matchups.add(key)
 
+    # Sort all remaining events from soonest to latest.
+    items = list(channel.findall('item'))
+    for item in items:
+        channel.remove(item)
+    items.sort(key=lambda item: event_datetime(item) or datetime.max.replace(tzinfo=ET))
+    for item in items:
+        channel.append(item)
+
     ElementTree(root).write(p, encoding='utf-8', xml_declaration=True)
-    print(f'{path}: removed {removed_past} past events and {removed_dupes} duplicate CCS matchups')
+    print(f'{path}: removed {removed_past} past events, {removed_dupes} duplicate CCS matchups, then sorted {len(items)} upcoming events')
 
 
 if __name__ == '__main__':
