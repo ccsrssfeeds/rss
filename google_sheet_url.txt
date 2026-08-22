@@ -1,1 +1,1 @@
-PASTE_PUBLISHED_GOOGLE_SHEET_CSV_URL_HERE
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTxkOmVyzgtjHbwiORr-fdJsxWh5PgCDbyBx4hsDY4NMUsFQZxDvbLkP-3e-wCl6onJH8iro8fBpY49/pub?output=csv
