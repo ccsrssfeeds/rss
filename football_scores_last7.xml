@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Eastern NC &amp; Horry County Football Scores — Last 7 Days</title>
+    <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
+    <description>High school football scores from the previous 7 calendar days, excluding today. Google Sheet manual entries enabled.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Aug 2026 15:04:40 -0400</lastBuildDate>
+  </channel>
+</rss>
