@@ -16,100 +16,51 @@ OUTPUT = "football_scores_last7.xml"
 FEED_URL = "https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml"
 
 TEAMS = [
-    (
-        "West Columbus",
-        "https://www.maxpreps.com/nc/cerro-gordo/west-columbus-vikings/football/schedule/",
-    ),
-    (
-        "South Columbus",
-        "https://www.maxpreps.com/nc/tabor-city/south-columbus-stallions/football/schedule/",
-    ),
-    (
-        "East Columbus",
-        "https://www.maxpreps.com/nc/lake-waccamaw/east-columbus-gators/football/schedule/",
-    ),
+    ("West Columbus", "https://www.maxpreps.com/nc/cerro-gordo/west-columbus-vikings/football/schedule/"),
+    ("South Columbus", "https://www.maxpreps.com/nc/tabor-city/south-columbus-stallions/football/schedule/"),
+    ("East Columbus", "https://www.maxpreps.com/nc/lake-waccamaw/east-columbus-gators/football/schedule/"),
 ]
 
 
-class TableParser(HTMLParser):
+class VisibleTextParser(HTMLParser):
     def __init__(self):
         super().__init__()
-        self.in_tr = False
-        self.in_cell = False
-        self.rows: list[list[str]] = []
-        self.row: list[str] = []
-        self.cell_parts: list[str] = []
+        self.parts: list[str] = []
+        self.skip_depth = 0
 
     def handle_starttag(self, tag, attrs):
-        tag = tag.lower()
-        if tag == "tr":
-            self.in_tr = True
-            self.row = []
-        elif self.in_tr and tag in ("td", "th"):
-            self.in_cell = True
-            self.cell_parts = []
+        if tag.lower() in ("script", "style"):
+            self.skip_depth += 1
 
     def handle_endtag(self, tag):
-        tag = tag.lower()
-        if self.in_tr and tag in ("td", "th") and self.in_cell:
-            text = " ".join("".join(self.cell_parts).split())
-            self.row.append(text)
-            self.in_cell = False
-            self.cell_parts = []
-        elif tag == "tr" and self.in_tr:
-            if self.row:
-                self.rows.append(self.row)
-            self.in_tr = False
-            self.row = []
+        if tag.lower() in ("script", "style") and self.skip_depth:
+            self.skip_depth -= 1
 
     def handle_data(self, data):
-        if self.in_cell:
-            self.cell_parts.append(data)
-
-
-def clean(value: str | None) -> str:
-    return (value or "").strip()
+        if not self.skip_depth:
+            text = " ".join(data.split())
+            if text:
+                self.parts.append(text)
 
 
 def fetch_html(url: str) -> str:
-    req = Request(
-        url,
-        headers={
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/151 Safari/537.36",
-            "Accept-Language": "en-US,en;q=0.9",
-        },
-    )
+    req = Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/151 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9",
+    })
     with urlopen(req, timeout=30) as response:
         return response.read().decode("utf-8", errors="replace")
 
 
-def parse_game_date(text: str):
-    # MaxPreps date cells render like "8/207:30pm" or "8/20 7:30pm".
-    m = re.search(r"\b(\d{1,2})/(\d{1,2})\b", text)
-    if not m:
-        return None
-    month, day = map(int, m.groups())
+def parse_date(month: str, day: str):
     try:
-        return datetime(TODAY.year, month, day).date()
+        return datetime(TODAY.year, int(month), int(day)).date()
     except ValueError:
         return None
 
 
-def normalize_opponent(text: str) -> tuple[str, bool]:
-    text = clean(text).replace("*", "")
-    away = text.startswith("@")
-    text = re.sub(r"^(?:@|vs\.?\s*)", "", text, flags=re.I)
-    return clean(text), away
-
-
-def parse_result(text: str):
-    # Typical MaxPreps result: W 28-14, L 53-8, T 21-21.
-    m = re.search(r"\b([WLT])\s*(\d+)\s*[-–—]\s*(\d+)\b", text, re.I)
-    if not m:
-        return None
-    outcome = m.group(1).upper()
-    first = int(m.group(2))
-    second = int(m.group(3))
+def team_scores(outcome: str, first: int, second: int):
+    outcome = outcome.upper()
     if outcome == "W":
         return first, second
     if outcome == "L":
@@ -117,27 +68,43 @@ def parse_result(text: str):
     return first, second
 
 
+def clean_opponent(value: str) -> str:
+    value = re.sub(r"\s+", " ", value).strip(" |-*—–")
+    # Remove labels that can appear between the opponent and result in rendered text.
+    value = re.sub(r"\b(?:Result|Watch|Game Info|Tickets|Box Score)\b.*$", "", value, flags=re.I).strip()
+    return value
+
+
 def scrape_team(team: str, url: str) -> list[dict[str, str]]:
     html = fetch_html(url)
-    parser = TableParser()
+    parser = VisibleTextParser()
     parser.feed(html)
-    games: list[dict[str, str]] = []
+    text = " | ".join(parser.parts)
 
-    for row in parser.rows:
-        if len(row) < 3:
-            continue
-        game_date = parse_game_date(row[0])
+    # MaxPreps rendered schedule text contains sequences equivalent to:
+    # 8/20 7:30pm | @ Whiteville | L 53-8 | Box Score
+    pattern = re.compile(
+        r"(?P<month>\d{1,2})/(?P<day>\d{1,2})"
+        r"(?:\s*\|?\s*\d{1,2}:\d{2}\s*(?:am|pm))?"
+        r"(?P<middle>.{0,180}?)"
+        r"(?P<site>@|\bvs\.?\b)\s*\|?\s*"
+        r"(?P<opp>[A-Za-z0-9.'’&()\- ]{2,80}?)\s*\|\s*"
+        r"(?P<outcome>[WLT])\s*(?P<s1>\d+)\s*[-–—]\s*(?P<s2>\d+)",
+        re.I,
+    )
+
+    games: list[dict[str, str]] = []
+    for m in pattern.finditer(text):
+        game_date = parse_date(m.group("month"), m.group("day"))
         if game_date is None or not (START_DATE <= game_date <= END_DATE):
             continue
 
-        opponent, team_is_away = normalize_opponent(row[1])
-        if not opponent:
+        opponent = clean_opponent(m.group("opp"))
+        if not opponent or opponent.lower() == team.lower():
             continue
 
-        result = parse_result(row[2])
-        if result is None:
-            continue
-        team_score, opp_score = result
+        team_score, opp_score = team_scores(m.group("outcome"), int(m.group("s1")), int(m.group("s2")))
+        team_is_away = m.group("site") == "@"
 
         if team_is_away:
             away_team, away_score = team, team_score
@@ -146,16 +113,14 @@ def scrape_team(team: str, url: str) -> list[dict[str, str]]:
             away_team, away_score = opponent, opp_score
             home_team, home_score = team, team_score
 
-        games.append(
-            {
-                "date": game_date.isoformat(),
-                "away_team": away_team,
-                "away_score": str(away_score),
-                "home_team": home_team,
-                "home_score": str(home_score),
-                "source": url,
-            }
-        )
+        games.append({
+            "date": game_date.isoformat(),
+            "away_team": away_team,
+            "away_score": str(away_score),
+            "home_team": home_team,
+            "home_score": str(home_score),
+            "source": url,
+        })
 
     return games
 
@@ -175,7 +140,6 @@ def main() -> None:
         except Exception as exc:
             print(f"{team}: MaxPreps read failed: {exc}")
 
-    # Remove duplicate matchups when two CCS schools play each other.
     deduped: dict[str, dict[str, str]] = {}
     for row in rows:
         deduped[game_key(row)] = row
