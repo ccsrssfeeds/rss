@@ -4,6 +4,7 @@ import re
 from datetime import datetime, timedelta
 from email.utils import format_datetime
 from html.parser import HTMLParser
+from urllib.parse import quote
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
@@ -15,32 +16,73 @@ END_DATE = TODAY - timedelta(days=1)
 OUTPUT = "football_scores_last7.xml"
 FEED_URL = "https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml"
 
-TEAMS = [
-    ("West Columbus", "https://www.maxpreps.com/nc/cerro-gordo/west-columbus-vikings/football/schedule/"),
-    ("South Columbus", "https://www.maxpreps.com/nc/tabor-city/south-columbus-stallions/football/schedule/"),
-    ("East Columbus", "https://www.maxpreps.com/nc/lake-waccamaw/east-columbus-gators/football/schedule/"),
-]
+# Eastern / southeastern NC public-school football footprint plus Horry County, SC.
+REGIONAL_TEAMS = {
+    # Columbus / Bladen / Brunswick / Robeson
+    "whiteville", "east columbus", "south columbus", "west columbus",
+    "east bladen", "west bladen",
+    "north brunswick", "south brunswick", "west brunswick",
+    "fairmont", "lumberton", "purnell swett", "red springs", "st pauls", "st. pauls", "south robeson",
+    # New Hanover / Pender
+    "ashley", "hoggard", "laney", "new hanover",
+    "pender", "heide trask", "topsail",
+    # Sampson / Duplin
+    "clinton", "hobbton", "lakewood", "midway", "union",
+    "east duplin", "james kenan", "north duplin", "wallace-rose hill",
+    # Onslow / Carteret / Craven
+    "jacksonville", "northside", "southwest onslow", "white oak", "richlands", "swansboro", "dixon",
+    "west carteret", "east carteret", "croatan",
+    "new bern", "havelock", "west craven",
+    # Pitt / Lenoir / Wayne / nearby eastern NC
+    "d.h. conley", "jh rose", "j.h. rose", "north pitt", "south central", "ayden-grifton", "ayden - grifton", "farmville central",
+    "kinston", "north lenoir", "south lenoir",
+    "eastern wayne", "southern wayne", "c.b. aycock", "goldsboro", "rosewood", "spring creek",
+    "pamlico county", "jones senior",
+    # Horry County, SC
+    "aynor", "carolina forest", "conway", "green sea floyds", "loris", "myrtle beach",
+    "north myrtle beach", "socastee", "st james", "st. james",
+}
 
 
 class VisibleTextParser(HTMLParser):
     def __init__(self):
         super().__init__()
         self.parts: list[str] = []
+        self.li_depth = 0
+        self.li_parts: list[str] = []
+        self.lines: list[str] = []
         self.skip_depth = 0
 
     def handle_starttag(self, tag, attrs):
-        if tag.lower() in ("script", "style"):
+        tag = tag.lower()
+        if tag in ("script", "style"):
             self.skip_depth += 1
+        if tag == "li" and not self.skip_depth:
+            self.li_depth += 1
+            if self.li_depth == 1:
+                self.li_parts = []
 
     def handle_endtag(self, tag):
-        if tag.lower() in ("script", "style") and self.skip_depth:
+        tag = tag.lower()
+        if tag in ("script", "style") and self.skip_depth:
             self.skip_depth -= 1
+        if tag == "li" and self.li_depth:
+            if self.li_depth == 1:
+                line = " ".join(" ".join(self.li_parts).split())
+                if line:
+                    self.lines.append(line)
+                self.li_parts = []
+            self.li_depth -= 1
 
     def handle_data(self, data):
-        if not self.skip_depth:
-            text = " ".join(data.split())
-            if text:
-                self.parts.append(text)
+        if self.skip_depth:
+            return
+        text = " ".join(data.split())
+        if not text:
+            return
+        self.parts.append(text)
+        if self.li_depth:
+            self.li_parts.append(text)
 
 
 def fetch_html(url: str) -> str:
@@ -52,116 +94,120 @@ def fetch_html(url: str) -> str:
         return response.read().decode("utf-8", errors="replace")
 
 
-def parse_date(month: str, day: str):
-    try:
-        return datetime(TODAY.year, int(month), int(day)).date()
-    except ValueError:
+def normalize_team(name: str) -> str:
+    name = re.sub(r"\(#?\d+\)", "", name)
+    name = re.sub(r"^#\d+\s*", "", name)
+    name = name.replace("’", "'")
+    name = re.sub(r"[^A-Za-z0-9.&' -]+", " ", name)
+    return " ".join(name.lower().split()).strip(" -")
+
+
+def is_regional(name: str) -> bool:
+    n = normalize_team(name)
+    if n in REGIONAL_TEAMS:
+        return True
+    # tolerate punctuation / spacing variants
+    collapsed = re.sub(r"[^a-z0-9]", "", n)
+    return any(re.sub(r"[^a-z0-9]", "", team) == collapsed for team in REGIONAL_TEAMS)
+
+
+def parse_game_line(line: str):
+    line = " ".join(line.split())
+    if "Final" not in line:
         return None
 
+    # Common MaxPreps rendered form: 8 West Columbus 53 Whiteville Final
+    m = re.search(r"(?:^|\s)(\d{1,3})\s+(.+?)\s+(\d{1,3})\s+(.+?)\s+Final(?:\s|$)", line, re.I)
+    if not m:
+        return None
 
-def team_scores(outcome: str, first: int, second: int):
-    outcome = outcome.upper()
-    if outcome == "W":
-        return first, second
-    if outcome == "L":
-        return second, first
-    return first, second
+    away_score, away_team, home_score, home_team = m.groups()
+    away_team = away_team.strip(" -*|—–")
+    home_team = home_team.strip(" -*|—–")
+
+    if not away_team or not home_team:
+        return None
+    if not (is_regional(away_team) or is_regional(home_team)):
+        return None
+
+    return away_team, away_score, home_team, home_score
 
 
-def clean_opponent(value: str) -> str:
-    value = re.sub(r"\s+", " ", value).strip(" |-*—–")
-    # Remove labels that can appear between the opponent and result in rendered text.
-    value = re.sub(r"\b(?:Result|Watch|Game Info|Tickets|Box Score)\b.*$", "", value, flags=re.I).strip()
-    return value
-
-
-def scrape_team(team: str, url: str) -> list[dict[str, str]]:
+def scrape_scoreboard(state: str, game_date) -> list[dict[str, str]]:
+    date_text = f"{game_date.month}/{game_date.day}/{game_date.year}"
+    url = f"https://www.maxpreps.com/{state}/football/scores/?date={quote(date_text)}&mobile=1"
     html = fetch_html(url)
     parser = VisibleTextParser()
     parser.feed(html)
-    text = " | ".join(parser.parts)
 
-    # MaxPreps rendered schedule text contains sequences equivalent to:
-    # 8/20 7:30pm | @ Whiteville | L 53-8 | Box Score
-    pattern = re.compile(
-        r"(?P<month>\d{1,2})/(?P<day>\d{1,2})"
-        r"(?:\s*\|?\s*\d{1,2}:\d{2}\s*(?:am|pm))?"
-        r"(?P<middle>.{0,180}?)"
-        r"(?P<site>@|\bvs\.?\b)\s*\|?\s*"
-        r"(?P<opp>[A-Za-z0-9.'’&()\- ]{2,80}?)\s*\|\s*"
-        r"(?P<outcome>[WLT])\s*(?P<s1>\d+)\s*[-–—]\s*(?P<s2>\d+)",
-        re.I,
-    )
+    candidates = list(parser.lines)
+    # Fallback for page versions where games are not wrapped cleanly in <li> tags.
+    candidates.extend(re.split(r"(?<=Final)", " ".join(parser.parts)))
 
     games: list[dict[str, str]] = []
-    for m in pattern.finditer(text):
-        game_date = parse_date(m.group("month"), m.group("day"))
-        if game_date is None or not (START_DATE <= game_date <= END_DATE):
+    seen: set[tuple[str, str, str, str]] = set()
+    for line in candidates:
+        parsed = parse_game_line(line)
+        if not parsed:
             continue
-
-        opponent = clean_opponent(m.group("opp"))
-        if not opponent or opponent.lower() == team.lower():
+        away_team, away_score, home_team, home_score = parsed
+        key = (normalize_team(away_team), away_score, normalize_team(home_team), home_score)
+        if key in seen:
             continue
-
-        team_score, opp_score = team_scores(m.group("outcome"), int(m.group("s1")), int(m.group("s2")))
-        team_is_away = m.group("site") == "@"
-
-        if team_is_away:
-            away_team, away_score = team, team_score
-            home_team, home_score = opponent, opp_score
-        else:
-            away_team, away_score = opponent, opp_score
-            home_team, home_score = team, team_score
-
+        seen.add(key)
         games.append({
             "date": game_date.isoformat(),
             "away_team": away_team,
-            "away_score": str(away_score),
+            "away_score": away_score,
             "home_team": home_team,
-            "home_score": str(home_score),
+            "home_score": home_score,
             "source": url,
         })
-
     return games
 
 
 def game_key(row: dict[str, str]) -> str:
-    teams = sorted([row["away_team"].lower(), row["home_team"].lower()])
+    teams = sorted([normalize_team(row["away_team"]), normalize_team(row["home_team"])])
     return f"{row['date']}|{'|'.join(teams)}"
 
 
 def main() -> None:
     rows: list[dict[str, str]] = []
-    for team, url in TEAMS:
-        try:
-            found = scrape_team(team, url)
-            print(f"{team}: found {len(found)} qualifying scored games")
-            rows.extend(found)
-        except Exception as exc:
-            print(f"{team}: MaxPreps read failed: {exc}")
+    game_date = START_DATE
+    while game_date <= END_DATE:
+        for state in ("nc", "sc"):
+            try:
+                found = scrape_scoreboard(state, game_date)
+                print(f"{state.upper()} {game_date}: found {len(found)} regional finals")
+                rows.extend(found)
+            except Exception as exc:
+                print(f"{state.upper()} {game_date}: scoreboard read failed: {exc}")
+        game_date += timedelta(days=1)
 
+    # One game only once, even when an NC/SC crossover appears on both state boards.
     deduped: dict[str, dict[str, str]] = {}
     for row in rows:
         deduped[game_key(row)] = row
 
     games = list(deduped.values())
-    games.sort(key=lambda r: (r["date"], r["away_team"].lower(), r["home_team"].lower()), reverse=True)
+    games.sort(key=lambda r: (r["date"], normalize_team(r["away_team"]), normalize_team(r["home_team"])), reverse=True)
 
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
-    ET.SubElement(channel, "title").text = "Columbus County Schools Football Scores — Last 7 Days"
+    ET.SubElement(channel, "title").text = "Eastern NC & Horry County Football Scores — Last 7 Days"
     ET.SubElement(channel, "link").text = FEED_URL
     ET.SubElement(channel, "description").text = (
-        "Varsity football final scores for West Columbus, South Columbus, and East Columbus "
-        "from the previous 7 calendar days, excluding today. Source: published MaxPreps schedule pages."
+        "Varsity high school football final scores for the Eastern North Carolina regional school list "
+        "and Horry County, South Carolina, from the previous 7 calendar days, excluding today. "
+        "Source: dated MaxPreps state scoreboards."
     )
     ET.SubElement(channel, "language").text = "en-us"
     ET.SubElement(channel, "lastBuildDate").text = format_datetime(datetime.now(TZ))
 
     for row in games:
         game_date = datetime.strptime(row["date"], "%Y-%m-%d").date()
-        date_text = game_date.strftime("%a %b %d").replace(" 0", " ")
-        title = f"{date_text} — {row['away_team']} {row['away_score']} — {row['home_team']} {row['home_score']}"
+        date_label = game_date.strftime("%a %b %d").replace(" 0", " ")
+        title = f"{date_label} — {row['away_team']} {row['away_score']} — {row['home_team']} {row['home_score']}"
 
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = title
