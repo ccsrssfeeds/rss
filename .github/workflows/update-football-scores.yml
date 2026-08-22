@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'manual_scores.csv'
+      - 'google_sheet_url.txt'
       - 'build_football_scores.py'
       - '.github/workflows/update-football-scores.yml'
   schedule:
