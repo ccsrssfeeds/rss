@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:02:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:10:37 -0400</lastBuildDate>
     <item>
       <title>8/21 — West Brunswick 41 — South Brunswick 20</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=8/21/2026&amp;mobile=1</link>
       <description>Final: 8/21 — West Brunswick 41 — South Brunswick 20</description>
-      <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=west%20brunswick&amp;size=256</awayLogo>
+      <awayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</awayLogo>
       <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=south%20brunswick&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=west%20brunswick&amp;size=256" role="away" />
+      <media:thumbnail url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" role="away" />
       <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=south%20brunswick&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=west%20brunswick&amp;size=256" medium="image" />
+      <media:content url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" medium="image" />
       <media:content url="https://api.dicebear.com/9.x/initials/png?seed=south%20brunswick&amp;size=256" medium="image" />
       <guid isPermaLink="false">2026-08-21|south brunswick|west brunswick</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
@@ -23,12 +23,12 @@
       <title>8/21 — Socastee 7 — NMBHS 31</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=8/21/2026&amp;mobile=1</link>
       <description>Final: 8/21 — Socastee 7 — NMBHS 31</description>
-      <awayLogo>https://api.dicebear.com/9.x/initials/png?seed=socastee&amp;size=256</awayLogo>
-      <homeLogo>https://api.dicebear.com/9.x/initials/png?seed=north%20myrtle%20beach&amp;size=256</homeLogo>
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=socastee&amp;size=256" role="away" />
-      <media:thumbnail url="https://api.dicebear.com/9.x/initials/png?seed=north%20myrtle%20beach&amp;size=256" role="home" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=socastee&amp;size=256" medium="image" />
-      <media:content url="https://api.dicebear.com/9.x/initials/png?seed=north%20myrtle%20beach&amp;size=256" medium="image" />
+      <awayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayLogo>
+      <homeLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</homeLogo>
+      <media:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="away" />
+      <media:thumbnail url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" role="home" />
+      <media:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
+      <media:content url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" medium="image" />
       <guid isPermaLink="false">2026-08-21|north myrtle beach|socastee</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
     </item>
