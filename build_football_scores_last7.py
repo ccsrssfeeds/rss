@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import html as html_lib
 import re
 from datetime import datetime, timedelta
 from email.utils import format_datetime
@@ -15,6 +16,8 @@ START_DATE = TODAY - timedelta(days=7)
 END_DATE = TODAY - timedelta(days=1)
 OUTPUT = "football_scores_last7.xml"
 FEED_URL = "https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml"
+MEDIA_NS = "http://search.yahoo.com/mrss/"
+ET.register_namespace("media", MEDIA_NS)
 
 REGIONAL_TEAMS = {
     "whiteville", "east columbus", "south columbus", "west columbus",
@@ -36,16 +39,26 @@ REGIONAL_TEAMS = {
     "north myrtle beach", "socastee", "st james", "st. james",
 }
 
+# MaxPreps sometimes shortens these names on scoreboards.
+TEAM_ALIASES = {
+    "nmbhs": "north myrtle beach",
+    "gsfhs": "green sea floyds",
+    "jh rose": "j.h. rose",
+}
 
-class VisibleTextParser(HTMLParser):
+
+class ScoreboardParser(HTMLParser):
     def __init__(self):
         super().__init__()
         self.parts: list[str] = []
         self.li_depth = 0
         self.li_parts: list[str] = []
         self.li_images: list[tuple[str, str]] = []
-        self.entries: list[tuple[str, list[tuple[str, str]]]] = []
+        self.li_links: list[tuple[str, str]] = []
+        self.entries: list[tuple[str, list[tuple[str, str]], list[tuple[str, str]]]] = []
         self.skip_depth = 0
+        self.anchor_href = ""
+        self.anchor_parts: list[str] = []
 
     def handle_starttag(self, tag, attrs):
         tag = tag.lower()
@@ -59,6 +72,7 @@ class VisibleTextParser(HTMLParser):
             if self.li_depth == 1:
                 self.li_parts = []
                 self.li_images = []
+                self.li_links = []
 
         if tag == "img" and self.li_depth and not self.skip_depth:
             alt = (attrs_dict.get("alt") or "").strip()
@@ -66,10 +80,15 @@ class VisibleTextParser(HTMLParser):
                 attrs_dict.get("src")
                 or attrs_dict.get("data-src")
                 or attrs_dict.get("data-lazy-src")
+                or attrs_dict.get("data-original")
                 or ""
             ).strip()
             if src:
                 self.li_images.append((alt, src))
+
+        if tag == "a" and self.li_depth and not self.skip_depth:
+            self.anchor_href = (attrs_dict.get("href") or "").strip()
+            self.anchor_parts = []
 
     def handle_endtag(self, tag):
         tag = tag.lower()
@@ -77,13 +96,21 @@ class VisibleTextParser(HTMLParser):
             self.skip_depth -= 1
             return
 
+        if tag == "a" and self.li_depth and self.anchor_href:
+            anchor_text = " ".join(" ".join(self.anchor_parts).split())
+            if anchor_text:
+                self.li_links.append((anchor_text, self.anchor_href))
+            self.anchor_href = ""
+            self.anchor_parts = []
+
         if tag == "li" and self.li_depth:
             if self.li_depth == 1:
                 line = " ".join(" ".join(self.li_parts).split())
                 if line:
-                    self.entries.append((line, list(self.li_images)))
+                    self.entries.append((line, list(self.li_images), list(self.li_links)))
                 self.li_parts = []
                 self.li_images = []
+                self.li_links = []
             self.li_depth -= 1
 
     def handle_data(self, data):
@@ -95,6 +122,34 @@ class VisibleTextParser(HTMLParser):
         self.parts.append(text)
         if self.li_depth:
             self.li_parts.append(text)
+        if self.anchor_href:
+            self.anchor_parts.append(text)
+
+
+class TeamPageParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.images: list[tuple[str, str]] = []
+        self.meta_images: list[str] = []
+
+    def handle_starttag(self, tag, attrs):
+        attrs_dict = dict(attrs)
+        if tag.lower() == "img":
+            alt = (attrs_dict.get("alt") or "").strip()
+            src = (
+                attrs_dict.get("src")
+                or attrs_dict.get("data-src")
+                or attrs_dict.get("data-lazy-src")
+                or attrs_dict.get("data-original")
+                or ""
+            ).strip()
+            if src:
+                self.images.append((alt, src))
+        elif tag.lower() == "meta":
+            prop = (attrs_dict.get("property") or attrs_dict.get("name") or "").lower()
+            content = (attrs_dict.get("content") or "").strip()
+            if content and prop in {"og:image", "twitter:image", "twitter:image:src"}:
+                self.meta_images.append(content)
 
 
 def fetch_html(url: str) -> str:
@@ -111,7 +166,8 @@ def normalize_team(name: str) -> str:
     name = re.sub(r"^#\d+\s*", "", name)
     name = name.replace("’", "'")
     name = re.sub(r"[^A-Za-z0-9.&' -]+", " ", name)
-    return " ".join(name.lower().split()).strip(" -")
+    n = " ".join(name.lower().split()).strip(" -")
+    return TEAM_ALIASES.get(n, n)
 
 
 def is_regional(name: str) -> bool:
@@ -143,31 +199,92 @@ def parse_game_line(line: str):
     return away_team, away_score, home_team, home_score
 
 
-def pick_logo(team: str, images: list[tuple[str, str]], base_url: str) -> str:
-    target = re.sub(r"[^a-z0-9]", "", normalize_team(team))
-    if not target:
-        return ""
+def same_team(a: str, b: str) -> bool:
+    aa = re.sub(r"[^a-z0-9]", "", normalize_team(a))
+    bb = re.sub(r"[^a-z0-9]", "", normalize_team(b))
+    return bool(aa and bb and (aa == bb or aa in bb or bb in aa))
 
+
+def pick_inline_logo(team: str, images: list[tuple[str, str]], base_url: str) -> str:
     for alt, src in images:
-        alt_norm = re.sub(r"[^a-z0-9]", "", normalize_team(alt))
-        if target and alt_norm and (target in alt_norm or alt_norm in target):
+        if same_team(team, alt):
             return urljoin(base_url, src)
     return ""
 
 
-def scrape_scoreboard(state: str, game_date) -> list[dict[str, str]]:
+def pick_team_page(team: str, links: list[tuple[str, str]], base_url: str) -> str:
+    for text, href in links:
+        if same_team(team, text) and "/football" in href:
+            return urljoin(base_url, href)
+    for text, href in links:
+        if same_team(team, text):
+            return urljoin(base_url, href)
+    return ""
+
+
+def fallback_logo(team: str) -> str:
+    # Always provides a valid image URL if a site's official mark cannot be resolved.
+    return f"https://api.dicebear.com/9.x/initials/png?seed={quote(normalize_team(team))}&size=256"
+
+
+def resolve_team_logo(team: str, team_url: str, cache: dict[str, str]) -> str:
+    key = normalize_team(team)
+    if key in cache:
+        return cache[key]
+
+    if not team_url:
+        cache[key] = fallback_logo(team)
+        return cache[key]
+
+    try:
+        page = fetch_html(team_url)
+        parser = TeamPageParser()
+        parser.feed(page)
+
+        # Prefer image tags whose alt text identifies the team/school/logo.
+        for alt, src in parser.images:
+            alt_lower = alt.lower()
+            if same_team(team, alt) or ("logo" in alt_lower and key.split()[0] in alt_lower):
+                cache[key] = urljoin(team_url, src)
+                return cache[key]
+
+        # Look for structured/logo URL fields MaxPreps may emit in page JSON.
+        patterns = [
+            r'"(?:schoolLogoUrl|teamLogoUrl|logoUrl|logo)"\s*:\s*"([^"]+)"',
+            r'"(?:imageUrl|image)"\s*:\s*"([^"]*logo[^"]*)"',
+        ]
+        for pattern in patterns:
+            m = re.search(pattern, page, re.I)
+            if m:
+                candidate = html_lib.unescape(m.group(1)).replace("\\/", "/")
+                if candidate.startswith("http") or candidate.startswith("//") or candidate.startswith("/"):
+                    cache[key] = urljoin(team_url, candidate)
+                    return cache[key]
+
+        # Last official-page fallback: social preview image.
+        if parser.meta_images:
+            cache[key] = urljoin(team_url, parser.meta_images[0])
+            return cache[key]
+    except Exception as exc:
+        print(f"{team}: logo lookup failed: {exc}")
+
+    cache[key] = fallback_logo(team)
+    return cache[key]
+
+
+def scrape_scoreboard(state: str, game_date, logo_cache: dict[str, str]) -> list[dict[str, str]]:
     date_text = f"{game_date.month}/{game_date.day}/{game_date.year}"
     url = f"https://www.maxpreps.com/{state}/football/scores/?date={quote(date_text)}&mobile=1"
-    html = fetch_html(url)
-    parser = VisibleTextParser()
-    parser.feed(html)
+    page = fetch_html(url)
+    parser = ScoreboardParser()
+    parser.feed(page)
 
-    candidates: list[tuple[str, list[tuple[str, str]]]] = list(parser.entries)
-    candidates.extend((text, []) for text in re.split(r"(?<=Final)", " ".join(parser.parts)))
+    candidates: list[tuple[str, list[tuple[str, str]], list[tuple[str, str]]]] = list(parser.entries)
+    candidates.extend((text, [], []) for text in re.split(r"(?<=Final)", " ".join(parser.parts)))
 
     games: list[dict[str, str]] = []
     seen: set[tuple[str, str, str, str]] = set()
-    for line, images in candidates:
+    for line, images, links in candidates:
         parsed = parse_game_line(line)
         if not parsed:
             continue
@@ -176,14 +293,24 @@ def scrape_scoreboard(state: str, game_date) -> list[dict[str, str]]:
         if key in seen:
             continue
         seen.add(key)
+
+        away_logo = pick_inline_logo(away_team, images, url)
+        home_logo = pick_inline_logo(home_team, images, url)
+        away_page = pick_team_page(away_team, links, url)
+        home_page = pick_team_page(home_team, links, url)
+        if not away_logo:
+            away_logo = resolve_team_logo(away_team, away_page, logo_cache)
+        if not home_logo:
+            home_logo = resolve_team_logo(home_team, home_page, logo_cache)
+
         games.append({
             "date": game_date.isoformat(),
             "away_team": away_team,
             "away_score": away_score,
             "home_team": home_team,
             "home_score": home_score,
-            "away_logo": pick_logo(away_team, images, url),
-            "home_logo": pick_logo(home_team, images, url),
+            "away_logo": away_logo,
+            "home_logo": home_logo,
             "source": url,
         })
     return games
@@ -196,11 +323,12 @@ def game_key(row: dict[str, str]) -> str:
 
 def main() -> None:
     rows: list[dict[str, str]] = []
+    logo_cache: dict[str, str] = {}
     game_date = START_DATE
     while game_date <= END_DATE:
         for state in ("nc", "sc"):
             try:
-                found = scrape_scoreboard(state, game_date)
+                found = scrape_scoreboard(state, game_date, logo_cache)
                 print(f"{state.upper()} {game_date}: found {len(found)} regional finals")
                 rows.extend(found)
             except Exception as exc:
@@ -242,8 +370,15 @@ def main() -> None:
         ET.SubElement(item, "title").text = title
         ET.SubElement(item, "link").text = row["source"]
         ET.SubElement(item, "description").text = f"Final: {title}"
-        ET.SubElement(item, "awayLogo").text = row.get("away_logo", "")
-        ET.SubElement(item, "homeLogo").text = row.get("home_logo", "")
+        ET.SubElement(item, "awayLogo").text = row["away_logo"]
+        ET.SubElement(item, "homeLogo").text = row["home_logo"]
+
+        # Standard Media RSS image fields improve compatibility with feed readers/displays.
+        ET.SubElement(item, f"{{{MEDIA_NS}}}thumbnail", url=row["away_logo"], role="away")
+        ET.SubElement(item, f"{{{MEDIA_NS}}}thumbnail", url=row["home_logo"], role="home")
+        ET.SubElement(item, f"{{{MEDIA_NS}}}content", url=row["away_logo"], medium="image")
+        ET.SubElement(item, f"{{{MEDIA_NS}}}content", url=row["home_logo"], medium="image")
+
         ET.SubElement(item, "guid", isPermaLink="false").text = game_key(row)
         item_dt = datetime.combine(game_date, datetime.min.time(), tzinfo=TZ)
         ET.SubElement(item, "pubDate").text = format_datetime(item_dt)
