@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:55:43 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:54:17 -0400</lastBuildDate>
     <item>
       <title>8/21 — West Brunswick 41 — South Brunswick 20</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=8/21/2026&amp;mobile=1</link>
@@ -288,6 +288,17 @@
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
+      <title>8/19 — Jacksonville 49 — West Carteret 0</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/19/2026&amp;mobile=1</link>
+      <description>Final: 8/19 — Jacksonville 49 — West Carteret 0</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-19|jacksonville|west carteret</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
       <title>8/19 — (#20) Carolina Forest 16 — West Florence 14</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=8/19/2026&amp;mobile=1</link>
       <description>Final: 8/19 — (#20) Carolina Forest 16 — West Florence 14</description>
@@ -297,6 +308,17 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-08-19|carolina forest|west florence</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/18 — Jacksonville 49 — West Carteret 0</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/18/2026&amp;mobile=1</link>
+      <description>Final: 8/18 — Jacksonville 49 — West Carteret 0</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-18|jacksonville|west carteret</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
       <title>8/18 — (#20) Carolina Forest 16 — West Florence 14</title>
@@ -310,6 +332,17 @@
       <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
+      <title>8/17 — Jacksonville 49 — West Carteret 0</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/17/2026&amp;mobile=1</link>
+      <description>Final: 8/17 — Jacksonville 49 — West Carteret 0</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-17|jacksonville|west carteret</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
       <title>8/17 — (#20) Carolina Forest 16 — West Florence 14</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=8/17/2026&amp;mobile=1</link>
       <description>Final: 8/17 — (#20) Carolina Forest 16 — West Florence 14</description>
@@ -319,6 +352,17 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-08-17|carolina forest|west florence</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/16 — Jacksonville 49 — West Carteret 0</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/16/2026&amp;mobile=1</link>
+      <description>Final: 8/16 — Jacksonville 49 — West Carteret 0</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-16|jacksonville|west carteret</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
       <title>8/16 — (#20) Carolina Forest 16 — West Florence 14</title>
