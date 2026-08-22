@@ -22,6 +22,8 @@ jobs:
       - run: python build_feed.py
       - name: Publish fresh endpoint
         run: cp feed.xml sports.xml
+      - name: Remove past events
+        run: python prune_feed.py
       - name: Commit updated feeds
         run: |
           git config user.name "CCS RSS Bot"
