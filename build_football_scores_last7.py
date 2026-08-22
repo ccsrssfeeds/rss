@@ -39,7 +39,6 @@ TEAM_ALIASES = {
     "jh rose": "j.h. rose",
 }
 
-# Verified public image URLs. These override generated initials.
 VERIFIED_LOGOS = {
     "north myrtle beach": "https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png",
     "socastee": "https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png",
@@ -190,10 +189,6 @@ def pick_team_page(team, links, base_url):
     return ""
 
 
-def fallback_logo(team: str) -> str:
-    return f"https://api.dicebear.com/9.x/initials/png?seed={quote(normalize_team(team))}&size=256"
-
-
 def resolve_team_logo(team: str, team_url: str, cache: dict[str, str]) -> str:
     key = normalize_team(team)
     if key in VERIFIED_LOGOS:
@@ -201,8 +196,8 @@ def resolve_team_logo(team: str, team_url: str, cache: dict[str, str]) -> str:
     if key in cache:
         return cache[key]
     if not team_url:
-        cache[key] = fallback_logo(team)
-        return cache[key]
+        cache[key] = ""
+        return ""
     try:
         page = fetch_html(team_url)
         parser = TeamPageParser()
@@ -224,8 +219,8 @@ def resolve_team_logo(team: str, team_url: str, cache: dict[str, str]) -> str:
             return cache[key]
     except Exception as exc:
         print(f"{team}: logo lookup failed: {exc}")
-    cache[key] = fallback_logo(team)
-    return cache[key]
+    cache[key] = ""
+    return ""
 
 
 def scrape_scoreboard(state: str, game_date, logo_cache: dict[str, str]):
@@ -305,10 +300,14 @@ def main():
         ET.SubElement(item, "description").text = f"Final: {title}"
         ET.SubElement(item, "awayLogo").text = row["away_logo"]
         ET.SubElement(item, "homeLogo").text = row["home_logo"]
-        ET.SubElement(item, f"{{{MEDIA_NS}}}thumbnail", url=row["away_logo"], role="away")
-        ET.SubElement(item, f"{{{MEDIA_NS}}}thumbnail", url=row["home_logo"], role="home")
-        ET.SubElement(item, f"{{{MEDIA_NS}}}content", url=row["away_logo"], medium="image")
-        ET.SubElement(item, f"{{{MEDIA_NS}}}content", url=row["home_logo"], medium="image")
+        ET.SubElement(item, "awayImageUrl").text = row["away_logo"]
+        ET.SubElement(item, "homeImageUrl").text = row["home_logo"]
+        if row["away_logo"]:
+            ET.SubElement(item, f"{{{MEDIA_NS}}}thumbnail", url=row["away_logo"], role="away")
+            ET.SubElement(item, f"{{{MEDIA_NS}}}content", url=row["away_logo"], medium="image")
+        if row["home_logo"]:
+            ET.SubElement(item, f"{{{MEDIA_NS}}}thumbnail", url=row["home_logo"], role="home")
+            ET.SubElement(item, f"{{{MEDIA_NS}}}content", url=row["home_logo"], medium="image")
         ET.SubElement(item, "guid", isPermaLink="false").text = game_key(row)
         item_dt = datetime.combine(gd, datetime.min.time(), tzinfo=TZ)
         ET.SubElement(item, "pubDate").text = format_datetime(item_dt)
