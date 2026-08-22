@@ -106,7 +106,6 @@ def is_regional(name: str) -> bool:
     n = normalize_team(name)
     if n in REGIONAL_TEAMS:
         return True
-    # tolerate punctuation / spacing variants
     collapsed = re.sub(r"[^a-z0-9]", "", n)
     return any(re.sub(r"[^a-z0-9]", "", team) == collapsed for team in REGIONAL_TEAMS)
 
@@ -116,7 +115,6 @@ def parse_game_line(line: str):
     if "Final" not in line:
         return None
 
-    # Common MaxPreps rendered form: 8 West Columbus 53 Whiteville Final
     m = re.search(r"(?:^|\s)(\d{1,3})\s+(.+?)\s+(\d{1,3})\s+(.+?)\s+Final(?:\s|$)", line, re.I)
     if not m:
         return None
@@ -141,7 +139,6 @@ def scrape_scoreboard(state: str, game_date) -> list[dict[str, str]]:
     parser.feed(html)
 
     candidates = list(parser.lines)
-    # Fallback for page versions where games are not wrapped cleanly in <li> tags.
     candidates.extend(re.split(r"(?<=Final)", " ".join(parser.parts)))
 
     games: list[dict[str, str]] = []
@@ -184,7 +181,6 @@ def main() -> None:
                 print(f"{state.upper()} {game_date}: scoreboard read failed: {exc}")
         game_date += timedelta(days=1)
 
-    # One game only once, even when an NC/SC crossover appears on both state boards.
     deduped: dict[str, dict[str, str]] = {}
     for row in rows:
         deduped[game_key(row)] = row
@@ -198,8 +194,7 @@ def main() -> None:
     ET.SubElement(channel, "link").text = FEED_URL
     ET.SubElement(channel, "description").text = (
         "Varsity high school football final scores for the Eastern North Carolina regional school list "
-        "and Horry County, South Carolina, from the previous 7 calendar days, excluding today. "
-        "Source: dated MaxPreps state scoreboards."
+        "and Horry County, South Carolina, from the previous 7 calendar days, excluding today."
     )
     ET.SubElement(channel, "language").text = "en-us"
     ET.SubElement(channel, "lastBuildDate").text = format_datetime(datetime.now(TZ))
@@ -212,7 +207,7 @@ def main() -> None:
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = title
         ET.SubElement(item, "link").text = row["source"]
-        ET.SubElement(item, "description").text = f"Final: {title}. Source: MaxPreps."
+        ET.SubElement(item, "description").text = f"Final: {title}"
         ET.SubElement(item, "guid", isPermaLink="false").text = game_key(row)
         item_dt = datetime.combine(game_date, datetime.min.time(), tzinfo=TZ)
         ET.SubElement(item, "pubDate").text = format_datetime(item_dt)
