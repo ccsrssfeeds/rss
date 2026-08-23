@@ -16,7 +16,10 @@ SHEET_URL_FILE = Path("google_sheet_url.txt")
 OUTPUT = Path("football_scores.xml")
 FEED_URL = "https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml"
 
-LIVE_WORDS = ("Q1", "Q2", "Q3", "Q4", "1ST", "2ND", "3RD", "4TH", "HALF", "HALFTIME", "OT", "LIVE", "IN PROGRESS", "FINAL")
+LIVE_WORDS = (
+    "Q1", "Q2", "Q3", "Q4", "1ST", "2ND", "3RD", "4TH",
+    "HALF", "HALFTIME", "OT", "LIVE", "IN PROGRESS", "FINAL"
+)
 
 
 def clean(value: str | None) -> str:
@@ -65,7 +68,10 @@ def include_row(row: dict[str, str]) -> bool:
 
 
 def game_key(row: dict[str, str]) -> str:
-    teams = sorted([clean(row.get("away_team")).lower(), clean(row.get("home_team")).lower()])
+    teams = sorted([
+        clean(row.get("away_team")).lower(),
+        clean(row.get("home_team")).lower(),
+    ])
     return f"{TODAY}|{'|'.join(teams)}"
 
 
@@ -102,7 +108,11 @@ def main() -> None:
     def sort_key(row: dict[str, str]):
         status = clean(row.get("status")).upper()
         final = status.startswith("FINAL")
-        return (final, clean(row.get("away_team")).lower(), clean(row.get("home_team")).lower())
+        return (
+            final,
+            clean(row.get("away_team")).lower(),
+            clean(row.get("home_team")).lower(),
+        )
 
     games.sort(key=sort_key)
 
@@ -110,7 +120,10 @@ def main() -> None:
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = "Eastern NC & Horry County Football Scores"
     ET.SubElement(channel, "link").text = FEED_URL
-    ET.SubElement(channel, "description").text = "Today's high school football scores and live game progress. Google Sheet manual entries enabled."
+    ET.SubElement(channel, "description").text = (
+        "Today's high school football scores and live game progress. "
+        "Includes structured fields for vMix."
+    )
     ET.SubElement(channel, "language").text = "en-us"
     ET.SubElement(channel, "lastBuildDate").text = format_datetime(datetime.now(TZ))
 
@@ -121,14 +134,26 @@ def main() -> None:
         home_score = clean(row.get("home_score"))
         status = clean(row.get("status")).upper() or "LIVE"
 
-        score_text = f"{away} {away_score} — {home} {home_score}" if away_score and home_score else f"{away} at {home}"
+        score_text = (
+            f"{away} {away_score} — {home} {home_score}"
+            if away_score and home_score
+            else f"{away} at {home}"
+        )
         title = f"{status} — {score_text}"
 
         item = ET.SubElement(channel, "item")
+        # Standard RSS fields.
         ET.SubElement(item, "title").text = title
         ET.SubElement(item, "description").text = title
         ET.SubElement(item, "guid", isPermaLink="false").text = game_key(row)
         ET.SubElement(item, "pubDate").text = format_datetime(datetime.now(TZ))
+
+        # Structured fields for vMix XML Data Source mapping.
+        ET.SubElement(item, "status").text = status
+        ET.SubElement(item, "awayTeam").text = away
+        ET.SubElement(item, "awayScore").text = away_score
+        ET.SubElement(item, "homeTeam").text = home
+        ET.SubElement(item, "homeScore").text = home_score
 
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
