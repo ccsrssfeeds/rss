@@ -2,9 +2,11 @@ from __future__ import annotations
 
 import csv
 import io
+import time
 from datetime import datetime
 from email.utils import format_datetime
 from pathlib import Path
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
@@ -75,28 +77,51 @@ def game_key(row: dict[str, str]) -> str:
     return f"{TODAY}|{'|'.join(teams)}"
 
 
+def cache_busted_url(url: str) -> str:
+    """Add/replace a timestamp query parameter to avoid stale published CSV responses."""
+    parts = urlsplit(url)
+    query = dict(parse_qsl(parts.query, keep_blank_values=True))
+    query["_cb"] = str(int(time.time()))
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), parts.fragment))
+
+
 def load_rows() -> list[dict[str, str]]:
     # Primary source: published Google Sheet CSV URL.
     if SHEET_URL_FILE.exists():
         sheet_url = clean(SHEET_URL_FILE.read_text(encoding="utf-8"))
         if sheet_url and not sheet_url.startswith("PASTE_"):
             try:
-                req = Request(sheet_url, headers={"User-Agent": "Mozilla/5.0"})
+                fresh_url = cache_busted_url(sheet_url)
+                req = Request(
+                    fresh_url,
+                    headers={
+                        "User-Agent": "Mozilla/5.0",
+                        "Cache-Control": "no-cache, no-store, must-revalidate",
+                        "Pragma": "no-cache",
+                        "Expires": "0",
+                    },
+                )
                 with urlopen(req, timeout=20) as response:
                     text = response.read().decode("utf-8-sig")
-                return list(csv.DictReader(io.StringIO(text)))
+                rows = list(csv.DictReader(io.StringIO(text)))
+                print(f"Loaded {len(rows)} rows from Google Sheet CSV")
+                return rows
             except Exception as exc:
                 print(f"Google Sheet read failed; using local fallback: {exc}")
 
     # Fallback while the Google Sheet is being connected.
     if LOCAL_INPUT.exists():
         with LOCAL_INPUT.open(newline="", encoding="utf-8-sig") as f:
-            return list(csv.DictReader(f))
+            rows = list(csv.DictReader(f))
+            print(f"Loaded {len(rows)} rows from local fallback CSV")
+            return rows
     return []
 
 
 def main() -> None:
-    rows = [r for r in load_rows() if include_row(r)]
+    loaded_rows = load_rows()
+    rows = [r for r in loaded_rows if include_row(r)]
+    print(f"Included {len(rows)} current-score rows for {TODAY}")
 
     # Last row for the same matchup wins, so editing/updating a game does not duplicate it.
     deduped: dict[str, dict[str, str]] = {}
