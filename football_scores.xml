@@ -5,17 +5,17 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 17:01:09 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 17:42:50 -0400</lastBuildDate>
     <item>
-      <title>Q2 — test1 1 — test2 2</title>
-      <description>Q2 — test1 1 — test2 2</description>
+      <title>Q2 — test1 1 — test2 5</title>
+      <description>Q2 — test1 1 — test2 5</description>
       <guid isPermaLink="false">2026-08-23|test1|test2</guid>
-      <pubDate>Sun, 23 Aug 2026 17:01:09 -0400</pubDate>
+      <pubDate>Sun, 23 Aug 2026 17:42:50 -0400</pubDate>
       <status>Q2</status>
       <awayTeam>test1</awayTeam>
       <awayScore>1</awayScore>
       <homeTeam>test2</homeTeam>
-      <homeScore>2</homeScore>
+      <homeScore>5</homeScore>
       <source>manual</source>
     </item>
   </channel>
