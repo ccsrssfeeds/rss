@@ -44,6 +44,7 @@ def valid_score(value: str) -> bool:
 
 
 def include_row(row: dict[str, str]) -> bool:
+    # Current-score feed must only contain games dated TODAY.
     if normalize_date(row.get("date", "")) != TODAY:
         return False
 
@@ -51,9 +52,16 @@ def include_row(row: dict[str, str]) -> bool:
     away_score = clean(row.get("away_score"))
     home_score = clean(row.get("home_score"))
 
-    has_scores = valid_score(away_score) and valid_score(home_score)
+    # Do not show scheduled/pregame rows just because a score cell contains 0.
+    # A game must explicitly be marked live/in progress/final.
     has_progress = any(word in status for word in LIVE_WORDS)
-    return has_scores or has_progress
+    if not has_progress:
+        return False
+
+    # Live/final games may have scores, but status is the deciding factor.
+    if away_score or home_score:
+        return valid_score(away_score) and valid_score(home_score)
+    return True
 
 
 def game_key(row: dict[str, str]) -> str:
