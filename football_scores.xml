@@ -3,8 +3,8 @@
   <channel>
     <title>Eastern NC &amp; Horry County Football Scores</title>
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
-    <description>Today's high school football scores and live game progress. Google Sheet manual entries enabled.</description>
+    <description>Today's high school football scores and live game progress. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 16:38:06 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:46:58 -0400</lastBuildDate>
   </channel>
 </rss>
