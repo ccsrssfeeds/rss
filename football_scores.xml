@@ -5,6 +5,42 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:57:40 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:48:03 -0400</lastBuildDate>
+    <item>
+      <title>LIVE — SOHS 7 — Richlands 0</title>
+      <description>LIVE — SOHS 7 — Richlands 0</description>
+      <guid isPermaLink="false">2026-08-24|richlands|sohs</guid>
+      <pubDate>Mon, 24 Aug 2026 19:48:03 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>SOHS</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>Richlands</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — South Central 16 — Kinston 0</title>
+      <description>LIVE — South Central 16 — Kinston 0</description>
+      <guid isPermaLink="false">2026-08-24|kinston|south central</guid>
+      <pubDate>Mon, 24 Aug 2026 19:48:03 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>South Central</awayTeam>
+      <awayScore>16</awayScore>
+      <homeTeam>Kinston</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Swansboro 0 — South Columbus 0</title>
+      <description>LIVE — Swansboro 0 — South Columbus 0</description>
+      <guid isPermaLink="false">2026-08-24|south columbus|swansboro</guid>
+      <pubDate>Mon, 24 Aug 2026 19:48:03 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Swansboro</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>South Columbus</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
   </channel>
 </rss>
