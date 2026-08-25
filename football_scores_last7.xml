@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:08:57 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:16:46 -0400</lastBuildDate>
     <item>
       <title>8/24 — Swansboro 23 — South Columbus 18</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=8/24/2026&amp;mobile=1</link>
@@ -15,6 +15,28 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-08-24|south columbus|swansboro</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/24 — St. James 22 — Waccamaw 21</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=8/24/2026&amp;mobile=1</link>
+      <description>Final: 8/24 — St. James 22 — Waccamaw 21</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-24|st. james|waccamaw</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/24 — Southside 14 — North Duplin 28</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/24/2026&amp;mobile=1</link>
+      <description>Final: 8/24 — Southside 14 — North Duplin 28</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-24|north duplin|southside</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
@@ -152,14 +174,14 @@
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>8/21 — St. James 22 — Waccamaw 21</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=8/21/2026&amp;mobile=1</link>
-      <description>Final: 8/21 — St. James 22 — Waccamaw 21</description>
+      <title>8/21 — SOHS 14 — Richlands 15</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/21/2026&amp;mobile=1</link>
+      <description>Final: 8/21 — SOHS 14 — Richlands 15</description>
       <awayLogo />
       <homeLogo />
       <awayImageUrl />
       <homeImageUrl />
-      <guid isPermaLink="false">2026-08-21|st. james|waccamaw</guid>
+      <guid isPermaLink="false">2026-08-21|richlands|sohs</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
