@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:04:36 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:58:56 -0400</lastBuildDate>
     <item>
       <title>8/24 — Swansboro 23 — South Columbus 18</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=8/24/2026&amp;mobile=1</link>
@@ -103,6 +103,17 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-08-24|conway|loris</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/24 — Ashley 16 — Sanderson 12</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/24/2026&amp;mobile=1</link>
+      <description>Final: 8/24 — Ashley 16 — Sanderson 12</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-24|ashley|sanderson</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
