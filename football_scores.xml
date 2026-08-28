@@ -5,24 +5,24 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 19:25:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:31:08 -0400</lastBuildDate>
     <item>
-      <title>LIVE — Conway 0 — Carolina Forest 0</title>
-      <description>LIVE — Conway 0 — Carolina Forest 0</description>
+      <title>LIVE — Conway 0 — Carolina Forest 7</title>
+      <description>LIVE — Conway 0 — Carolina Forest 7</description>
       <guid isPermaLink="false">2026-08-28|carolina forest|conway</guid>
-      <pubDate>Fri, 28 Aug 2026 19:25:01 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 19:31:08 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Conway</awayTeam>
       <awayScore>0</awayScore>
       <homeTeam>Carolina Forest</homeTeam>
-      <homeScore>0</homeScore>
+      <homeScore>7</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — E.E. Smith 12 — Ashley 0</title>
       <description>LIVE — E.E. Smith 12 — Ashley 0</description>
       <guid isPermaLink="false">2026-08-28|ashley|e.e. smith</guid>
-      <pubDate>Fri, 28 Aug 2026 19:25:01 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 19:31:08 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>E.E. Smith</awayTeam>
       <awayScore>12</awayScore>
@@ -31,34 +31,46 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Jack Britt 0 — (#17) Hoggard 7</title>
-      <description>LIVE — Jack Britt 0 — (#17) Hoggard 7</description>
+      <title>LIVE — Jack Britt 7 — (#17) Hoggard 7</title>
+      <description>LIVE — Jack Britt 7 — (#17) Hoggard 7</description>
       <guid isPermaLink="false">2026-08-28|hoggard|jack britt</guid>
-      <pubDate>Fri, 28 Aug 2026 19:25:01 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 19:31:08 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Jack Britt</awayTeam>
-      <awayScore>0</awayScore>
+      <awayScore>7</awayScore>
       <homeTeam>(#17) Hoggard</homeTeam>
       <homeScore>7</homeScore>
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Laney 0 — (#25) Garner 7</title>
-      <description>LIVE — Laney 0 — (#25) Garner 7</description>
+      <title>LIVE — Laney 0 — (#25) Garner 13</title>
+      <description>LIVE — Laney 0 — (#25) Garner 13</description>
       <guid isPermaLink="false">2026-08-28|garner|laney</guid>
-      <pubDate>Fri, 28 Aug 2026 19:25:01 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 19:31:08 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Laney</awayTeam>
       <awayScore>0</awayScore>
       <homeTeam>(#25) Garner</homeTeam>
-      <homeScore>7</homeScore>
+      <homeScore>13</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Laurens 0 — Clinton 0</title>
+      <description>LIVE — Laurens 0 — Clinton 0</description>
+      <guid isPermaLink="false">2026-08-28|clinton|laurens</guid>
+      <pubDate>Fri, 28 Aug 2026 19:31:08 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Laurens</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Clinton</homeTeam>
+      <homeScore>0</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — Purnell Swett 0 — New Hanover 3</title>
       <description>LIVE — Purnell Swett 0 — New Hanover 3</description>
       <guid isPermaLink="false">2026-08-28|new hanover|purnell swett</guid>
-      <pubDate>Fri, 28 Aug 2026 19:25:01 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 19:31:08 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Purnell Swett</awayTeam>
       <awayScore>0</awayScore>
@@ -70,7 +82,7 @@
       <title>LIVE — West Carteret 13 — East Carteret 0</title>
       <description>LIVE — West Carteret 13 — East Carteret 0</description>
       <guid isPermaLink="false">2026-08-28|east carteret|west carteret</guid>
-      <pubDate>Fri, 28 Aug 2026 19:25:01 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 19:31:08 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>West Carteret</awayTeam>
       <awayScore>13</awayScore>
