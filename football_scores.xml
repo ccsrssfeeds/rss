@@ -5,6 +5,30 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:54:52 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:00:53 -0400</lastBuildDate>
+    <item>
+      <title>LIVE — Laney 0 — (#25) Garner 0</title>
+      <description>LIVE — Laney 0 — (#25) Garner 0</description>
+      <guid isPermaLink="false">2026-08-28|garner|laney</guid>
+      <pubDate>Fri, 28 Aug 2026 19:00:53 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Laney</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>(#25) Garner</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — West Carteret 0 — East Carteret 0</title>
+      <description>LIVE — West Carteret 0 — East Carteret 0</description>
+      <guid isPermaLink="false">2026-08-28|east carteret|west carteret</guid>
+      <pubDate>Fri, 28 Aug 2026 19:00:53 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>West Carteret</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>East Carteret</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
   </channel>
 </rss>
