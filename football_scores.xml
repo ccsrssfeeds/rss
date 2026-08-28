@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 19:06:53 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:12:59 -0400</lastBuildDate>
     <item>
       <title>LIVE — Conway 0 — Carolina Forest 0</title>
       <description>LIVE — Conway 0 — Carolina Forest 0</description>
       <guid isPermaLink="false">2026-08-28|carolina forest|conway</guid>
-      <pubDate>Fri, 28 Aug 2026 19:06:53 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 19:12:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Conway</awayTeam>
       <awayScore>0</awayScore>
@@ -22,7 +22,7 @@
       <title>LIVE — Laney 0 — (#25) Garner 0</title>
       <description>LIVE — Laney 0 — (#25) Garner 0</description>
       <guid isPermaLink="false">2026-08-28|garner|laney</guid>
-      <pubDate>Fri, 28 Aug 2026 19:06:53 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 19:12:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Laney</awayTeam>
       <awayScore>0</awayScore>
@@ -34,7 +34,7 @@
       <title>LIVE — Purnell Swett 0 — New Hanover 0</title>
       <description>LIVE — Purnell Swett 0 — New Hanover 0</description>
       <guid isPermaLink="false">2026-08-28|new hanover|purnell swett</guid>
-      <pubDate>Fri, 28 Aug 2026 19:06:53 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 19:12:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Purnell Swett</awayTeam>
       <awayScore>0</awayScore>
@@ -43,13 +43,13 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — West Carteret 0 — East Carteret 0</title>
-      <description>LIVE — West Carteret 0 — East Carteret 0</description>
+      <title>LIVE — West Carteret 6 — East Carteret 0</title>
+      <description>LIVE — West Carteret 6 — East Carteret 0</description>
       <guid isPermaLink="false">2026-08-28|east carteret|west carteret</guid>
-      <pubDate>Fri, 28 Aug 2026 19:06:53 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 19:12:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>West Carteret</awayTeam>
-      <awayScore>0</awayScore>
+      <awayScore>6</awayScore>
       <homeTeam>East Carteret</homeTeam>
       <homeScore>0</homeScore>
       <source>web</source>
