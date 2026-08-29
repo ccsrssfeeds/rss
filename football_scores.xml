@@ -5,18 +5,6 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 23:56:11 -0400</lastBuildDate>
-    <item>
-      <title>FINAL — East Duplin 40 — Princeton 34</title>
-      <description>FINAL — East Duplin 40 — Princeton 34</description>
-      <guid isPermaLink="false">2026-08-28|east duplin|princeton</guid>
-      <pubDate>Fri, 28 Aug 2026 23:56:11 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>East Duplin</awayTeam>
-      <awayScore>40</awayScore>
-      <homeTeam>Princeton</homeTeam>
-      <homeScore>34</homeScore>
-      <source>web</source>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 00:02:18 -0400</lastBuildDate>
   </channel>
 </rss>
