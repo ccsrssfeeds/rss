@@ -5,42 +5,6 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 23:26:23 -0400</lastBuildDate>
-    <item>
-      <title>FINAL — East Bladen 35 — West Bladen 6</title>
-      <description>FINAL — East Bladen 35 — West Bladen 6</description>
-      <guid isPermaLink="false">2026-08-28|east bladen|west bladen</guid>
-      <pubDate>Fri, 28 Aug 2026 23:26:23 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>East Bladen</awayTeam>
-      <awayScore>35</awayScore>
-      <homeTeam>West Bladen</homeTeam>
-      <homeScore>6</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — Laurens 22 — Clinton 29</title>
-      <description>FINAL — Laurens 22 — Clinton 29</description>
-      <guid isPermaLink="false">2026-08-28|clinton|laurens</guid>
-      <pubDate>Fri, 28 Aug 2026 23:26:23 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Laurens</awayTeam>
-      <awayScore>22</awayScore>
-      <homeTeam>Clinton</homeTeam>
-      <homeScore>29</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — Socastee 34 — St. James 42</title>
-      <description>FINAL — Socastee 34 — St. James 42</description>
-      <guid isPermaLink="false">2026-08-28|socastee|st. james</guid>
-      <pubDate>Fri, 28 Aug 2026 23:26:23 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Socastee</awayTeam>
-      <awayScore>34</awayScore>
-      <homeTeam>St. James</homeTeam>
-      <homeScore>42</homeScore>
-      <source>web</source>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2026 23:32:26 -0400</lastBuildDate>
   </channel>
 </rss>
