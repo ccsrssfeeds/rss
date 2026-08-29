@@ -5,12 +5,24 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 22:08:10 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:14:12 -0400</lastBuildDate>
+    <item>
+      <title>LIVE — East Duplin 40 — Princeton 34</title>
+      <description>LIVE — East Duplin 40 — Princeton 34</description>
+      <guid isPermaLink="false">2026-08-28|east duplin|princeton</guid>
+      <pubDate>Fri, 28 Aug 2026 22:14:12 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>East Duplin</awayTeam>
+      <awayScore>40</awayScore>
+      <homeTeam>Princeton</homeTeam>
+      <homeScore>34</homeScore>
+      <source>web</source>
+    </item>
     <item>
       <title>LIVE — Socastee 28 — St. James 35</title>
       <description>LIVE — Socastee 28 — St. James 35</description>
       <guid isPermaLink="false">2026-08-28|socastee|st. james</guid>
-      <pubDate>Fri, 28 Aug 2026 22:08:10 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 22:14:12 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Socastee</awayTeam>
       <awayScore>28</awayScore>
@@ -22,7 +34,7 @@
       <title>FINAL — Conway 14 — Carolina Forest 36</title>
       <description>FINAL — Conway 14 — Carolina Forest 36</description>
       <guid isPermaLink="false">2026-08-28|carolina forest|conway</guid>
-      <pubDate>Fri, 28 Aug 2026 22:08:10 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 22:14:12 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Conway</awayTeam>
       <awayScore>14</awayScore>
@@ -31,46 +43,10 @@
       <source>web</source>
     </item>
     <item>
-      <title>FINAL — Croatan 40 — Topsail 28</title>
-      <description>FINAL — Croatan 40 — Topsail 28</description>
-      <guid isPermaLink="false">2026-08-28|croatan|topsail</guid>
-      <pubDate>Fri, 28 Aug 2026 22:08:10 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Croatan</awayTeam>
-      <awayScore>40</awayScore>
-      <homeTeam>Topsail</homeTeam>
-      <homeScore>28</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — E.E. Smith 12 — Ashley 17</title>
-      <description>FINAL — E.E. Smith 12 — Ashley 17</description>
-      <guid isPermaLink="false">2026-08-28|ashley|e.e. smith</guid>
-      <pubDate>Fri, 28 Aug 2026 22:08:10 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>E.E. Smith</awayTeam>
-      <awayScore>12</awayScore>
-      <homeTeam>Ashley</homeTeam>
-      <homeScore>17</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — East Bladen 35 — West Bladen 6</title>
-      <description>FINAL — East Bladen 35 — West Bladen 6</description>
-      <guid isPermaLink="false">2026-08-28|east bladen|west bladen</guid>
-      <pubDate>Fri, 28 Aug 2026 22:08:10 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>East Bladen</awayTeam>
-      <awayScore>35</awayScore>
-      <homeTeam>West Bladen</homeTeam>
-      <homeScore>6</homeScore>
-      <source>web</source>
-    </item>
-    <item>
       <title>FINAL — Laurens 22 — Clinton 29</title>
       <description>FINAL — Laurens 22 — Clinton 29</description>
       <guid isPermaLink="false">2026-08-28|clinton|laurens</guid>
-      <pubDate>Fri, 28 Aug 2026 22:08:10 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 22:14:12 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Laurens</awayTeam>
       <awayScore>22</awayScore>
@@ -82,12 +58,24 @@
       <title>FINAL — Marion 7 — Aynor 38</title>
       <description>FINAL — Marion 7 — Aynor 38</description>
       <guid isPermaLink="false">2026-08-28|aynor|marion</guid>
-      <pubDate>Fri, 28 Aug 2026 22:08:10 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 22:14:12 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Marion</awayTeam>
       <awayScore>7</awayScore>
       <homeTeam>Aynor</homeTeam>
       <homeScore>38</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — West Carteret 40 — East Carteret 7</title>
+      <description>FINAL — West Carteret 40 — East Carteret 7</description>
+      <guid isPermaLink="false">2026-08-28|east carteret|west carteret</guid>
+      <pubDate>Fri, 28 Aug 2026 22:14:12 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>West Carteret</awayTeam>
+      <awayScore>40</awayScore>
+      <homeTeam>East Carteret</homeTeam>
+      <homeScore>7</homeScore>
       <source>web</source>
     </item>
   </channel>
