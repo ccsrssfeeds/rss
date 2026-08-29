@@ -5,29 +5,29 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 23:44:24 -0400</lastBuildDate>
-    <item>
-      <title>FINAL — East Bladen 35 — West Bladen 6</title>
-      <description>FINAL — East Bladen 35 — West Bladen 6</description>
-      <guid isPermaLink="false">2026-08-28|east bladen|west bladen</guid>
-      <pubDate>Fri, 28 Aug 2026 23:44:24 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>East Bladen</awayTeam>
-      <awayScore>35</awayScore>
-      <homeTeam>West Bladen</homeTeam>
-      <homeScore>6</homeScore>
-      <source>web</source>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2026 23:50:14 -0400</lastBuildDate>
     <item>
       <title>FINAL — East Duplin 40 — Princeton 34</title>
       <description>FINAL — East Duplin 40 — Princeton 34</description>
       <guid isPermaLink="false">2026-08-28|east duplin|princeton</guid>
-      <pubDate>Fri, 28 Aug 2026 23:44:24 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:50:14 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>East Duplin</awayTeam>
       <awayScore>40</awayScore>
       <homeTeam>Princeton</homeTeam>
       <homeScore>34</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — West Carteret 40 — East Carteret 7</title>
+      <description>FINAL — West Carteret 40 — East Carteret 7</description>
+      <guid isPermaLink="false">2026-08-28|east carteret|west carteret</guid>
+      <pubDate>Fri, 28 Aug 2026 23:50:14 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>West Carteret</awayTeam>
+      <awayScore>40</awayScore>
+      <homeTeam>East Carteret</homeTeam>
+      <homeScore>7</homeScore>
       <source>web</source>
     </item>
   </channel>
