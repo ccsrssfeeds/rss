@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 20:49:16 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:55:24 -0400</lastBuildDate>
     <item>
       <title>LIVE — Bluffton 0 — Laney 16</title>
       <description>LIVE — Bluffton 0 — Laney 16</description>
       <guid isPermaLink="false">2026-08-28|bluffton|laney</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Bluffton</awayTeam>
       <awayScore>0</awayScore>
@@ -22,7 +22,7 @@
       <title>LIVE — Conway 14 — Carolina Forest 36</title>
       <description>LIVE — Conway 14 — Carolina Forest 36</description>
       <guid isPermaLink="false">2026-08-28|carolina forest|conway</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Conway</awayTeam>
       <awayScore>14</awayScore>
@@ -34,7 +34,7 @@
       <title>LIVE — Croatan 0 — Topsail 88</title>
       <description>LIVE — Croatan 0 — Topsail 88</description>
       <guid isPermaLink="false">2026-08-28|croatan|topsail</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Croatan</awayTeam>
       <awayScore>0</awayScore>
@@ -43,34 +43,34 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Dillon 37 — Myrtle Beach 10</title>
-      <description>LIVE — Dillon 37 — Myrtle Beach 10</description>
+      <title>LIVE — Dillon 43 — Myrtle Beach 10</title>
+      <description>LIVE — Dillon 43 — Myrtle Beach 10</description>
       <guid isPermaLink="false">2026-08-28|dillon|myrtle beach</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Dillon</awayTeam>
-      <awayScore>37</awayScore>
+      <awayScore>43</awayScore>
       <homeTeam>Myrtle Beach</homeTeam>
       <homeScore>10</homeScore>
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — E.E. Smith 12 — Ashley 14</title>
-      <description>LIVE — E.E. Smith 12 — Ashley 14</description>
+      <title>LIVE — E.E. Smith 12 — Ashley 17</title>
+      <description>LIVE — E.E. Smith 12 — Ashley 17</description>
       <guid isPermaLink="false">2026-08-28|ashley|e.e. smith</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>E.E. Smith</awayTeam>
       <awayScore>12</awayScore>
       <homeTeam>Ashley</homeTeam>
-      <homeScore>14</homeScore>
+      <homeScore>17</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — East Duplin 12 — Princeton 14</title>
       <description>LIVE — East Duplin 12 — Princeton 14</description>
       <guid isPermaLink="false">2026-08-28|east duplin|princeton</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>East Duplin</awayTeam>
       <awayScore>12</awayScore>
@@ -82,7 +82,7 @@
       <title>LIVE — GSFHS 0 — Loris 63</title>
       <description>LIVE — GSFHS 0 — Loris 63</description>
       <guid isPermaLink="false">2026-08-28|green sea floyds|loris</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>GSFHS</awayTeam>
       <awayScore>0</awayScore>
@@ -94,7 +94,7 @@
       <title>LIVE — Jack Britt 6 — (#17) Hoggard 28</title>
       <description>LIVE — Jack Britt 6 — (#17) Hoggard 28</description>
       <guid isPermaLink="false">2026-08-28|hoggard|jack britt</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Jack Britt</awayTeam>
       <awayScore>6</awayScore>
@@ -106,7 +106,7 @@
       <title>LIVE — Laney 12 — (#25) Garner 30</title>
       <description>LIVE — Laney 12 — (#25) Garner 30</description>
       <guid isPermaLink="false">2026-08-28|garner|laney</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Laney</awayTeam>
       <awayScore>12</awayScore>
@@ -118,7 +118,7 @@
       <title>LIVE — Laurens 14 — Clinton 22</title>
       <description>LIVE — Laurens 14 — Clinton 22</description>
       <guid isPermaLink="false">2026-08-28|clinton|laurens</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Laurens</awayTeam>
       <awayScore>14</awayScore>
@@ -130,7 +130,7 @@
       <title>LIVE — Marion 0 — Aynor 31</title>
       <description>LIVE — Marion 0 — Aynor 31</description>
       <guid isPermaLink="false">2026-08-28|aynor|marion</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Marion</awayTeam>
       <awayScore>0</awayScore>
@@ -142,7 +142,7 @@
       <title>LIVE — New Bern 6 — Havelock 18</title>
       <description>LIVE — New Bern 6 — Havelock 18</description>
       <guid isPermaLink="false">2026-08-28|havelock|new bern</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>New Bern</awayTeam>
       <awayScore>6</awayScore>
@@ -154,7 +154,7 @@
       <title>LIVE — Purnell Swett 0 — New Hanover 12</title>
       <description>LIVE — Purnell Swett 0 — New Hanover 12</description>
       <guid isPermaLink="false">2026-08-28|new hanover|purnell swett</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Purnell Swett</awayTeam>
       <awayScore>0</awayScore>
@@ -163,10 +163,22 @@
       <source>web</source>
     </item>
     <item>
+      <title>LIVE — Socastee 7 — St. James 14</title>
+      <description>LIVE — Socastee 7 — St. James 14</description>
+      <guid isPermaLink="false">2026-08-28|socastee|st. james</guid>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Socastee</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>St. James</homeTeam>
+      <homeScore>14</homeScore>
+      <source>web</source>
+    </item>
+    <item>
       <title>LIVE — West Carteret 27 — East Carteret 7</title>
       <description>LIVE — West Carteret 27 — East Carteret 7</description>
       <guid isPermaLink="false">2026-08-28|east carteret|west carteret</guid>
-      <pubDate>Fri, 28 Aug 2026 20:49:16 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:55:24 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>West Carteret</awayTeam>
       <awayScore>27</awayScore>
