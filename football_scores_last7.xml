@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 20:21:06 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:21:07 -0400</lastBuildDate>
     <item>
       <title>8/28 — West Carteret 40 — East Carteret 7</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
@@ -561,61 +561,6 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-08-24|ashley|sanderson</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/22 — WRHHS 14 — East Duplin 16</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/22/2026&amp;mobile=1</link>
-      <description>Final: 8/22 — WRHHS 14 — East Duplin 16</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-22|east duplin|wrhhs</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/22 — Jacksonville 49 — West Carteret 0</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/22/2026&amp;mobile=1</link>
-      <description>Final: 8/22 — Jacksonville 49 — West Carteret 0</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-22|jacksonville|west carteret</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/22 — Havelock 40 — West Craven 35</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/22/2026&amp;mobile=1</link>
-      <description>Final: 8/22 — Havelock 40 — West Craven 35</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-22|havelock|west craven</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/22 — East Carteret 0 — Croatan 50</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/22/2026&amp;mobile=1</link>
-      <description>Final: 8/22 — East Carteret 0 — Croatan 50</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-22|croatan|east carteret</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/22 — Carolina Forest 16 — West Florence 14</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=8/22/2026&amp;mobile=1</link>
-      <description>Final: 8/22 — Carolina Forest 16 — West Florence 14</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-22|carolina forest|west florence</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
