@@ -5,7 +5,240 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 05:21:04 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:21:11 -0400</lastBuildDate>
+    <item>
+      <title>8/28 — West Carteret 40 — East Carteret 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — West Carteret 40 — East Carteret 7</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|east carteret|west carteret</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Socastee 34 — St. James 42</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Socastee 34 — St. James 42</description>
+      <awayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayLogo>
+      <homeLogo />
+      <awayImageUrl>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayImageUrl>
+      <homeImageUrl />
+      <ns0:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="away" />
+      <ns0:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
+      <guid isPermaLink="false">2026-08-28|socastee|st. james</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Rosewood 12 — North Duplin 13</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Rosewood 12 — North Duplin 13</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|north duplin|rosewood</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Purnell Swett 6 — New Hanover 26</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Purnell Swett 6 — New Hanover 26</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|new hanover|purnell swett</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — New Bern 34 — Havelock 26</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — New Bern 34 — Havelock 26</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|havelock|new bern</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Marion 7 — Aynor 38</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Marion 7 — Aynor 38</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|aynor|marion</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Laurens 22 — Clinton 29</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Laurens 22 — Clinton 29</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|clinton|laurens</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Laney 12 — (#25) Garner 30</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Laney 12 — (#25) Garner 30</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|garner|laney</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Lakewood 6 — Lower Richland 21</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Lakewood 6 — Lower Richland 21</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|lakewood|lower richland</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Jack Britt 6 — (#17) Hoggard 31</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Jack Britt 6 — (#17) Hoggard 31</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|hoggard|jack britt</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — J.H. Rose 49 — Washington 11</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — J.H. Rose 49 — Washington 11</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|j.h. rose|washington</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — GSFHS 7 — Loris 63</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — GSFHS 7 — Loris 63</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|green sea floyds|loris</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — East Duplin 40 — Princeton 34</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — East Duplin 40 — Princeton 34</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|east duplin|princeton</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — East Bladen 35 — West Bladen 6</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — East Bladen 35 — West Bladen 6</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|east bladen|west bladen</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — E.E. Smith 12 — Ashley 17</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — E.E. Smith 12 — Ashley 17</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|ashley|e.e. smith</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Dillon 50 — Myrtle Beach 24</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Dillon 50 — Myrtle Beach 24</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|dillon|myrtle beach</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Croatan 40 — Topsail 28</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Croatan 40 — Topsail 28</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|croatan|topsail</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Conway 14 — Carolina Forest 36</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Conway 14 — Carolina Forest 36</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|carolina forest|conway</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Clinton 14 — Midway 32</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Clinton 14 — Midway 32</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|clinton|midway</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Bluffton 20 — Laney 36</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Bluffton 20 — Laney 36</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|bluffton|laney</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/28 — Ayden - Grifton 13 — North Pitt 14</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/28/2026&amp;mobile=1</link>
+      <description>Final: 8/28 — Ayden - Grifton 13 — North Pitt 14</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-28|ayden - grifton|north pitt</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>8/27 — White Oak 16 — Richlands 6</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
