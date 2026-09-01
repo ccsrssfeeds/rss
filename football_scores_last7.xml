@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 22:26:09 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:27:37 -0400</lastBuildDate>
     <item>
       <title>8/30 — Triton 34 — Hobbton 21</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=8/30/2026&amp;mobile=1</link>
@@ -26,6 +26,17 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-08-30|north lenoir|south lenoir</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/30 — Pender 52 — Red Springs 0</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/30/2026&amp;mobile=1</link>
+      <description>Final: 8/30 — Pender 52 — Red Springs 0</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-30|pender|red springs</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
@@ -508,6 +519,17 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
+      <title>8/26 — Pender 52 — Red Springs 0</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/26/2026&amp;mobile=1</link>
+      <description>Final: 8/26 — Pender 52 — Red Springs 0</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-26|pender|red springs</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
       <title>8/26 — Jones Senior 0 — Columbia 52</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=8/26/2026&amp;mobile=1</link>
       <description>Final: 8/26 — Jones Senior 0 — Columbia 52</description>
@@ -538,6 +560,17 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-08-25|north lenoir|south lenoir</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/25 — Pender 52 — Red Springs 0</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/25/2026&amp;mobile=1</link>
+      <description>Final: 8/25 — Pender 52 — Red Springs 0</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-25|pender|red springs</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
