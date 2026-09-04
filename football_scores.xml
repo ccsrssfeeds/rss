@@ -5,6 +5,18 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 21:31:35 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:41:02 -0400</lastBuildDate>
+    <item>
+      <title>LIVE — Rosewood 34 — North Johnston 12</title>
+      <description>LIVE — Rosewood 34 — North Johnston 12</description>
+      <guid isPermaLink="false">2026-09-03|north johnston|rosewood</guid>
+      <pubDate>Thu, 03 Sep 2026 21:41:02 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Rosewood</awayTeam>
+      <awayScore>34</awayScore>
+      <homeTeam>North Johnston</homeTeam>
+      <homeScore>12</homeScore>
+      <source>web</source>
+    </item>
   </channel>
 </rss>
