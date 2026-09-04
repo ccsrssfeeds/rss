@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 19:23:54 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:29:43 -0400</lastBuildDate>
     <item>
       <title>LIVE — Clinton 0 — WRHHS 0</title>
       <description>LIVE — Clinton 0 — WRHHS 0</description>
       <guid isPermaLink="false">2026-09-04|clinton|wrhhs</guid>
-      <pubDate>Fri, 04 Sep 2026 19:23:54 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:29:43 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Clinton</awayTeam>
       <awayScore>0</awayScore>
@@ -19,13 +19,13 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Croatan 7 — SOHS 0</title>
-      <description>LIVE — Croatan 7 — SOHS 0</description>
+      <title>LIVE — Croatan 14 — SOHS 0</title>
+      <description>LIVE — Croatan 14 — SOHS 0</description>
       <guid isPermaLink="false">2026-09-04|croatan|sohs</guid>
-      <pubDate>Fri, 04 Sep 2026 19:23:54 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:29:43 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Croatan</awayTeam>
-      <awayScore>7</awayScore>
+      <awayScore>14</awayScore>
       <homeTeam>SOHS</homeTeam>
       <homeScore>0</homeScore>
       <source>web</source>
@@ -34,7 +34,7 @@
       <title>LIVE — J.H. Rose 0 — Laney 7</title>
       <description>LIVE — J.H. Rose 0 — Laney 7</description>
       <guid isPermaLink="false">2026-09-04|j.h. rose|laney</guid>
-      <pubDate>Fri, 04 Sep 2026 19:23:54 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:29:43 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>J.H. Rose</awayTeam>
       <awayScore>0</awayScore>
@@ -46,7 +46,7 @@
       <title>LIVE — New Hanover 14 — Carolina Forest 0</title>
       <description>LIVE — New Hanover 14 — Carolina Forest 0</description>
       <guid isPermaLink="false">2026-09-04|carolina forest|new hanover</guid>
-      <pubDate>Fri, 04 Sep 2026 19:23:54 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:29:43 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>New Hanover</awayTeam>
       <awayScore>14</awayScore>
@@ -55,22 +55,22 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Southern Nash 0 — James Kenan 21</title>
-      <description>LIVE — Southern Nash 0 — James Kenan 21</description>
+      <title>LIVE — Southern Nash 0 — James Kenan 27</title>
+      <description>LIVE — Southern Nash 0 — James Kenan 27</description>
       <guid isPermaLink="false">2026-09-04|james kenan|southern nash</guid>
-      <pubDate>Fri, 04 Sep 2026 19:23:54 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:29:43 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Southern Nash</awayTeam>
       <awayScore>0</awayScore>
       <homeTeam>James Kenan</homeTeam>
-      <homeScore>21</homeScore>
+      <homeScore>27</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — Topsail 0 — NJHS 14</title>
       <description>LIVE — Topsail 0 — NJHS 14</description>
       <guid isPermaLink="false">2026-09-04|njhs|topsail</guid>
-      <pubDate>Fri, 04 Sep 2026 19:23:54 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:29:43 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Topsail</awayTeam>
       <awayScore>0</awayScore>
@@ -79,22 +79,22 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — West Carteret 0 — North Brunswick 0</title>
-      <description>LIVE — West Carteret 0 — North Brunswick 0</description>
+      <title>LIVE — West Carteret 0 — North Brunswick 7</title>
+      <description>LIVE — West Carteret 0 — North Brunswick 7</description>
       <guid isPermaLink="false">2026-09-04|north brunswick|west carteret</guid>
-      <pubDate>Fri, 04 Sep 2026 19:23:54 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:29:43 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>West Carteret</awayTeam>
       <awayScore>0</awayScore>
       <homeTeam>North Brunswick</homeTeam>
-      <homeScore>0</homeScore>
+      <homeScore>7</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — White Oak 6 — Swansboro 7</title>
       <description>LIVE — White Oak 6 — Swansboro 7</description>
       <guid isPermaLink="false">2026-09-04|swansboro|white oak</guid>
-      <pubDate>Fri, 04 Sep 2026 19:23:54 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:29:43 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>White Oak</awayTeam>
       <awayScore>6</awayScore>
@@ -103,22 +103,22 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Whiteville 6 — East Bladen 0</title>
-      <description>LIVE — Whiteville 6 — East Bladen 0</description>
+      <title>LIVE — Whiteville 6 — East Bladen 6</title>
+      <description>LIVE — Whiteville 6 — East Bladen 6</description>
       <guid isPermaLink="false">2026-09-04|east bladen|whiteville</guid>
-      <pubDate>Fri, 04 Sep 2026 19:23:54 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:29:43 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Whiteville</awayTeam>
       <awayScore>6</awayScore>
       <homeTeam>East Bladen</homeTeam>
-      <homeScore>0</homeScore>
+      <homeScore>6</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — WPA 7 — Pamlico County 0</title>
       <description>LIVE — WPA 7 — Pamlico County 0</description>
       <guid isPermaLink="false">2026-09-04|pamlico county|wpa</guid>
-      <pubDate>Fri, 04 Sep 2026 19:23:54 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:29:43 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>WPA</awayTeam>
       <awayScore>7</awayScore>
