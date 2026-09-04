@@ -5,6 +5,18 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:50:19 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:56:36 -0400</lastBuildDate>
+    <item>
+      <title>LIVE — White Oak 0 — Swansboro 0</title>
+      <description>LIVE — White Oak 0 — Swansboro 0</description>
+      <guid isPermaLink="false">2026-09-04|swansboro|white oak</guid>
+      <pubDate>Fri, 04 Sep 2026 18:56:36 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>White Oak</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Swansboro</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
   </channel>
 </rss>
