@@ -5,7 +5,73 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 19:23:06 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:27:01 -0400</lastBuildDate>
+    <item>
+      <title>9/3 — Rosewood 34 — North Johnston 18</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/3/2026&amp;mobile=1</link>
+      <description>Final: 9/3 — Rosewood 34 — North Johnston 18</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-03|north johnston|rosewood</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/3 — BGC 22 — Union 46</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/3/2026&amp;mobile=1</link>
+      <description>Final: 9/3 — BGC 22 — Union 46</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-03|bgc|union</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/2 — Rosewood 34 — North Johnston 18</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/2/2026&amp;mobile=1</link>
+      <description>Final: 9/2 — Rosewood 34 — North Johnston 18</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-02|north johnston|rosewood</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/2 — BGC 22 — Union 46</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/2/2026&amp;mobile=1</link>
+      <description>Final: 9/2 — BGC 22 — Union 46</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-02|bgc|union</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/1 — Rosewood 34 — North Johnston 18</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/1/2026&amp;mobile=1</link>
+      <description>Final: 9/1 — Rosewood 34 — North Johnston 18</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-01|north johnston|rosewood</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/1 — BGC 22 — Union 46</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/1/2026&amp;mobile=1</link>
+      <description>Final: 9/1 — BGC 22 — Union 46</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-01|bgc|union</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>8/31 — Triton 34 — Hobbton 22</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=8/31/2026&amp;mobile=1</link>
@@ -49,6 +115,28 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-08-31|columbia|jones senior</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/30 — Rosewood 34 — North Johnston 18</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/30/2026&amp;mobile=1</link>
+      <description>Final: 8/30 — Rosewood 34 — North Johnston 18</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-30|north johnston|rosewood</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>8/30 — BGC 22 — Union 46</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=8/30/2026&amp;mobile=1</link>
+      <description>Final: 8/30 — BGC 22 — Union 46</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-08-30|bgc|union</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
       <title>8/28 — West Carteret 40 — East Carteret 7</title>
@@ -282,219 +370,6 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-08-28|ayden - grifton|north pitt</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — White Oak 16 — Richlands 6</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — White Oak 16 — Richlands 6</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|richlands|white oak</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — West Craven 27 — WPA 6</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — West Craven 27 — WPA 6</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|west craven|wpa</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — West Brunswick 36 — Whiteville 39</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — West Brunswick 36 — Whiteville 39</description>
-      <awayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</awayLogo>
-      <homeLogo />
-      <awayImageUrl>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</awayImageUrl>
-      <homeImageUrl />
-      <ns0:thumbnail url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" role="away" />
-      <ns0:content url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" medium="image" />
-      <guid isPermaLink="false">2026-08-27|west brunswick|whiteville</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — Union 14 — Southern Wayne 26</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — Union 14 — Southern Wayne 26</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|southern wayne|union</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — Swansboro 42 — Pamlico County 0</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — Swansboro 42 — Pamlico County 0</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|pamlico county|swansboro</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — St. Pauls 21 — Lumberton 0</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — St. Pauls 21 — Lumberton 0</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|lumberton|st. pauls</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — South Columbus 28 — West Columbus 8</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — South Columbus 28 — West Columbus 8</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|south columbus|west columbus</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — South Central 64 — FCHS 34</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — South Central 64 — FCHS 34</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|fchs|south central</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — South Brunswick 0 — North Brunswick 31</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — South Brunswick 0 — North Brunswick 31</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|north brunswick|south brunswick</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — Northeastern 22 — D.H. Conley 29</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — Northeastern 22 — D.H. Conley 29</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|d.h. conley|northeastern</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — NMBHS 24 — Darlington 17</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — NMBHS 24 — Darlington 17</description>
-      <awayLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</awayLogo>
-      <homeLogo />
-      <awayImageUrl>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</awayImageUrl>
-      <homeImageUrl />
-      <ns0:thumbnail url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" role="away" />
-      <ns0:content url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" medium="image" />
-      <guid isPermaLink="false">2026-08-27|darlington|north myrtle beach</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — NJHS 14 — Jacksonville 6</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — NJHS 14 — Jacksonville 6</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|jacksonville|njhs</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — Lejeune 0 — Lakewood 23</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — Lejeune 0 — Lakewood 23</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|lakewood|lejeune</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — Kinston 27 — WRHHS 34</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — Kinston 27 — WRHHS 34</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|kinston|wrhhs</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — Goldsboro 0 — Greene Central 69</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — Goldsboro 0 — Greene Central 69</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|goldsboro|greene central</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — Forest Hills 28 — Fairmont 20</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — Forest Hills 28 — Fairmont 20</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|fairmont|forest hills</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — Eastern Wayne 14 — C.B. Aycock 0</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — Eastern Wayne 14 — C.B. Aycock 0</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|c.b. aycock|eastern wayne</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — East Columbus 12 — Heide Trask 6</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — East Columbus 12 — Heide Trask 6</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|east columbus|heide trask</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>8/27 — Beddingfield 18 — Dixon 53</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=8/27/2026&amp;mobile=1</link>
-      <description>Final: 8/27 — Beddingfield 18 — Dixon 53</description>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-08-27|beddingfield|dixon</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
