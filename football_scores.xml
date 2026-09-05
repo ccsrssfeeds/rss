@@ -5,36 +5,24 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 21:59:38 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:10:20 -0400</lastBuildDate>
     <item>
-      <title>LIVE — Aynor 22 — GSFHS 0</title>
-      <description>LIVE — Aynor 22 — GSFHS 0</description>
+      <title>LIVE — Aynor 28 — GSFHS 0</title>
+      <description>LIVE — Aynor 28 — GSFHS 0</description>
       <guid isPermaLink="false">2026-09-04|aynor|green sea floyds</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Aynor</awayTeam>
-      <awayScore>22</awayScore>
+      <awayScore>28</awayScore>
       <homeTeam>GSFHS</homeTeam>
       <homeScore>0</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — Clinton 39 — Newberry 28</title>
-      <description>LIVE — Clinton 39 — Newberry 28</description>
-      <guid isPermaLink="false">2026-09-04|clinton|newberry</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Clinton</awayTeam>
-      <awayScore>39</awayScore>
-      <homeTeam>Newberry</homeTeam>
-      <homeScore>28</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — Douglas Byrd 14 — Purnell Swett 55</title>
       <description>LIVE — Douglas Byrd 14 — Purnell Swett 55</description>
       <guid isPermaLink="false">2026-09-04|douglas byrd|purnell swett</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Douglas Byrd</awayTeam>
       <awayScore>14</awayScore>
@@ -43,35 +31,11 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Dreher 40 — Lakewood 7</title>
-      <description>LIVE — Dreher 40 — Lakewood 7</description>
-      <guid isPermaLink="false">2026-09-04|dreher|lakewood</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Dreher</awayTeam>
-      <awayScore>40</awayScore>
-      <homeTeam>Lakewood</homeTeam>
-      <homeScore>7</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — FCHS 14 — D.H. Conley 21</title>
-      <description>LIVE — FCHS 14 — D.H. Conley 21</description>
-      <guid isPermaLink="false">2026-09-04|d.h. conley|fchs</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>FCHS</awayTeam>
-      <awayScore>14</awayScore>
-      <homeTeam>D.H. Conley</homeTeam>
-      <homeScore>21</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — (#13) Hoggard 10 — (#12) Clayton 14</title>
-      <description>LIVE — (#13) Hoggard 10 — (#12) Clayton 14</description>
+      <title>IN PROGRESS — (#13) Hoggard 10 — (#12) Clayton 14</title>
+      <description>IN PROGRESS — (#13) Hoggard 10 — (#12) Clayton 14</description>
       <guid isPermaLink="false">2026-09-04|clayton|hoggard</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
-      <status>LIVE</status>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
+      <status>IN PROGRESS</status>
       <awayTeam>(#13) Hoggard</awayTeam>
       <awayScore>10</awayScore>
       <homeTeam>(#12) Clayton</homeTeam>
@@ -79,22 +43,46 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Myrtle Beach 16 — Socastee 16</title>
-      <description>LIVE — Myrtle Beach 16 — Socastee 16</description>
+      <title>LIVE — Lumberton 0 — Westover 14</title>
+      <description>LIVE — Lumberton 0 — Westover 14</description>
+      <guid isPermaLink="false">2026-09-04|lumberton|westover</guid>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Lumberton</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Westover</homeTeam>
+      <homeScore>14</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Myrtle Beach 22 — Socastee 16</title>
+      <description>LIVE — Myrtle Beach 22 — Socastee 16</description>
       <guid isPermaLink="false">2026-09-04|myrtle beach|socastee</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Myrtle Beach</awayTeam>
-      <awayScore>16</awayScore>
+      <awayScore>22</awayScore>
       <homeTeam>Socastee</homeTeam>
       <homeScore>16</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — Clinton 7 — WRHHS 6</title>
+      <description>FINAL — Clinton 7 — WRHHS 6</description>
+      <guid isPermaLink="false">2026-09-04|clinton|wrhhs</guid>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Clinton</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>WRHHS</homeTeam>
+      <homeScore>6</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>FINAL — Dixon 36 — Hobbton 30</title>
       <description>FINAL — Dixon 36 — Hobbton 30</description>
       <guid isPermaLink="false">2026-09-04|dixon|hobbton</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Dixon</awayTeam>
       <awayScore>36</awayScore>
@@ -103,10 +91,22 @@
       <source>web</source>
     </item>
     <item>
+      <title>FINAL — Dreher 40 — Lakewood 7</title>
+      <description>FINAL — Dreher 40 — Lakewood 7</description>
+      <guid isPermaLink="false">2026-09-04|dreher|lakewood</guid>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Dreher</awayTeam>
+      <awayScore>40</awayScore>
+      <homeTeam>Lakewood</homeTeam>
+      <homeScore>7</homeScore>
+      <source>web</source>
+    </item>
+    <item>
       <title>FINAL — Heide Trask 14 — South Brunswick 35</title>
       <description>FINAL — Heide Trask 14 — South Brunswick 35</description>
       <guid isPermaLink="false">2026-09-04|heide trask|south brunswick</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Heide Trask</awayTeam>
       <awayScore>14</awayScore>
@@ -118,7 +118,7 @@
       <title>FINAL — J.H. Rose 41 — Laney 17</title>
       <description>FINAL — J.H. Rose 41 — Laney 17</description>
       <guid isPermaLink="false">2026-09-04|j.h. rose|laney</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>J.H. Rose</awayTeam>
       <awayScore>41</awayScore>
@@ -130,7 +130,7 @@
       <title>FINAL — New Hanover 21 — Carolina Forest 41</title>
       <description>FINAL — New Hanover 21 — Carolina Forest 41</description>
       <guid isPermaLink="false">2026-09-04|carolina forest|new hanover</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>New Hanover</awayTeam>
       <awayScore>21</awayScore>
@@ -142,7 +142,7 @@
       <title>FINAL — South Columbus 0 — Loris 49</title>
       <description>FINAL — South Columbus 0 — Loris 49</description>
       <guid isPermaLink="false">2026-09-04|loris|south columbus</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>South Columbus</awayTeam>
       <awayScore>0</awayScore>
@@ -151,22 +151,10 @@
       <source>web</source>
     </item>
     <item>
-      <title>FINAL — South Lenoir 20 — Lejeune 14</title>
-      <description>FINAL — South Lenoir 20 — Lejeune 14</description>
-      <guid isPermaLink="false">2026-09-04|lejeune|south lenoir</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>South Lenoir</awayTeam>
-      <awayScore>20</awayScore>
-      <homeTeam>Lejeune</homeTeam>
-      <homeScore>14</homeScore>
-      <source>web</source>
-    </item>
-    <item>
       <title>FINAL — Topsail 16 — NJHS 46</title>
       <description>FINAL — Topsail 16 — NJHS 46</description>
       <guid isPermaLink="false">2026-09-04|njhs|topsail</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Topsail</awayTeam>
       <awayScore>16</awayScore>
@@ -178,7 +166,7 @@
       <title>FINAL — White Oak 12 — Swansboro 20</title>
       <description>FINAL — White Oak 12 — Swansboro 20</description>
       <guid isPermaLink="false">2026-09-04|swansboro|white oak</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>White Oak</awayTeam>
       <awayScore>12</awayScore>
@@ -190,24 +178,12 @@
       <title>FINAL — Whiteville 48 — East Bladen 36</title>
       <description>FINAL — Whiteville 48 — East Bladen 36</description>
       <guid isPermaLink="false">2026-09-04|east bladen|whiteville</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:10:20 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Whiteville</awayTeam>
       <awayScore>48</awayScore>
       <homeTeam>East Bladen</homeTeam>
       <homeScore>36</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — WPA 55 — Pamlico County 14</title>
-      <description>FINAL — WPA 55 — Pamlico County 14</description>
-      <guid isPermaLink="false">2026-09-04|pamlico county|wpa</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:38 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>WPA</awayTeam>
-      <awayScore>55</awayScore>
-      <homeTeam>Pamlico County</homeTeam>
-      <homeScore>14</homeScore>
       <source>web</source>
     </item>
   </channel>
