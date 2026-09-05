@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:25:25 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:23:19 -0400</lastBuildDate>
     <item>
       <title>9/4 — WPA 55 — Pamlico County 14</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/4/2026&amp;mobile=1</link>
@@ -151,6 +151,17 @@
       <ns0:thumbnail url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" role="home" />
       <ns0:content url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" medium="image" />
       <guid isPermaLink="false">2026-09-04|north myrtle beach|west brunswick</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/4 — North Lenoir 0 — Kinston 38</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/4/2026&amp;mobile=1</link>
+      <description>Final: 9/4 — North Lenoir 0 — Kinston 38</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-04|kinston|north lenoir</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
