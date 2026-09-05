@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 21:40:46 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:47:59 -0400</lastBuildDate>
     <item>
       <title>LIVE — Aynor 22 — GSFHS 0</title>
       <description>LIVE — Aynor 22 — GSFHS 0</description>
       <guid isPermaLink="false">2026-09-04|aynor|green sea floyds</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Aynor</awayTeam>
       <awayScore>22</awayScore>
@@ -19,22 +19,10 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — (#24) Berkeley 26 — St. James 3</title>
-      <description>LIVE — (#24) Berkeley 26 — St. James 3</description>
-      <guid isPermaLink="false">2026-09-04|berkeley|st. james</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>(#24) Berkeley</awayTeam>
-      <awayScore>26</awayScore>
-      <homeTeam>St. James</homeTeam>
-      <homeScore>3</homeScore>
-      <source>web</source>
-    </item>
-    <item>
       <title>LIVE — Clinton 39 — Newberry 28</title>
       <description>LIVE — Clinton 39 — Newberry 28</description>
       <guid isPermaLink="false">2026-09-04|clinton|newberry</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Clinton</awayTeam>
       <awayScore>39</awayScore>
@@ -46,7 +34,7 @@
       <title>LIVE — Douglas Byrd 14 — Purnell Swett 42</title>
       <description>LIVE — Douglas Byrd 14 — Purnell Swett 42</description>
       <guid isPermaLink="false">2026-09-04|douglas byrd|purnell swett</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Douglas Byrd</awayTeam>
       <awayScore>14</awayScore>
@@ -55,13 +43,13 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Dreher 33 — Lakewood 7</title>
-      <description>LIVE — Dreher 33 — Lakewood 7</description>
+      <title>LIVE — Dreher 40 — Lakewood 7</title>
+      <description>LIVE — Dreher 40 — Lakewood 7</description>
       <guid isPermaLink="false">2026-09-04|dreher|lakewood</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Dreher</awayTeam>
-      <awayScore>33</awayScore>
+      <awayScore>40</awayScore>
       <homeTeam>Lakewood</homeTeam>
       <homeScore>7</homeScore>
       <source>web</source>
@@ -70,7 +58,7 @@
       <title>LIVE — FCHS 14 — D.H. Conley 21</title>
       <description>LIVE — FCHS 14 — D.H. Conley 21</description>
       <guid isPermaLink="false">2026-09-04|d.h. conley|fchs</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>FCHS</awayTeam>
       <awayScore>14</awayScore>
@@ -79,22 +67,22 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — J.H. Rose 34 — Laney 17</title>
-      <description>LIVE — J.H. Rose 34 — Laney 17</description>
-      <guid isPermaLink="false">2026-09-04|j.h. rose|laney</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <title>LIVE — (#13) Hoggard 10 — (#12) Clayton 14</title>
+      <description>LIVE — (#13) Hoggard 10 — (#12) Clayton 14</description>
+      <guid isPermaLink="false">2026-09-04|clayton|hoggard</guid>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>LIVE</status>
-      <awayTeam>J.H. Rose</awayTeam>
-      <awayScore>34</awayScore>
-      <homeTeam>Laney</homeTeam>
-      <homeScore>17</homeScore>
+      <awayTeam>(#13) Hoggard</awayTeam>
+      <awayScore>10</awayScore>
+      <homeTeam>(#12) Clayton</homeTeam>
+      <homeScore>14</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — Lumberton 0 — Westover 14</title>
       <description>LIVE — Lumberton 0 — Westover 14</description>
       <guid isPermaLink="false">2026-09-04|lumberton|westover</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Lumberton</awayTeam>
       <awayScore>0</awayScore>
@@ -103,34 +91,22 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Myrtle Beach 16 — Socastee 9</title>
-      <description>LIVE — Myrtle Beach 16 — Socastee 9</description>
+      <title>LIVE — Myrtle Beach 16 — Socastee 16</title>
+      <description>LIVE — Myrtle Beach 16 — Socastee 16</description>
       <guid isPermaLink="false">2026-09-04|myrtle beach|socastee</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Myrtle Beach</awayTeam>
       <awayScore>16</awayScore>
       <homeTeam>Socastee</homeTeam>
-      <homeScore>9</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — New Hanover 21 — Carolina Forest 41</title>
-      <description>LIVE — New Hanover 21 — Carolina Forest 41</description>
-      <guid isPermaLink="false">2026-09-04|carolina forest|new hanover</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>New Hanover</awayTeam>
-      <awayScore>21</awayScore>
-      <homeTeam>Carolina Forest</homeTeam>
-      <homeScore>41</homeScore>
+      <homeScore>16</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — South Columbus 0 — Loris 49</title>
       <description>LIVE — South Columbus 0 — Loris 49</description>
       <guid isPermaLink="false">2026-09-04|loris|south columbus</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>South Columbus</awayTeam>
       <awayScore>0</awayScore>
@@ -139,34 +115,10 @@
       <source>web</source>
     </item>
     <item>
-      <title>FINAL — Clinton 7 — WRHHS 6</title>
-      <description>FINAL — Clinton 7 — WRHHS 6</description>
-      <guid isPermaLink="false">2026-09-04|clinton|wrhhs</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Clinton</awayTeam>
-      <awayScore>7</awayScore>
-      <homeTeam>WRHHS</homeTeam>
-      <homeScore>6</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — Dixon 36 — Hobbton 30</title>
-      <description>FINAL — Dixon 36 — Hobbton 30</description>
-      <guid isPermaLink="false">2026-09-04|dixon|hobbton</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Dixon</awayTeam>
-      <awayScore>36</awayScore>
-      <homeTeam>Hobbton</homeTeam>
-      <homeScore>30</homeScore>
-      <source>web</source>
-    </item>
-    <item>
       <title>FINAL — Heide Trask 14 — South Brunswick 35</title>
       <description>FINAL — Heide Trask 14 — South Brunswick 35</description>
       <guid isPermaLink="false">2026-09-04|heide trask|south brunswick</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Heide Trask</awayTeam>
       <awayScore>14</awayScore>
@@ -175,10 +127,34 @@
       <source>web</source>
     </item>
     <item>
+      <title>FINAL — J.H. Rose 41 — Laney 17</title>
+      <description>FINAL — J.H. Rose 41 — Laney 17</description>
+      <guid isPermaLink="false">2026-09-04|j.h. rose|laney</guid>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>J.H. Rose</awayTeam>
+      <awayScore>41</awayScore>
+      <homeTeam>Laney</homeTeam>
+      <homeScore>17</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — New Hanover 21 — Carolina Forest 41</title>
+      <description>FINAL — New Hanover 21 — Carolina Forest 41</description>
+      <guid isPermaLink="false">2026-09-04|carolina forest|new hanover</guid>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>New Hanover</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>Carolina Forest</homeTeam>
+      <homeScore>41</homeScore>
+      <source>web</source>
+    </item>
+    <item>
       <title>FINAL — NMBHS 35 — West Brunswick 27</title>
       <description>FINAL — NMBHS 35 — West Brunswick 27</description>
       <guid isPermaLink="false">2026-09-04|north myrtle beach|west brunswick</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>NMBHS</awayTeam>
       <awayScore>35</awayScore>
@@ -187,22 +163,34 @@
       <source>web</source>
     </item>
     <item>
-      <title>FINAL — Southern Nash 7 — James Kenan 39</title>
-      <description>FINAL — Southern Nash 7 — James Kenan 39</description>
-      <guid isPermaLink="false">2026-09-04|james kenan|southern nash</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <title>FINAL — South Lenoir 20 — Lejeune 14</title>
+      <description>FINAL — South Lenoir 20 — Lejeune 14</description>
+      <guid isPermaLink="false">2026-09-04|lejeune|south lenoir</guid>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>FINAL</status>
-      <awayTeam>Southern Nash</awayTeam>
-      <awayScore>7</awayScore>
-      <homeTeam>James Kenan</homeTeam>
-      <homeScore>39</homeScore>
+      <awayTeam>South Lenoir</awayTeam>
+      <awayScore>20</awayScore>
+      <homeTeam>Lejeune</homeTeam>
+      <homeScore>14</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — St. Pauls 44 — Red Springs 0</title>
+      <description>FINAL — St. Pauls 44 — Red Springs 0</description>
+      <guid isPermaLink="false">2026-09-04|red springs|st. pauls</guid>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>St. Pauls</awayTeam>
+      <awayScore>44</awayScore>
+      <homeTeam>Red Springs</homeTeam>
+      <homeScore>0</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>FINAL — West Carteret 7 — North Brunswick 27</title>
       <description>FINAL — West Carteret 7 — North Brunswick 27</description>
       <guid isPermaLink="false">2026-09-04|north brunswick|west carteret</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>West Carteret</awayTeam>
       <awayScore>7</awayScore>
@@ -214,24 +202,12 @@
       <title>FINAL — White Oak 12 — Swansboro 20</title>
       <description>FINAL — White Oak 12 — Swansboro 20</description>
       <guid isPermaLink="false">2026-09-04|swansboro|white oak</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:47:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>White Oak</awayTeam>
       <awayScore>12</awayScore>
       <homeTeam>Swansboro</homeTeam>
       <homeScore>20</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — WPA 55 — Pamlico County 14</title>
-      <description>FINAL — WPA 55 — Pamlico County 14</description>
-      <guid isPermaLink="false">2026-09-04|pamlico county|wpa</guid>
-      <pubDate>Fri, 04 Sep 2026 21:40:46 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>WPA</awayTeam>
-      <awayScore>55</awayScore>
-      <homeTeam>Pamlico County</homeTeam>
-      <homeScore>14</homeScore>
       <source>web</source>
     </item>
   </channel>
