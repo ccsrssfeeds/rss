@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:53:48 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:59:54 -0400</lastBuildDate>
     <item>
       <title>FINAL — Dreher 40 — Lakewood 7</title>
       <description>FINAL — Dreher 40 — Lakewood 7</description>
       <guid isPermaLink="false">2026-09-04|dreher|lakewood</guid>
-      <pubDate>Fri, 04 Sep 2026 23:53:48 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:59:54 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Dreher</awayTeam>
       <awayScore>40</awayScore>
@@ -22,7 +22,7 @@
       <title>FINAL — East Carteret 19 — APA 21</title>
       <description>FINAL — East Carteret 19 — APA 21</description>
       <guid isPermaLink="false">2026-09-04|apa|east carteret</guid>
-      <pubDate>Fri, 04 Sep 2026 23:53:48 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:59:54 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>East Carteret</awayTeam>
       <awayScore>19</awayScore>
@@ -34,7 +34,7 @@
       <title>FINAL — New Hanover 21 — Carolina Forest 41</title>
       <description>FINAL — New Hanover 21 — Carolina Forest 41</description>
       <guid isPermaLink="false">2026-09-04|carolina forest|new hanover</guid>
-      <pubDate>Fri, 04 Sep 2026 23:53:48 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:59:54 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>New Hanover</awayTeam>
       <awayScore>21</awayScore>
@@ -46,7 +46,7 @@
       <title>FINAL — Topsail 16 — NJHS 46</title>
       <description>FINAL — Topsail 16 — NJHS 46</description>
       <guid isPermaLink="false">2026-09-04|njhs|topsail</guid>
-      <pubDate>Fri, 04 Sep 2026 23:53:48 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:59:54 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Topsail</awayTeam>
       <awayScore>16</awayScore>
@@ -58,7 +58,7 @@
       <title>FINAL — West Carteret 7 — North Brunswick 27</title>
       <description>FINAL — West Carteret 7 — North Brunswick 27</description>
       <guid isPermaLink="false">2026-09-04|north brunswick|west carteret</guid>
-      <pubDate>Fri, 04 Sep 2026 23:53:48 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:59:54 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>West Carteret</awayTeam>
       <awayScore>7</awayScore>
