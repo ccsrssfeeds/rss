@@ -5,24 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:41:18 -0400</lastBuildDate>
-    <item>
-      <title>FINAL — Douglas Byrd 14 — Purnell Swett 55</title>
-      <description>FINAL — Douglas Byrd 14 — Purnell Swett 55</description>
-      <guid isPermaLink="false">2026-09-04|douglas byrd|purnell swett</guid>
-      <pubDate>Fri, 04 Sep 2026 23:41:18 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Douglas Byrd</awayTeam>
-      <awayScore>14</awayScore>
-      <homeTeam>Purnell Swett</homeTeam>
-      <homeScore>55</homeScore>
-      <source>web</source>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 23:47:53 -0400</lastBuildDate>
     <item>
       <title>FINAL — Dreher 40 — Lakewood 7</title>
       <description>FINAL — Dreher 40 — Lakewood 7</description>
       <guid isPermaLink="false">2026-09-04|dreher|lakewood</guid>
-      <pubDate>Fri, 04 Sep 2026 23:41:18 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:47:53 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Dreher</awayTeam>
       <awayScore>40</awayScore>
@@ -31,10 +19,22 @@
       <source>web</source>
     </item>
     <item>
+      <title>FINAL — East Carteret 19 — APA 21</title>
+      <description>FINAL — East Carteret 19 — APA 21</description>
+      <guid isPermaLink="false">2026-09-04|apa|east carteret</guid>
+      <pubDate>Fri, 04 Sep 2026 23:47:53 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>East Carteret</awayTeam>
+      <awayScore>19</awayScore>
+      <homeTeam>APA</homeTeam>
+      <homeScore>21</homeScore>
+      <source>web</source>
+    </item>
+    <item>
       <title>FINAL — Midway 46 — Lakewood 28</title>
       <description>FINAL — Midway 46 — Lakewood 28</description>
       <guid isPermaLink="false">2026-09-04|lakewood|midway</guid>
-      <pubDate>Fri, 04 Sep 2026 23:41:18 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:47:53 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Midway</awayTeam>
       <awayScore>46</awayScore>
@@ -46,7 +46,7 @@
       <title>FINAL — New Hanover 21 — Carolina Forest 41</title>
       <description>FINAL — New Hanover 21 — Carolina Forest 41</description>
       <guid isPermaLink="false">2026-09-04|carolina forest|new hanover</guid>
-      <pubDate>Fri, 04 Sep 2026 23:41:18 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:47:53 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>New Hanover</awayTeam>
       <awayScore>21</awayScore>
@@ -58,7 +58,7 @@
       <title>FINAL — Topsail 16 — NJHS 46</title>
       <description>FINAL — Topsail 16 — NJHS 46</description>
       <guid isPermaLink="false">2026-09-04|njhs|topsail</guid>
-      <pubDate>Fri, 04 Sep 2026 23:41:18 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:47:53 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Topsail</awayTeam>
       <awayScore>16</awayScore>
