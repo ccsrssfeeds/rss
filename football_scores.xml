@@ -5,36 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:31:46 -0400</lastBuildDate>
-    <item>
-      <title>FINAL — Ashley 15 — Scotland 50</title>
-      <description>FINAL — Ashley 15 — Scotland 50</description>
-      <guid isPermaLink="false">2026-09-04|ashley|scotland</guid>
-      <pubDate>Fri, 04 Sep 2026 23:31:46 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Ashley</awayTeam>
-      <awayScore>15</awayScore>
-      <homeTeam>Scotland</homeTeam>
-      <homeScore>50</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — Clinton 7 — WRHHS 6</title>
-      <description>FINAL — Clinton 7 — WRHHS 6</description>
-      <guid isPermaLink="false">2026-09-04|clinton|wrhhs</guid>
-      <pubDate>Fri, 04 Sep 2026 23:31:46 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Clinton</awayTeam>
-      <awayScore>7</awayScore>
-      <homeTeam>WRHHS</homeTeam>
-      <homeScore>6</homeScore>
-      <source>web</source>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 23:41:18 -0400</lastBuildDate>
     <item>
       <title>FINAL — Douglas Byrd 14 — Purnell Swett 55</title>
       <description>FINAL — Douglas Byrd 14 — Purnell Swett 55</description>
       <guid isPermaLink="false">2026-09-04|douglas byrd|purnell swett</guid>
-      <pubDate>Fri, 04 Sep 2026 23:31:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:41:18 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Douglas Byrd</awayTeam>
       <awayScore>14</awayScore>
@@ -46,7 +22,7 @@
       <title>FINAL — Dreher 40 — Lakewood 7</title>
       <description>FINAL — Dreher 40 — Lakewood 7</description>
       <guid isPermaLink="false">2026-09-04|dreher|lakewood</guid>
-      <pubDate>Fri, 04 Sep 2026 23:31:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:41:18 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Dreher</awayTeam>
       <awayScore>40</awayScore>
@@ -55,10 +31,22 @@
       <source>web</source>
     </item>
     <item>
+      <title>FINAL — Midway 46 — Lakewood 28</title>
+      <description>FINAL — Midway 46 — Lakewood 28</description>
+      <guid isPermaLink="false">2026-09-04|lakewood|midway</guid>
+      <pubDate>Fri, 04 Sep 2026 23:41:18 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Midway</awayTeam>
+      <awayScore>46</awayScore>
+      <homeTeam>Lakewood</homeTeam>
+      <homeScore>28</homeScore>
+      <source>web</source>
+    </item>
+    <item>
       <title>FINAL — New Hanover 21 — Carolina Forest 41</title>
       <description>FINAL — New Hanover 21 — Carolina Forest 41</description>
       <guid isPermaLink="false">2026-09-04|carolina forest|new hanover</guid>
-      <pubDate>Fri, 04 Sep 2026 23:31:46 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 23:41:18 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>New Hanover</awayTeam>
       <awayScore>21</awayScore>
@@ -67,15 +55,15 @@
       <source>web</source>
     </item>
     <item>
-      <title>FINAL — White Oak 12 — Swansboro 20</title>
-      <description>FINAL — White Oak 12 — Swansboro 20</description>
-      <guid isPermaLink="false">2026-09-04|swansboro|white oak</guid>
-      <pubDate>Fri, 04 Sep 2026 23:31:46 -0400</pubDate>
+      <title>FINAL — Topsail 16 — NJHS 46</title>
+      <description>FINAL — Topsail 16 — NJHS 46</description>
+      <guid isPermaLink="false">2026-09-04|njhs|topsail</guid>
+      <pubDate>Fri, 04 Sep 2026 23:41:18 -0400</pubDate>
       <status>FINAL</status>
-      <awayTeam>White Oak</awayTeam>
-      <awayScore>12</awayScore>
-      <homeTeam>Swansboro</homeTeam>
-      <homeScore>20</homeScore>
+      <awayTeam>Topsail</awayTeam>
+      <awayScore>16</awayScore>
+      <homeTeam>NJHS</homeTeam>
+      <homeScore>46</homeScore>
       <source>web</source>
     </item>
   </channel>
