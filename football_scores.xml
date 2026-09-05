@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 00:52:55 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 00:59:03 -0400</lastBuildDate>
     <item>
       <title>FINAL — Aynor 35 — GSFHS 0</title>
       <description>FINAL — Aynor 35 — GSFHS 0</description>
       <guid isPermaLink="false">2026-09-05|aynor|green sea floyds</guid>
-      <pubDate>Sat, 05 Sep 2026 00:52:55 -0400</pubDate>
+      <pubDate>Sat, 05 Sep 2026 00:59:03 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Aynor</awayTeam>
       <awayScore>35</awayScore>
@@ -22,7 +22,7 @@
       <title>FINAL — Clinton 39 — Newberry 28</title>
       <description>FINAL — Clinton 39 — Newberry 28</description>
       <guid isPermaLink="false">2026-09-05|clinton|newberry</guid>
-      <pubDate>Sat, 05 Sep 2026 00:52:55 -0400</pubDate>
+      <pubDate>Sat, 05 Sep 2026 00:59:03 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Clinton</awayTeam>
       <awayScore>39</awayScore>
@@ -34,7 +34,7 @@
       <title>FINAL — East Carteret 19 — APA 21</title>
       <description>FINAL — East Carteret 19 — APA 21</description>
       <guid isPermaLink="false">2026-09-05|apa|east carteret</guid>
-      <pubDate>Sat, 05 Sep 2026 00:52:55 -0400</pubDate>
+      <pubDate>Sat, 05 Sep 2026 00:59:03 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>East Carteret</awayTeam>
       <awayScore>19</awayScore>
@@ -46,7 +46,7 @@
       <title>FINAL — Midway 46 — Lakewood 28</title>
       <description>FINAL — Midway 46 — Lakewood 28</description>
       <guid isPermaLink="false">2026-09-05|lakewood|midway</guid>
-      <pubDate>Sat, 05 Sep 2026 00:52:55 -0400</pubDate>
+      <pubDate>Sat, 05 Sep 2026 00:59:03 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Midway</awayTeam>
       <awayScore>46</awayScore>
@@ -58,7 +58,7 @@
       <title>FINAL — St. Pauls 44 — Red Springs 0</title>
       <description>FINAL — St. Pauls 44 — Red Springs 0</description>
       <guid isPermaLink="false">2026-09-05|red springs|st. pauls</guid>
-      <pubDate>Sat, 05 Sep 2026 00:52:55 -0400</pubDate>
+      <pubDate>Sat, 05 Sep 2026 00:59:03 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>St. Pauls</awayTeam>
       <awayScore>44</awayScore>
