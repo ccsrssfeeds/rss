@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 07:24:03 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:24:11 -0400</lastBuildDate>
     <item>
       <title>9/4 — WPA 55 — Pamlico County 14</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/4/2026&amp;mobile=1</link>
@@ -241,6 +241,17 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-09-04|goldsboro|southern wayne</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/4 — FCHS 39 — D.H. Conley 63</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/4/2026&amp;mobile=1</link>
+      <description>Final: 9/4 — FCHS 39 — D.H. Conley 63</description>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-04|d.h. conley|fchs</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
