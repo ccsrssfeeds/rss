@@ -5,24 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 22:47:58 -0400</lastBuildDate>
-    <item>
-      <title>LIVE — Myrtle Beach 28 — Socastee 23</title>
-      <description>LIVE — Myrtle Beach 28 — Socastee 23</description>
-      <guid isPermaLink="false">2026-09-04|myrtle beach|socastee</guid>
-      <pubDate>Fri, 04 Sep 2026 22:47:58 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Myrtle Beach</awayTeam>
-      <awayScore>28</awayScore>
-      <homeTeam>Socastee</homeTeam>
-      <homeScore>23</homeScore>
-      <source>web</source>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 22:53:59 -0400</lastBuildDate>
     <item>
       <title>FINAL — Clinton 39 — Newberry 28</title>
       <description>FINAL — Clinton 39 — Newberry 28</description>
       <guid isPermaLink="false">2026-09-04|clinton|newberry</guid>
-      <pubDate>Fri, 04 Sep 2026 22:47:58 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:53:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Clinton</awayTeam>
       <awayScore>39</awayScore>
@@ -34,7 +22,7 @@
       <title>FINAL — Dixon 36 — Hobbton 30</title>
       <description>FINAL — Dixon 36 — Hobbton 30</description>
       <guid isPermaLink="false">2026-09-04|dixon|hobbton</guid>
-      <pubDate>Fri, 04 Sep 2026 22:47:58 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:53:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Dixon</awayTeam>
       <awayScore>36</awayScore>
@@ -46,7 +34,7 @@
       <title>FINAL — Dreher 40 — Lakewood 7</title>
       <description>FINAL — Dreher 40 — Lakewood 7</description>
       <guid isPermaLink="false">2026-09-04|dreher|lakewood</guid>
-      <pubDate>Fri, 04 Sep 2026 22:47:58 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:53:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Dreher</awayTeam>
       <awayScore>40</awayScore>
@@ -58,7 +46,7 @@
       <title>FINAL — J.H. Rose 41 — Laney 17</title>
       <description>FINAL — J.H. Rose 41 — Laney 17</description>
       <guid isPermaLink="false">2026-09-04|j.h. rose|laney</guid>
-      <pubDate>Fri, 04 Sep 2026 22:47:58 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:53:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>J.H. Rose</awayTeam>
       <awayScore>41</awayScore>
@@ -70,7 +58,7 @@
       <title>FINAL — Midway 46 — Lakewood 28</title>
       <description>FINAL — Midway 46 — Lakewood 28</description>
       <guid isPermaLink="false">2026-09-04|lakewood|midway</guid>
-      <pubDate>Fri, 04 Sep 2026 22:47:58 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:53:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Midway</awayTeam>
       <awayScore>46</awayScore>
@@ -82,7 +70,7 @@
       <title>FINAL — New Hanover 21 — Carolina Forest 41</title>
       <description>FINAL — New Hanover 21 — Carolina Forest 41</description>
       <guid isPermaLink="false">2026-09-04|carolina forest|new hanover</guid>
-      <pubDate>Fri, 04 Sep 2026 22:47:58 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:53:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>New Hanover</awayTeam>
       <awayScore>21</awayScore>
@@ -94,7 +82,7 @@
       <title>FINAL — South Columbus 0 — Loris 49</title>
       <description>FINAL — South Columbus 0 — Loris 49</description>
       <guid isPermaLink="false">2026-09-04|loris|south columbus</guid>
-      <pubDate>Fri, 04 Sep 2026 22:47:58 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:53:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>South Columbus</awayTeam>
       <awayScore>0</awayScore>
@@ -106,7 +94,7 @@
       <title>FINAL — Southern Nash 7 — James Kenan 39</title>
       <description>FINAL — Southern Nash 7 — James Kenan 39</description>
       <guid isPermaLink="false">2026-09-04|james kenan|southern nash</guid>
-      <pubDate>Fri, 04 Sep 2026 22:47:58 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:53:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Southern Nash</awayTeam>
       <awayScore>7</awayScore>
@@ -118,7 +106,7 @@
       <title>FINAL — Topsail 16 — NJHS 46</title>
       <description>FINAL — Topsail 16 — NJHS 46</description>
       <guid isPermaLink="false">2026-09-04|njhs|topsail</guid>
-      <pubDate>Fri, 04 Sep 2026 22:47:58 -0400</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:53:59 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Topsail</awayTeam>
       <awayScore>16</awayScore>
