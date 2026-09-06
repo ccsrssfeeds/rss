@@ -298,6 +298,10 @@ def main():
         ET.SubElement(item, "title").text = title
         ET.SubElement(item, "link").text = row["source"]
         ET.SubElement(item, "description").text = f"Final: {title}"
+        ET.SubElement(item, "awayTeam").text = row["away_team"]
+        ET.SubElement(item, "awayScore").text = row["away_score"]
+        ET.SubElement(item, "homeTeam").text = row["home_team"]
+        ET.SubElement(item, "homeScore").text = row["home_score"]
         ET.SubElement(item, "awayLogo").text = row["away_logo"]
         ET.SubElement(item, "homeLogo").text = row["home_logo"]
         ET.SubElement(item, "awayImageUrl").text = row["away_logo"]
