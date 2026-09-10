@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:28:08 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 02:33:37 -0400</lastBuildDate>
     <item>
       <title>9/7 — North Pitt 6 — South Central 34</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/7/2026&amp;mobile=1</link>
@@ -550,21 +550,6 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-09-03|north johnston|rosewood</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/3 — Havelock 28 — Tarboro 37</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/3/2026&amp;mobile=1</link>
-      <description>Final: 9/3 — Havelock 28 — Tarboro 37</description>
-      <awayTeam>Havelock</awayTeam>
-      <awayScore>28</awayScore>
-      <homeTeam>Tarboro</homeTeam>
-      <homeScore>37</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-03|havelock|tarboro</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
