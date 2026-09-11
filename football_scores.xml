@@ -5,6 +5,18 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:52:25 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:58:18 -0400</lastBuildDate>
+    <item>
+      <title>LIVE — Washington 0 — Croatan 0</title>
+      <description>LIVE — Washington 0 — Croatan 0</description>
+      <guid isPermaLink="false">2026-09-11|croatan|washington</guid>
+      <pubDate>Fri, 11 Sep 2026 18:58:18 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Washington</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Croatan</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
   </channel>
 </rss>
