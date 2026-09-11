@@ -5,12 +5,120 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:58:18 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:06:48 -0400</lastBuildDate>
+    <item>
+      <title>LIVE — East Columbus 0 — Whiteville 0</title>
+      <description>LIVE — East Columbus 0 — Whiteville 0</description>
+      <guid isPermaLink="false">2026-09-11|east columbus|whiteville</guid>
+      <pubDate>Fri, 11 Sep 2026 19:06:48 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>East Columbus</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Whiteville</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Fike 0 — Ashley 0</title>
+      <description>LIVE — Fike 0 — Ashley 0</description>
+      <guid isPermaLink="false">2026-09-11|ashley|fike</guid>
+      <pubDate>Fri, 11 Sep 2026 19:06:48 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Fike</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Ashley</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Havelock 0 — J.H. Rose 0</title>
+      <description>LIVE — Havelock 0 — J.H. Rose 0</description>
+      <guid isPermaLink="false">2026-09-11|havelock|j.h. rose</guid>
+      <pubDate>Fri, 11 Sep 2026 19:06:48 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Havelock</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>J.H. Rose</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Kinston 0 — White Oak 0</title>
+      <description>LIVE — Kinston 0 — White Oak 0</description>
+      <guid isPermaLink="false">2026-09-11|kinston|white oak</guid>
+      <pubDate>Fri, 11 Sep 2026 19:06:48 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Kinston</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>White Oak</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Laney 7 — South Central 0</title>
+      <description>LIVE — Laney 7 — South Central 0</description>
+      <guid isPermaLink="false">2026-09-11|laney|south central</guid>
+      <pubDate>Fri, 11 Sep 2026 19:06:48 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Laney</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>South Central</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Midway 0 — South Johnston 0</title>
+      <description>LIVE — Midway 0 — South Johnston 0</description>
+      <guid isPermaLink="false">2026-09-11|midway|south johnston</guid>
+      <pubDate>Fri, 11 Sep 2026 19:06:48 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Midway</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>South Johnston</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — NJHS 0 — New Hanover 0</title>
+      <description>LIVE — NJHS 0 — New Hanover 0</description>
+      <guid isPermaLink="false">2026-09-11|new hanover|njhs</guid>
+      <pubDate>Fri, 11 Sep 2026 19:06:48 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>NJHS</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>New Hanover</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Pender 0 — WRHHS 0</title>
+      <description>LIVE — Pender 0 — WRHHS 0</description>
+      <guid isPermaLink="false">2026-09-11|pender|wrhhs</guid>
+      <pubDate>Fri, 11 Sep 2026 19:06:48 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Pender</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>WRHHS</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Swansboro 7 — East Carteret 0</title>
+      <description>LIVE — Swansboro 7 — East Carteret 0</description>
+      <guid isPermaLink="false">2026-09-11|east carteret|swansboro</guid>
+      <pubDate>Fri, 11 Sep 2026 19:06:48 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Swansboro</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>East Carteret</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
     <item>
       <title>LIVE — Washington 0 — Croatan 0</title>
       <description>LIVE — Washington 0 — Croatan 0</description>
       <guid isPermaLink="false">2026-09-11|croatan|washington</guid>
-      <pubDate>Fri, 11 Sep 2026 18:58:18 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 19:06:48 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Washington</awayTeam>
       <awayScore>0</awayScore>
