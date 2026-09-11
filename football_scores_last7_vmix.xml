@@ -7,7 +7,7 @@
     <HomeScore>30</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Date>Thu, 10 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
@@ -18,26 +18,6 @@
     <AwayLogo />
     <HomeLogo />
     <Date>Mon, 07 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Lenoir</AwayTeam>
-    <AwayScore>12</AwayScore>
-    <HomeTeam>Ayden - Grifton</HomeTeam>
-    <HomeScore>30</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Lenoir</AwayTeam>
-    <AwayScore>12</AwayScore>
-    <HomeTeam>Ayden - Grifton</HomeTeam>
-    <HomeScore>30</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
@@ -378,36 +358,6 @@
     <AwayLogo />
     <HomeLogo />
     <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rosewood</AwayTeam>
-    <AwayScore>34</AwayScore>
-    <HomeTeam>North Johnston</HomeTeam>
-    <HomeScore>18</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 03 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>BGC</AwayTeam>
-    <AwayScore>22</AwayScore>
-    <HomeTeam>Union</HomeTeam>
-    <HomeScore>46</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 03 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ayden - Grifton</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>Fike</HomeTeam>
-    <HomeScore>55</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 03 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
 </Scores>

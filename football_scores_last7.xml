@@ -5,11 +5,11 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 22:27:52 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:29:08 -0400</lastBuildDate>
     <item>
-      <title>9/9 — North Lenoir 12 — Ayden - Grifton 30</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/9/2026&amp;mobile=1</link>
-      <description>Final: 9/9 — North Lenoir 12 — Ayden - Grifton 30</description>
+      <title>9/10 — North Lenoir 12 — Ayden - Grifton 30</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/10/2026&amp;mobile=1</link>
+      <description>Final: 9/10 — North Lenoir 12 — Ayden - Grifton 30</description>
       <awayTeam>North Lenoir</awayTeam>
       <awayScore>12</awayScore>
       <homeTeam>Ayden - Grifton</homeTeam>
@@ -18,8 +18,8 @@
       <homeLogo />
       <awayImageUrl />
       <homeImageUrl />
-      <guid isPermaLink="false">2026-09-09|ayden - grifton|north lenoir</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">2026-09-10|ayden - grifton|north lenoir</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
       <title>9/7 — North Pitt 6 — South Central 34</title>
@@ -35,36 +35,6 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-09-07|north pitt|south central</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/6 — North Lenoir 12 — Ayden - Grifton 30</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/6/2026&amp;mobile=1</link>
-      <description>Final: 9/6 — North Lenoir 12 — Ayden - Grifton 30</description>
-      <awayTeam>North Lenoir</awayTeam>
-      <awayScore>12</awayScore>
-      <homeTeam>Ayden - Grifton</homeTeam>
-      <homeScore>30</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-06|ayden - grifton|north lenoir</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/5 — North Lenoir 12 — Ayden - Grifton 30</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/5/2026&amp;mobile=1</link>
-      <description>Final: 9/5 — North Lenoir 12 — Ayden - Grifton 30</description>
-      <awayTeam>North Lenoir</awayTeam>
-      <awayScore>12</awayScore>
-      <homeTeam>Ayden - Grifton</homeTeam>
-      <homeScore>30</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-05|ayden - grifton|north lenoir</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
       <title>9/4 — WPA 55 — Pamlico County 14</title>
@@ -581,51 +551,6 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-09-04|ashley|scotland</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/3 — Rosewood 34 — North Johnston 18</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/3/2026&amp;mobile=1</link>
-      <description>Final: 9/3 — Rosewood 34 — North Johnston 18</description>
-      <awayTeam>Rosewood</awayTeam>
-      <awayScore>34</awayScore>
-      <homeTeam>North Johnston</homeTeam>
-      <homeScore>18</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-03|north johnston|rosewood</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/3 — BGC 22 — Union 46</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/3/2026&amp;mobile=1</link>
-      <description>Final: 9/3 — BGC 22 — Union 46</description>
-      <awayTeam>BGC</awayTeam>
-      <awayScore>22</awayScore>
-      <homeTeam>Union</homeTeam>
-      <homeScore>46</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-03|bgc|union</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/3 — Ayden - Grifton 0 — Fike 55</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/3/2026&amp;mobile=1</link>
-      <description>Final: 9/3 — Ayden - Grifton 0 — Fike 55</description>
-      <awayTeam>Ayden - Grifton</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Fike</homeTeam>
-      <homeScore>55</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-03|ayden - grifton|fike</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
