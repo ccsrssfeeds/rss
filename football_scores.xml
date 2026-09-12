@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:46:07 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 22:53:21 -0400</lastBuildDate>
     <item>
       <title>FINAL — Fairmont 36 — Lakewood 29</title>
       <description>FINAL — Fairmont 36 — Lakewood 29</description>
       <guid isPermaLink="false">2026-09-11|fairmont|lakewood</guid>
-      <pubDate>Fri, 11 Sep 2026 22:46:07 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:53:21 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Fairmont</awayTeam>
       <awayScore>36</awayScore>
@@ -22,7 +22,7 @@
       <title>FINAL — Fike 46 — Ashley 27</title>
       <description>FINAL — Fike 46 — Ashley 27</description>
       <guid isPermaLink="false">2026-09-11|ashley|fike</guid>
-      <pubDate>Fri, 11 Sep 2026 22:46:07 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:53:21 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Fike</awayTeam>
       <awayScore>46</awayScore>
@@ -31,10 +31,22 @@
       <source>web</source>
     </item>
     <item>
+      <title>FINAL — Panther Creek 7 — (#14) Hoggard 40</title>
+      <description>FINAL — Panther Creek 7 — (#14) Hoggard 40</description>
+      <guid isPermaLink="false">2026-09-11|hoggard|panther creek</guid>
+      <pubDate>Fri, 11 Sep 2026 22:53:21 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Panther Creek</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>(#14) Hoggard</homeTeam>
+      <homeScore>40</homeScore>
+      <source>web</source>
+    </item>
+    <item>
       <title>FINAL — Pender 6 — WRHHS 28</title>
       <description>FINAL — Pender 6 — WRHHS 28</description>
       <guid isPermaLink="false">2026-09-11|pender|wrhhs</guid>
-      <pubDate>Fri, 11 Sep 2026 22:46:07 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:53:21 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Pender</awayTeam>
       <awayScore>6</awayScore>
