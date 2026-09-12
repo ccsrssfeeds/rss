@@ -1,6 +1,326 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Scores>
   <Score>
+    <AwayTeam>West Brunswick</AwayTeam>
+    <AwayScore>21</AwayScore>
+    <HomeTeam>South Columbus</HomeTeam>
+    <HomeScore>22</HomeScore>
+    <AwayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</AwayLogo>
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Washington</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Croatan</HomeTeam>
+    <HomeScore>38</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Union</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Lejeune</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Swansboro</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>East Carteret</HomeTeam>
+    <HomeScore>0</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>SOHS</AwayTeam>
+    <AwayScore>58</AwayScore>
+    <HomeTeam>Dixon</HomeTeam>
+    <HomeScore>57</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Richlands</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>South Brunswick</HomeTeam>
+    <HomeScore>27</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Red Springs</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Purnell Swett</HomeTeam>
+    <HomeScore>62</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Pender</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>WRHHS</HomeTeam>
+    <HomeScore>28</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Panther Creek</AwayTeam>
+    <AwayScore>7</AwayScore>
+    <HomeTeam>(#14) Hoggard</HomeTeam>
+    <HomeScore>40</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>North Brunswick</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>St. Pauls</HomeTeam>
+    <HomeScore>43</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>NJHS</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>New Hanover</HomeTeam>
+    <HomeScore>0</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>(#22) New Bern</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>(#10) Cleveland</HomeTeam>
+    <HomeScore>50</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Midway</AwayTeam>
+    <AwayScore>27</AwayScore>
+    <HomeTeam>South Johnston</HomeTeam>
+    <HomeScore>12</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Loris</AwayTeam>
+    <AwayScore>42</AwayScore>
+    <HomeTeam>NMBHS</HomeTeam>
+    <HomeScore>58</HomeScore>
+    <AwayLogo />
+    <HomeLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</HomeLogo>
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Latta</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Aynor</HomeTeam>
+    <HomeScore>32</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Laney</AwayTeam>
+    <AwayScore>45</AwayScore>
+    <HomeTeam>South Central</HomeTeam>
+    <HomeScore>42</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Kinston</AwayTeam>
+    <AwayScore>45</AwayScore>
+    <HomeTeam>White Oak</HomeTeam>
+    <HomeScore>6</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>James Kenan</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>East Duplin</HomeTeam>
+    <HomeScore>21</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Jacksonville</AwayTeam>
+    <AwayScore>47</AwayScore>
+    <HomeTeam>Topsail</HomeTeam>
+    <HomeScore>20</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Hobbton</AwayTeam>
+    <AwayScore>30</AwayScore>
+    <HomeTeam>Rosewood</HomeTeam>
+    <HomeScore>38</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Havelock</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>J.H. Rose</HomeTeam>
+    <HomeScore>40</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Greene Central</AwayTeam>
+    <AwayScore>29</AwayScore>
+    <HomeTeam>North Pitt</HomeTeam>
+    <HomeScore>8</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Garner</AwayTeam>
+    <AwayScore>49</AwayScore>
+    <HomeTeam>D.H. Conley</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Fike</AwayTeam>
+    <AwayScore>46</AwayScore>
+    <HomeTeam>Ashley</HomeTeam>
+    <HomeScore>27</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>FCHS</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>West Craven</HomeTeam>
+    <HomeScore>32</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Fairmont</AwayTeam>
+    <AwayScore>36</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>29</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>East Columbus</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Whiteville</HomeTeam>
+    <HomeScore>41</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Conway</AwayTeam>
+    <AwayScore>41</AwayScore>
+    <HomeTeam>Socastee</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</HomeLogo>
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Clinton</AwayTeam>
+    <AwayScore>13</AwayScore>
+    <HomeTeam>Chapman</HomeTeam>
+    <HomeScore>45</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Carolina Forest</AwayTeam>
+    <AwayScore>38</AwayScore>
+    <HomeTeam>Myrtle Beach</HomeTeam>
+    <HomeScore>41</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>C.B. Aycock</AwayTeam>
+    <AwayScore>61</AwayScore>
+    <HomeTeam>Goldsboro</HomeTeam>
+    <HomeScore>0</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Brookland-Cayce</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>6</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
     <AwayTeam>North Lenoir</AwayTeam>
     <AwayScore>12</AwayScore>
     <HomeTeam>Ayden - Grifton</HomeTeam>
@@ -8,6 +328,386 @@
     <AwayLogo />
     <HomeLogo />
     <Date>Thu, 10 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>West Brunswick</AwayTeam>
+    <AwayScore>21</AwayScore>
+    <HomeTeam>South Columbus</HomeTeam>
+    <HomeScore>22</HomeScore>
+    <AwayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</AwayLogo>
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Washington</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Croatan</HomeTeam>
+    <HomeScore>38</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Union</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Lejeune</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Swansboro</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>East Carteret</HomeTeam>
+    <HomeScore>0</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>SOHS</AwayTeam>
+    <AwayScore>58</AwayScore>
+    <HomeTeam>Dixon</HomeTeam>
+    <HomeScore>57</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Richlands</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>South Brunswick</HomeTeam>
+    <HomeScore>27</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Red Springs</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Purnell Swett</HomeTeam>
+    <HomeScore>62</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Pender</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>WRHHS</HomeTeam>
+    <HomeScore>28</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Panther Creek</AwayTeam>
+    <AwayScore>7</AwayScore>
+    <HomeTeam>(#14) Hoggard</HomeTeam>
+    <HomeScore>40</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>North Brunswick</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>St. Pauls</HomeTeam>
+    <HomeScore>43</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>NJHS</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>New Hanover</HomeTeam>
+    <HomeScore>0</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>(#22) New Bern</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>(#10) Cleveland</HomeTeam>
+    <HomeScore>50</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Midway</AwayTeam>
+    <AwayScore>27</AwayScore>
+    <HomeTeam>South Johnston</HomeTeam>
+    <HomeScore>12</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Loris</AwayTeam>
+    <AwayScore>42</AwayScore>
+    <HomeTeam>NMBHS</HomeTeam>
+    <HomeScore>58</HomeScore>
+    <AwayLogo />
+    <HomeLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</HomeLogo>
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Latta</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Aynor</HomeTeam>
+    <HomeScore>32</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Laney</AwayTeam>
+    <AwayScore>45</AwayScore>
+    <HomeTeam>South Central</HomeTeam>
+    <HomeScore>42</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Kinston</AwayTeam>
+    <AwayScore>45</AwayScore>
+    <HomeTeam>White Oak</HomeTeam>
+    <HomeScore>6</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>James Kenan</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>East Duplin</HomeTeam>
+    <HomeScore>21</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Jacksonville</AwayTeam>
+    <AwayScore>47</AwayScore>
+    <HomeTeam>Topsail</HomeTeam>
+    <HomeScore>20</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Hobbton</AwayTeam>
+    <AwayScore>30</AwayScore>
+    <HomeTeam>Rosewood</HomeTeam>
+    <HomeScore>38</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Havelock</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>J.H. Rose</HomeTeam>
+    <HomeScore>40</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Greene Central</AwayTeam>
+    <AwayScore>29</AwayScore>
+    <HomeTeam>North Pitt</HomeTeam>
+    <HomeScore>8</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Garner</AwayTeam>
+    <AwayScore>49</AwayScore>
+    <HomeTeam>D.H. Conley</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Fike</AwayTeam>
+    <AwayScore>46</AwayScore>
+    <HomeTeam>Ashley</HomeTeam>
+    <HomeScore>27</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>FCHS</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>West Craven</HomeTeam>
+    <HomeScore>32</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Fairmont</AwayTeam>
+    <AwayScore>36</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>29</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>East Columbus</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Whiteville</HomeTeam>
+    <HomeScore>41</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Conway</AwayTeam>
+    <AwayScore>41</AwayScore>
+    <HomeTeam>Socastee</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</HomeLogo>
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Clinton</AwayTeam>
+    <AwayScore>13</AwayScore>
+    <HomeTeam>Chapman</HomeTeam>
+    <HomeScore>45</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Carolina Forest</AwayTeam>
+    <AwayScore>38</AwayScore>
+    <HomeTeam>Myrtle Beach</HomeTeam>
+    <HomeScore>41</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>C.B. Aycock</AwayTeam>
+    <AwayScore>61</AwayScore>
+    <HomeTeam>Goldsboro</HomeTeam>
+    <HomeScore>0</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Brookland-Cayce</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>6</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 09 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Loris</AwayTeam>
+    <AwayScore>42</AwayScore>
+    <HomeTeam>NMBHS</HomeTeam>
+    <HomeScore>58</HomeScore>
+    <AwayLogo />
+    <HomeLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</HomeLogo>
+    <Date>Tue, 08 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Latta</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Aynor</HomeTeam>
+    <HomeScore>32</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Tue, 08 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Conway</AwayTeam>
+    <AwayScore>41</AwayScore>
+    <HomeTeam>Socastee</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</HomeLogo>
+    <Date>Tue, 08 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Clinton</AwayTeam>
+    <AwayScore>13</AwayScore>
+    <HomeTeam>Chapman</HomeTeam>
+    <HomeScore>45</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Tue, 08 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Carolina Forest</AwayTeam>
+    <AwayScore>38</AwayScore>
+    <HomeTeam>Myrtle Beach</HomeTeam>
+    <HomeScore>41</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Tue, 08 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Brookland-Cayce</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>6</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Tue, 08 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
@@ -21,343 +721,703 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>WPA</AwayTeam>
-    <AwayScore>55</AwayScore>
-    <HomeTeam>Pamlico County</HomeTeam>
-    <HomeScore>14</HomeScore>
+    <AwayTeam>Loris</AwayTeam>
+    <AwayScore>42</AwayScore>
+    <HomeTeam>NMBHS</HomeTeam>
+    <HomeScore>58</HomeScore>
     <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <HomeLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</HomeLogo>
+    <Date>Mon, 07 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Whiteville</AwayTeam>
-    <AwayScore>48</AwayScore>
-    <HomeTeam>East Bladen</HomeTeam>
-    <HomeScore>36</HomeScore>
+    <AwayTeam>Latta</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Aynor</HomeTeam>
+    <HomeScore>32</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Mon, 07 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>White Oak</AwayTeam>
-    <AwayScore>12</AwayScore>
-    <HomeTeam>Swansboro</HomeTeam>
-    <HomeScore>20</HomeScore>
+    <AwayTeam>Conway</AwayTeam>
+    <AwayScore>41</AwayScore>
+    <HomeTeam>Socastee</HomeTeam>
+    <HomeScore>35</HomeScore>
     <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <HomeLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</HomeLogo>
+    <Date>Mon, 07 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>West Craven</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>(#22) New Bern</HomeTeam>
-    <HomeScore>34</HomeScore>
+    <AwayTeam>Clinton</AwayTeam>
+    <AwayScore>13</AwayScore>
+    <HomeTeam>Chapman</HomeTeam>
+    <HomeScore>45</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Mon, 07 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>West Carteret</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>North Brunswick</HomeTeam>
-    <HomeScore>27</HomeScore>
+    <AwayTeam>Carolina Forest</AwayTeam>
+    <AwayScore>38</AwayScore>
+    <HomeTeam>Myrtle Beach</HomeTeam>
+    <HomeScore>41</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Mon, 07 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>West Bladen</AwayTeam>
-    <AwayScore>16</AwayScore>
-    <HomeTeam>West Columbus</HomeTeam>
-    <HomeScore>36</HomeScore>
+    <AwayTeam>Brookland-Cayce</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>6</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Mon, 07 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Topsail</AwayTeam>
-    <AwayScore>16</AwayScore>
-    <HomeTeam>NJHS</HomeTeam>
-    <HomeScore>46</HomeScore>
-    <AwayLogo />
+    <AwayTeam>West Brunswick</AwayTeam>
+    <AwayScore>21</AwayScore>
+    <HomeTeam>South Columbus</HomeTeam>
+    <HomeScore>22</HomeScore>
+    <AwayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</AwayLogo>
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>St. Pauls</AwayTeam>
-    <AwayScore>44</AwayScore>
-    <HomeTeam>Red Springs</HomeTeam>
+    <AwayTeam>Washington</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Croatan</HomeTeam>
+    <HomeScore>38</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Union</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Lejeune</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Swansboro</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>East Carteret</HomeTeam>
     <HomeScore>0</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Southern Nash</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>James Kenan</HomeTeam>
-    <HomeScore>39</HomeScore>
+    <AwayTeam>SOHS</AwayTeam>
+    <AwayScore>58</AwayScore>
+    <HomeTeam>Dixon</HomeTeam>
+    <HomeScore>57</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Lenoir</AwayTeam>
-    <AwayScore>20</AwayScore>
-    <HomeTeam>Lejeune</HomeTeam>
-    <HomeScore>14</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Columbus</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>Loris</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>Richlands</AwayTeam>
-    <AwayScore>13</AwayScore>
-    <HomeTeam>East Duplin</HomeTeam>
-    <HomeScore>34</HomeScore>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>South Brunswick</HomeTeam>
+    <HomeScore>27</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>NMBHS</AwayTeam>
-    <AwayScore>42</AwayScore>
-    <HomeTeam>West Brunswick</HomeTeam>
-    <HomeScore>41</HomeScore>
-    <AwayLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</AwayLogo>
-    <HomeLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</HomeLogo>
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Lenoir</AwayTeam>
+    <AwayTeam>Red Springs</AwayTeam>
     <AwayScore>0</AwayScore>
-    <HomeTeam>Kinston</HomeTeam>
-    <HomeScore>45</HomeScore>
+    <HomeTeam>Purnell Swett</HomeTeam>
+    <HomeScore>62</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>New Hanover</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>Carolina Forest</HomeTeam>
-    <HomeScore>41</HomeScore>
+    <AwayTeam>Pender</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>WRHHS</HomeTeam>
+    <HomeScore>28</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Myrtle Beach</AwayTeam>
-    <AwayScore>28</AwayScore>
-    <HomeTeam>Socastee</HomeTeam>
-    <HomeScore>23</HomeScore>
+    <AwayTeam>Panther Creek</AwayTeam>
+    <AwayScore>7</AwayScore>
+    <HomeTeam>(#14) Hoggard</HomeTeam>
+    <HomeScore>40</HomeScore>
     <AwayLogo />
-    <HomeLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</HomeLogo>
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>North Brunswick</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>St. Pauls</HomeTeam>
+    <HomeScore>43</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>NJHS</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>New Hanover</HomeTeam>
+    <HomeScore>0</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>(#22) New Bern</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>(#10) Cleveland</HomeTeam>
+    <HomeScore>50</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>Midway</AwayTeam>
-    <AwayScore>46</AwayScore>
-    <HomeTeam>Lakewood</HomeTeam>
-    <HomeScore>28</HomeScore>
+    <AwayScore>27</AwayScore>
+    <HomeTeam>South Johnston</HomeTeam>
+    <HomeScore>12</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Lumberton</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>Westover</HomeTeam>
-    <HomeScore>33</HomeScore>
+    <AwayTeam>Loris</AwayTeam>
+    <AwayScore>42</AwayScore>
+    <HomeTeam>NMBHS</HomeTeam>
+    <HomeScore>58</HomeScore>
     <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <HomeLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</HomeLogo>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>J.H. Rose</AwayTeam>
-    <AwayScore>41</AwayScore>
-    <HomeTeam>Laney</HomeTeam>
-    <HomeScore>17</HomeScore>
+    <AwayTeam>Latta</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Aynor</HomeTeam>
+    <HomeScore>32</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>(#14) Hoggard</AwayTeam>
-    <AwayScore>17</AwayScore>
-    <HomeTeam>(#13) Clayton</HomeTeam>
+    <AwayTeam>Laney</AwayTeam>
+    <AwayScore>45</AwayScore>
+    <HomeTeam>South Central</HomeTeam>
+    <HomeScore>42</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Kinston</AwayTeam>
+    <AwayScore>45</AwayScore>
+    <HomeTeam>White Oak</HomeTeam>
+    <HomeScore>6</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>James Kenan</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>East Duplin</HomeTeam>
     <HomeScore>21</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Heide Trask</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>South Brunswick</HomeTeam>
-    <HomeScore>35</HomeScore>
+    <AwayTeam>Jacksonville</AwayTeam>
+    <AwayScore>47</AwayScore>
+    <HomeTeam>Topsail</HomeTeam>
+    <HomeScore>20</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Goldsboro</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>Southern Wayne</HomeTeam>
-    <HomeScore>50</HomeScore>
+    <AwayTeam>Hobbton</AwayTeam>
+    <AwayScore>30</AwayScore>
+    <HomeTeam>Rosewood</HomeTeam>
+    <HomeScore>38</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Havelock</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>J.H. Rose</HomeTeam>
+    <HomeScore>40</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Greene Central</AwayTeam>
+    <AwayScore>29</AwayScore>
+    <HomeTeam>North Pitt</HomeTeam>
+    <HomeScore>8</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Garner</AwayTeam>
+    <AwayScore>49</AwayScore>
+    <HomeTeam>D.H. Conley</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Fike</AwayTeam>
+    <AwayScore>46</AwayScore>
+    <HomeTeam>Ashley</HomeTeam>
+    <HomeScore>27</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>FCHS</AwayTeam>
-    <AwayScore>39</AwayScore>
-    <HomeTeam>D.H. Conley</HomeTeam>
-    <HomeScore>63</HomeScore>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>West Craven</HomeTeam>
+    <HomeScore>32</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>East Carteret</AwayTeam>
-    <AwayScore>19</AwayScore>
-    <HomeTeam>APA</HomeTeam>
-    <HomeScore>21</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Dreher</AwayTeam>
-    <AwayScore>40</AwayScore>
-    <HomeTeam>Lakewood</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Douglas Byrd</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Purnell Swett</HomeTeam>
-    <HomeScore>55</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Dixon</AwayTeam>
+    <AwayTeam>Fairmont</AwayTeam>
     <AwayScore>36</AwayScore>
-    <HomeTeam>Hobbton</HomeTeam>
-    <HomeScore>30</HomeScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>29</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Croatan</AwayTeam>
-    <AwayScore>45</AwayScore>
-    <HomeTeam>SOHS</HomeTeam>
-    <HomeScore>22</HomeScore>
+    <AwayTeam>East Columbus</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Whiteville</HomeTeam>
+    <HomeScore>41</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Conway</AwayTeam>
+    <AwayScore>41</AwayScore>
+    <HomeTeam>Socastee</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</HomeLogo>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>Clinton</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>WRHHS</HomeTeam>
+    <AwayScore>13</AwayScore>
+    <HomeTeam>Chapman</HomeTeam>
+    <HomeScore>45</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Carolina Forest</AwayTeam>
+    <AwayScore>38</AwayScore>
+    <HomeTeam>Myrtle Beach</HomeTeam>
+    <HomeScore>41</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>C.B. Aycock</AwayTeam>
+    <AwayScore>61</AwayScore>
+    <HomeTeam>Goldsboro</HomeTeam>
+    <HomeScore>0</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Brookland-Cayce</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
     <HomeScore>6</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sun, 06 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>West Brunswick</AwayTeam>
+    <AwayScore>21</AwayScore>
+    <HomeTeam>South Columbus</HomeTeam>
+    <HomeScore>22</HomeScore>
+    <AwayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</AwayLogo>
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Washington</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Croatan</HomeTeam>
+    <HomeScore>38</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Union</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Lejeune</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Swansboro</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>East Carteret</HomeTeam>
+    <HomeScore>0</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>SOHS</AwayTeam>
+    <AwayScore>58</AwayScore>
+    <HomeTeam>Dixon</HomeTeam>
+    <HomeScore>57</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Richlands</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>South Brunswick</HomeTeam>
+    <HomeScore>27</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Red Springs</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Purnell Swett</HomeTeam>
+    <HomeScore>62</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Pender</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>WRHHS</HomeTeam>
+    <HomeScore>28</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Panther Creek</AwayTeam>
+    <AwayScore>7</AwayScore>
+    <HomeTeam>(#14) Hoggard</HomeTeam>
+    <HomeScore>40</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>North Brunswick</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>St. Pauls</HomeTeam>
+    <HomeScore>43</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>NJHS</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>New Hanover</HomeTeam>
+    <HomeScore>0</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>(#22) New Bern</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>(#10) Cleveland</HomeTeam>
+    <HomeScore>50</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Midway</AwayTeam>
+    <AwayScore>27</AwayScore>
+    <HomeTeam>South Johnston</HomeTeam>
+    <HomeScore>12</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Loris</AwayTeam>
+    <AwayScore>42</AwayScore>
+    <HomeTeam>NMBHS</HomeTeam>
+    <HomeScore>58</HomeScore>
+    <AwayLogo />
+    <HomeLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</HomeLogo>
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Latta</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Aynor</HomeTeam>
+    <HomeScore>32</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Laney</AwayTeam>
+    <AwayScore>45</AwayScore>
+    <HomeTeam>South Central</HomeTeam>
+    <HomeScore>42</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Kinston</AwayTeam>
+    <AwayScore>45</AwayScore>
+    <HomeTeam>White Oak</HomeTeam>
+    <HomeScore>6</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>James Kenan</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>East Duplin</HomeTeam>
+    <HomeScore>21</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Jacksonville</AwayTeam>
+    <AwayScore>47</AwayScore>
+    <HomeTeam>Topsail</HomeTeam>
+    <HomeScore>20</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Hobbton</AwayTeam>
+    <AwayScore>30</AwayScore>
+    <HomeTeam>Rosewood</HomeTeam>
+    <HomeScore>38</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Havelock</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>J.H. Rose</HomeTeam>
+    <HomeScore>40</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Greene Central</AwayTeam>
+    <AwayScore>29</AwayScore>
+    <HomeTeam>North Pitt</HomeTeam>
+    <HomeScore>8</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Garner</AwayTeam>
+    <AwayScore>49</AwayScore>
+    <HomeTeam>D.H. Conley</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Fike</AwayTeam>
+    <AwayScore>46</AwayScore>
+    <HomeTeam>Ashley</HomeTeam>
+    <HomeScore>27</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>FCHS</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>West Craven</HomeTeam>
+    <HomeScore>32</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Fairmont</AwayTeam>
+    <AwayScore>36</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>29</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>East Columbus</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Whiteville</HomeTeam>
+    <HomeScore>41</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Conway</AwayTeam>
+    <AwayScore>41</AwayScore>
+    <HomeTeam>Socastee</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</HomeLogo>
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>Clinton</AwayTeam>
-    <AwayScore>39</AwayScore>
-    <HomeTeam>Newberry</HomeTeam>
-    <HomeScore>28</HomeScore>
+    <AwayScore>13</AwayScore>
+    <HomeTeam>Chapman</HomeTeam>
+    <HomeScore>45</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Chatham Central</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>East Columbus</HomeTeam>
+    <AwayTeam>Carolina Forest</AwayTeam>
+    <AwayScore>38</AwayScore>
+    <HomeTeam>Myrtle Beach</HomeTeam>
+    <HomeScore>41</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>C.B. Aycock</AwayTeam>
+    <AwayScore>61</AwayScore>
+    <HomeTeam>Goldsboro</HomeTeam>
     <HomeScore>0</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>(#24) Berkeley</AwayTeam>
-    <AwayScore>46</AwayScore>
-    <HomeTeam>St. James</HomeTeam>
-    <HomeScore>10</HomeScore>
+    <AwayTeam>Brookland-Cayce</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>6</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Aynor</AwayTeam>
-    <AwayScore>35</AwayScore>
-    <HomeTeam>GSFHS</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ashley</AwayTeam>
-    <AwayScore>15</AwayScore>
-    <HomeTeam>Scotland</HomeTeam>
-    <HomeScore>50</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 04 Sep 2026 00:00:00 -0400</Date>
+    <Date>Sat, 05 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
 </Scores>
