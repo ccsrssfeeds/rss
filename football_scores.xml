@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:14:45 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 22:26:47 -0400</lastBuildDate>
     <item>
       <title>LIVE — Conway 41 — Socastee 35</title>
       <description>LIVE — Conway 41 — Socastee 35</description>
       <guid isPermaLink="false">2026-09-11|conway|socastee</guid>
-      <pubDate>Fri, 11 Sep 2026 22:14:45 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Conway</awayTeam>
       <awayScore>41</awayScore>
@@ -22,7 +22,7 @@
       <title>LIVE — Hemingway 0 — GSFHS 55</title>
       <description>LIVE — Hemingway 0 — GSFHS 55</description>
       <guid isPermaLink="false">2026-09-11|green sea floyds|hemingway</guid>
-      <pubDate>Fri, 11 Sep 2026 22:14:45 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Hemingway</awayTeam>
       <awayScore>0</awayScore>
@@ -34,7 +34,7 @@
       <title>LIVE — Latta 0 — Aynor 16</title>
       <description>LIVE — Latta 0 — Aynor 16</description>
       <guid isPermaLink="false">2026-09-11|aynor|latta</guid>
-      <pubDate>Fri, 11 Sep 2026 22:14:45 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Latta</awayTeam>
       <awayScore>0</awayScore>
@@ -43,22 +43,10 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Loris 42 — NMBHS 52</title>
-      <description>LIVE — Loris 42 — NMBHS 52</description>
-      <guid isPermaLink="false">2026-09-11|loris|north myrtle beach</guid>
-      <pubDate>Fri, 11 Sep 2026 22:14:45 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Loris</awayTeam>
-      <awayScore>42</awayScore>
-      <homeTeam>NMBHS</homeTeam>
-      <homeScore>52</homeScore>
-      <source>web</source>
-    </item>
-    <item>
       <title>FINAL — Brookland-Cayce 26 — Lakewood 6</title>
       <description>FINAL — Brookland-Cayce 26 — Lakewood 6</description>
       <guid isPermaLink="false">2026-09-11|brookland-cayce|lakewood</guid>
-      <pubDate>Fri, 11 Sep 2026 22:14:45 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Brookland-Cayce</awayTeam>
       <awayScore>26</awayScore>
@@ -70,7 +58,7 @@
       <title>FINAL — Clinton 13 — Chapman 45</title>
       <description>FINAL — Clinton 13 — Chapman 45</description>
       <guid isPermaLink="false">2026-09-11|chapman|clinton</guid>
-      <pubDate>Fri, 11 Sep 2026 22:14:45 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Clinton</awayTeam>
       <awayScore>13</awayScore>
@@ -82,7 +70,7 @@
       <title>FINAL — Garner 49 — D.H. Conley 7</title>
       <description>FINAL — Garner 49 — D.H. Conley 7</description>
       <guid isPermaLink="false">2026-09-11|d.h. conley|garner</guid>
-      <pubDate>Fri, 11 Sep 2026 22:14:45 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Garner</awayTeam>
       <awayScore>49</awayScore>
@@ -94,7 +82,7 @@
       <title>FINAL — Laney 45 — South Central 42</title>
       <description>FINAL — Laney 45 — South Central 42</description>
       <guid isPermaLink="false">2026-09-11|laney|south central</guid>
-      <pubDate>Fri, 11 Sep 2026 22:14:45 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Laney</awayTeam>
       <awayScore>45</awayScore>
@@ -103,10 +91,34 @@
       <source>web</source>
     </item>
     <item>
+      <title>FINAL — Loris 42 — NMBHS 58</title>
+      <description>FINAL — Loris 42 — NMBHS 58</description>
+      <guid isPermaLink="false">2026-09-11|loris|north myrtle beach</guid>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Loris</awayTeam>
+      <awayScore>42</awayScore>
+      <homeTeam>NMBHS</homeTeam>
+      <homeScore>58</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — Midway 27 — South Johnston 12</title>
+      <description>FINAL — Midway 27 — South Johnston 12</description>
+      <guid isPermaLink="false">2026-09-11|midway|south johnston</guid>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Midway</awayTeam>
+      <awayScore>27</awayScore>
+      <homeTeam>South Johnston</homeTeam>
+      <homeScore>12</homeScore>
+      <source>web</source>
+    </item>
+    <item>
       <title>FINAL — Panther Creek 7 — (#14) Hoggard 40</title>
       <description>FINAL — Panther Creek 7 — (#14) Hoggard 40</description>
       <guid isPermaLink="false">2026-09-11|hoggard|panther creek</guid>
-      <pubDate>Fri, 11 Sep 2026 22:14:45 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Panther Creek</awayTeam>
       <awayScore>7</awayScore>
@@ -118,7 +130,7 @@
       <title>FINAL — West Brunswick 21 — South Columbus 22</title>
       <description>FINAL — West Brunswick 21 — South Columbus 22</description>
       <guid isPermaLink="false">2026-09-11|south columbus|west brunswick</guid>
-      <pubDate>Fri, 11 Sep 2026 22:14:45 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:26:47 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>West Brunswick</awayTeam>
       <awayScore>21</awayScore>
