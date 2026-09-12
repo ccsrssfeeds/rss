@@ -191,6 +191,16 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
+    <AwayTeam>Jones Senior</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>North Duplin</HomeTeam>
+    <HomeScore>45</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
     <AwayTeam>James Kenan</AwayTeam>
     <AwayScore>14</AwayScore>
     <HomeTeam>East Duplin</HomeTeam>
@@ -215,6 +225,16 @@
     <AwayScore>30</AwayScore>
     <HomeTeam>Rosewood</HomeTeam>
     <HomeScore>38</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Hemingway</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>GSFHS</HomeTeam>
+    <HomeScore>55</HomeScore>
     <AwayLogo />
     <HomeLogo />
     <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
