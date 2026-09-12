@@ -5,53 +5,41 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:59:09 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:09:46 -0400</lastBuildDate>
     <item>
-      <title>FINAL — Fairmont 36 — Lakewood 29</title>
-      <description>FINAL — Fairmont 36 — Lakewood 29</description>
-      <guid isPermaLink="false">2026-09-11|fairmont|lakewood</guid>
-      <pubDate>Fri, 11 Sep 2026 22:59:09 -0400</pubDate>
+      <title>FINAL — Clinton 13 — Chapman 45</title>
+      <description>FINAL — Clinton 13 — Chapman 45</description>
+      <guid isPermaLink="false">2026-09-11|chapman|clinton</guid>
+      <pubDate>Fri, 11 Sep 2026 23:09:46 -0400</pubDate>
       <status>FINAL</status>
-      <awayTeam>Fairmont</awayTeam>
-      <awayScore>36</awayScore>
-      <homeTeam>Lakewood</homeTeam>
-      <homeScore>29</homeScore>
+      <awayTeam>Clinton</awayTeam>
+      <awayScore>13</awayScore>
+      <homeTeam>Chapman</homeTeam>
+      <homeScore>45</homeScore>
       <source>web</source>
     </item>
     <item>
-      <title>FINAL — Fike 46 — Ashley 27</title>
-      <description>FINAL — Fike 46 — Ashley 27</description>
-      <guid isPermaLink="false">2026-09-11|ashley|fike</guid>
-      <pubDate>Fri, 11 Sep 2026 22:59:09 -0400</pubDate>
+      <title>FINAL — Red Springs 0 — Purnell Swett 62</title>
+      <description>FINAL — Red Springs 0 — Purnell Swett 62</description>
+      <guid isPermaLink="false">2026-09-11|purnell swett|red springs</guid>
+      <pubDate>Fri, 11 Sep 2026 23:09:46 -0400</pubDate>
       <status>FINAL</status>
-      <awayTeam>Fike</awayTeam>
-      <awayScore>46</awayScore>
-      <homeTeam>Ashley</homeTeam>
+      <awayTeam>Red Springs</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Purnell Swett</homeTeam>
+      <homeScore>62</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — Richlands 12 — South Brunswick 27</title>
+      <description>FINAL — Richlands 12 — South Brunswick 27</description>
+      <guid isPermaLink="false">2026-09-11|richlands|south brunswick</guid>
+      <pubDate>Fri, 11 Sep 2026 23:09:46 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Richlands</awayTeam>
+      <awayScore>12</awayScore>
+      <homeTeam>South Brunswick</homeTeam>
       <homeScore>27</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — Panther Creek 7 — (#14) Hoggard 40</title>
-      <description>FINAL — Panther Creek 7 — (#14) Hoggard 40</description>
-      <guid isPermaLink="false">2026-09-11|hoggard|panther creek</guid>
-      <pubDate>Fri, 11 Sep 2026 22:59:09 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Panther Creek</awayTeam>
-      <awayScore>7</awayScore>
-      <homeTeam>(#14) Hoggard</homeTeam>
-      <homeScore>40</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — Pender 6 — WRHHS 28</title>
-      <description>FINAL — Pender 6 — WRHHS 28</description>
-      <guid isPermaLink="false">2026-09-11|pender|wrhhs</guid>
-      <pubDate>Fri, 11 Sep 2026 22:59:09 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Pender</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>WRHHS</homeTeam>
-      <homeScore>28</homeScore>
       <source>web</source>
     </item>
   </channel>
