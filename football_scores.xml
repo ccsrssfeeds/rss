@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 23:09:46 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:21:48 -0400</lastBuildDate>
     <item>
       <title>FINAL — Clinton 13 — Chapman 45</title>
       <description>FINAL — Clinton 13 — Chapman 45</description>
       <guid isPermaLink="false">2026-09-11|chapman|clinton</guid>
-      <pubDate>Fri, 11 Sep 2026 23:09:46 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 23:21:48 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Clinton</awayTeam>
       <awayScore>13</awayScore>
@@ -19,10 +19,22 @@
       <source>web</source>
     </item>
     <item>
+      <title>FINAL — Latta 24 — Aynor 32</title>
+      <description>FINAL — Latta 24 — Aynor 32</description>
+      <guid isPermaLink="false">2026-09-11|aynor|latta</guid>
+      <pubDate>Fri, 11 Sep 2026 23:21:48 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Latta</awayTeam>
+      <awayScore>24</awayScore>
+      <homeTeam>Aynor</homeTeam>
+      <homeScore>32</homeScore>
+      <source>web</source>
+    </item>
+    <item>
       <title>FINAL — Red Springs 0 — Purnell Swett 62</title>
       <description>FINAL — Red Springs 0 — Purnell Swett 62</description>
       <guid isPermaLink="false">2026-09-11|purnell swett|red springs</guid>
-      <pubDate>Fri, 11 Sep 2026 23:09:46 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 23:21:48 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Red Springs</awayTeam>
       <awayScore>0</awayScore>
@@ -34,7 +46,7 @@
       <title>FINAL — Richlands 12 — South Brunswick 27</title>
       <description>FINAL — Richlands 12 — South Brunswick 27</description>
       <guid isPermaLink="false">2026-09-11|richlands|south brunswick</guid>
-      <pubDate>Fri, 11 Sep 2026 23:09:46 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 23:21:48 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Richlands</awayTeam>
       <awayScore>12</awayScore>
