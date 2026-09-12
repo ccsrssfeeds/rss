@@ -5,24 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 23:42:57 -0400</lastBuildDate>
-    <item>
-      <title>FINAL — Greene Central 15 — North Pitt 3</title>
-      <description>FINAL — Greene Central 15 — North Pitt 3</description>
-      <guid isPermaLink="false">2026-09-11|greene central|north pitt</guid>
-      <pubDate>Fri, 11 Sep 2026 23:42:57 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Greene Central</awayTeam>
-      <awayScore>15</awayScore>
-      <homeTeam>North Pitt</homeTeam>
-      <homeScore>3</homeScore>
-      <source>web</source>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 23:50:42 -0400</lastBuildDate>
     <item>
       <title>FINAL — Latta 24 — Aynor 32</title>
       <description>FINAL — Latta 24 — Aynor 32</description>
       <guid isPermaLink="false">2026-09-11|aynor|latta</guid>
-      <pubDate>Fri, 11 Sep 2026 23:42:57 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2026 23:50:42 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Latta</awayTeam>
       <awayScore>24</awayScore>
@@ -31,39 +19,15 @@
       <source>web</source>
     </item>
     <item>
-      <title>FINAL — Red Springs 0 — Purnell Swett 62</title>
-      <description>FINAL — Red Springs 0 — Purnell Swett 62</description>
-      <guid isPermaLink="false">2026-09-11|purnell swett|red springs</guid>
-      <pubDate>Fri, 11 Sep 2026 23:42:57 -0400</pubDate>
+      <title>FINAL — (#22) New Bern 21 — (#10) Cleveland 50</title>
+      <description>FINAL — (#22) New Bern 21 — (#10) Cleveland 50</description>
+      <guid isPermaLink="false">2026-09-11|cleveland|new bern</guid>
+      <pubDate>Fri, 11 Sep 2026 23:50:42 -0400</pubDate>
       <status>FINAL</status>
-      <awayTeam>Red Springs</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Purnell Swett</homeTeam>
-      <homeScore>62</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — Richlands 12 — South Brunswick 27</title>
-      <description>FINAL — Richlands 12 — South Brunswick 27</description>
-      <guid isPermaLink="false">2026-09-11|richlands|south brunswick</guid>
-      <pubDate>Fri, 11 Sep 2026 23:42:57 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Richlands</awayTeam>
-      <awayScore>12</awayScore>
-      <homeTeam>South Brunswick</homeTeam>
-      <homeScore>27</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — Swansboro 35 — East Carteret 0</title>
-      <description>FINAL — Swansboro 35 — East Carteret 0</description>
-      <guid isPermaLink="false">2026-09-11|east carteret|swansboro</guid>
-      <pubDate>Fri, 11 Sep 2026 23:42:57 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Swansboro</awayTeam>
-      <awayScore>35</awayScore>
-      <homeTeam>East Carteret</homeTeam>
-      <homeScore>0</homeScore>
+      <awayTeam>(#22) New Bern</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>(#10) Cleveland</homeTeam>
+      <homeScore>50</homeScore>
       <source>web</source>
     </item>
   </channel>
