@@ -41,6 +41,16 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
+    <AwayTeam>St. James</AwayTeam>
+    <AwayScore>19</AwayScore>
+    <HomeTeam>May River</HomeTeam>
+    <HomeScore>21</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 11 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
     <AwayTeam>Southern Wayne</AwayTeam>
     <AwayScore>26</AwayScore>
     <HomeTeam>SSHS</HomeTeam>

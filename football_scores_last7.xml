@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 03:24:29 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:25:39 -0400</lastBuildDate>
     <item>
       <title>9/11 — West Brunswick 21 — South Columbus 22</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/11/2026&amp;mobile=1</link>
@@ -66,6 +66,21 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-09-11|east carteret|swansboro</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/11 — St. James 19 — May River 21</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=9/11/2026&amp;mobile=1</link>
+      <description>Final: 9/11 — St. James 19 — May River 21</description>
+      <awayTeam>St. James</awayTeam>
+      <awayScore>19</awayScore>
+      <homeTeam>May River</homeTeam>
+      <homeScore>21</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-11|may river|st. james</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
