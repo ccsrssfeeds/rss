@@ -103,7 +103,7 @@
   <Score>
     <AwayTeam>Panther Creek</AwayTeam>
     <AwayScore>7</AwayScore>
-    <HomeTeam>(#14) Hoggard</HomeTeam>
+    <HomeTeam>(#22) Hoggard</HomeTeam>
     <HomeScore>40</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -131,9 +131,9 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>(#22) New Bern</AwayTeam>
+    <AwayTeam>New Bern</AwayTeam>
     <AwayScore>21</AwayScore>
-    <HomeTeam>(#10) Cleveland</HomeTeam>
+    <HomeTeam>(#8) Cleveland</HomeTeam>
     <HomeScore>50</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -271,7 +271,7 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Garner</AwayTeam>
+    <AwayTeam>(#20) Garner</AwayTeam>
     <AwayScore>49</AwayScore>
     <HomeTeam>D.H. Conley</HomeTeam>
     <HomeScore>7</HomeScore>
