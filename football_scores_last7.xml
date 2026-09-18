@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 23:26:35 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:27:03 -0400</lastBuildDate>
     <item>
       <title>9/11 — West Brunswick 21 — South Columbus 22</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/11/2026&amp;mobile=1</link>
@@ -596,21 +596,6 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-09-11|brookland-cayce|lakewood</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/10 — North Lenoir 12 — Ayden - Grifton 23</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/10/2026&amp;mobile=1</link>
-      <description>Final: 9/10 — North Lenoir 12 — Ayden - Grifton 23</description>
-      <awayTeam>North Lenoir</awayTeam>
-      <awayScore>12</awayScore>
-      <homeTeam>Ayden - Grifton</homeTeam>
-      <homeScore>23</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-10|ayden - grifton|north lenoir</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
