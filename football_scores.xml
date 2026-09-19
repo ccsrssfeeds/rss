@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 19:59:44 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:14:35 -0400</lastBuildDate>
     <item>
       <title>LIVE — Carolina Forest 21 — West Ashley 7</title>
       <description>LIVE — Carolina Forest 21 — West Ashley 7</description>
       <guid isPermaLink="false">2026-09-18|carolina forest|west ashley</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Carolina Forest</awayTeam>
       <awayScore>21</awayScore>
@@ -19,22 +19,46 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — D.H. Conley 14 — Ayden - Grifton 0</title>
-      <description>LIVE — D.H. Conley 14 — Ayden - Grifton 0</description>
+      <title>LIVE — Crestwood 14 — Aynor 8</title>
+      <description>LIVE — Crestwood 14 — Aynor 8</description>
+      <guid isPermaLink="false">2026-09-18|aynor|crestwood</guid>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Crestwood</awayTeam>
+      <awayScore>14</awayScore>
+      <homeTeam>Aynor</homeTeam>
+      <homeScore>8</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — D.H. Conley 21 — Ayden - Grifton 0</title>
+      <description>LIVE — D.H. Conley 21 — Ayden - Grifton 0</description>
       <guid isPermaLink="false">2026-09-18|ayden - grifton|d.h. conley</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>D.H. Conley</awayTeam>
-      <awayScore>14</awayScore>
+      <awayScore>21</awayScore>
       <homeTeam>Ayden - Grifton</homeTeam>
       <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — GSFHS 20 — St. John's 8</title>
+      <description>LIVE — GSFHS 20 — St. John's 8</description>
+      <guid isPermaLink="false">2026-09-18|green sea floyds|st. john's</guid>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>GSFHS</awayTeam>
+      <awayScore>20</awayScore>
+      <homeTeam>St. John's</homeTeam>
+      <homeScore>8</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — Hobbton 23 — East Columbus 7</title>
       <description>LIVE — Hobbton 23 — East Columbus 7</description>
       <guid isPermaLink="false">2026-09-18|east columbus|hobbton</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Hobbton</awayTeam>
       <awayScore>23</awayScore>
@@ -43,34 +67,34 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Loris 14 — ACA 0</title>
-      <description>LIVE — Loris 14 — ACA 0</description>
+      <title>LIVE — Loris 21 — ACA 0</title>
+      <description>LIVE — Loris 21 — ACA 0</description>
       <guid isPermaLink="false">2026-09-18|aca|loris</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Loris</awayTeam>
-      <awayScore>14</awayScore>
+      <awayScore>21</awayScore>
       <homeTeam>ACA</homeTeam>
       <homeScore>0</homeScore>
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Middle Creek 17 — J.H. Rose 14</title>
-      <description>LIVE — Middle Creek 17 — J.H. Rose 14</description>
+      <title>LIVE — Middle Creek 17 — J.H. Rose 20</title>
+      <description>LIVE — Middle Creek 17 — J.H. Rose 20</description>
       <guid isPermaLink="false">2026-09-18|j.h. rose|middle creek</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Middle Creek</awayTeam>
       <awayScore>17</awayScore>
       <homeTeam>J.H. Rose</homeTeam>
-      <homeScore>14</homeScore>
+      <homeScore>20</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — North Brunswick 0 — New Hanover 7</title>
       <description>LIVE — North Brunswick 0 — New Hanover 7</description>
       <guid isPermaLink="false">2026-09-18|new hanover|north brunswick</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>North Brunswick</awayTeam>
       <awayScore>0</awayScore>
@@ -79,25 +103,25 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — NMBHS 0 — St. James 0</title>
-      <description>LIVE — NMBHS 0 — St. James 0</description>
+      <title>LIVE — NMBHS 7 — St. James 0</title>
+      <description>LIVE — NMBHS 7 — St. James 0</description>
       <guid isPermaLink="false">2026-09-18|north myrtle beach|st. james</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>NMBHS</awayTeam>
-      <awayScore>0</awayScore>
+      <awayScore>7</awayScore>
       <homeTeam>St. James</homeTeam>
       <homeScore>0</homeScore>
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Richlands 0 — Havelock 41</title>
-      <description>LIVE — Richlands 0 — Havelock 41</description>
+      <title>LIVE — Richlands 8 — Havelock 41</title>
+      <description>LIVE — Richlands 8 — Havelock 41</description>
       <guid isPermaLink="false">2026-09-18|havelock|richlands</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Richlands</awayTeam>
-      <awayScore>0</awayScore>
+      <awayScore>8</awayScore>
       <homeTeam>Havelock</homeTeam>
       <homeScore>41</homeScore>
       <source>web</source>
@@ -106,7 +130,7 @@
       <title>LIVE — SCPA 14 — Pamlico County 0</title>
       <description>LIVE — SCPA 14 — Pamlico County 0</description>
       <guid isPermaLink="false">2026-09-18|pamlico county|scpa</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>SCPA</awayTeam>
       <awayScore>14</awayScore>
@@ -115,13 +139,13 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — South Brunswick 7 — Purnell Swett 7</title>
-      <description>LIVE — South Brunswick 7 — Purnell Swett 7</description>
+      <title>LIVE — South Brunswick 13 — Purnell Swett 7</title>
+      <description>LIVE — South Brunswick 13 — Purnell Swett 7</description>
       <guid isPermaLink="false">2026-09-18|purnell swett|south brunswick</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>South Brunswick</awayTeam>
-      <awayScore>7</awayScore>
+      <awayScore>13</awayScore>
       <homeTeam>Purnell Swett</homeTeam>
       <homeScore>7</homeScore>
       <source>web</source>
@@ -130,7 +154,7 @@
       <title>LIVE — South Columbus 0 — Pender 0</title>
       <description>LIVE — South Columbus 0 — Pender 0</description>
       <guid isPermaLink="false">2026-09-18|pender|south columbus</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>South Columbus</awayTeam>
       <awayScore>0</awayScore>
@@ -142,7 +166,7 @@
       <title>LIVE — Swansboro 0 — Croatan 21</title>
       <description>LIVE — Swansboro 0 — Croatan 21</description>
       <guid isPermaLink="false">2026-09-18|croatan|swansboro</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Swansboro</awayTeam>
       <awayScore>0</awayScore>
@@ -151,22 +175,22 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Union County 0 — Clinton 14</title>
-      <description>LIVE — Union County 0 — Clinton 14</description>
+      <title>LIVE — Union County 0 — Clinton 27</title>
+      <description>LIVE — Union County 0 — Clinton 27</description>
       <guid isPermaLink="false">2026-09-18|clinton|union county</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Union County</awayTeam>
       <awayScore>0</awayScore>
       <homeTeam>Clinton</homeTeam>
-      <homeScore>14</homeScore>
+      <homeScore>27</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>LIVE — West Brunswick 7 — Laney 7</title>
       <description>LIVE — West Brunswick 7 — Laney 7</description>
       <guid isPermaLink="false">2026-09-18|laney|west brunswick</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>West Brunswick</awayTeam>
       <awayScore>7</awayScore>
@@ -178,7 +202,7 @@
       <title>LIVE — West Carteret 7 — Dixon 0</title>
       <description>LIVE — West Carteret 7 — Dixon 0</description>
       <guid isPermaLink="false">2026-09-18|dixon|west carteret</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>West Carteret</awayTeam>
       <awayScore>7</awayScore>
@@ -190,7 +214,7 @@
       <title>LIVE — White Oak 14 — SOHS 7</title>
       <description>LIVE — White Oak 14 — SOHS 7</description>
       <guid isPermaLink="false">2026-09-18|sohs|white oak</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>White Oak</awayTeam>
       <awayScore>14</awayScore>
@@ -202,7 +226,7 @@
       <title>LIVE — Whiteville 21 — Clinton 7</title>
       <description>LIVE — Whiteville 21 — Clinton 7</description>
       <guid isPermaLink="false">2026-09-18|clinton|whiteville</guid>
-      <pubDate>Fri, 18 Sep 2026 19:59:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:14:35 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Whiteville</awayTeam>
       <awayScore>21</awayScore>
