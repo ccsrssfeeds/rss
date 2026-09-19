@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:07:44 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:20:38 -0400</lastBuildDate>
     <item>
       <title>FINAL — Carolina Forest 42 — West Ashley 14</title>
       <description>FINAL — Carolina Forest 42 — West Ashley 14</description>
       <guid isPermaLink="false">2026-09-18|carolina forest|west ashley</guid>
-      <pubDate>Fri, 18 Sep 2026 23:07:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:20:38 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Carolina Forest</awayTeam>
       <awayScore>42</awayScore>
@@ -19,10 +19,22 @@
       <source>web</source>
     </item>
     <item>
+      <title>FINAL — Crestwood 36 — Aynor 8</title>
+      <description>FINAL — Crestwood 36 — Aynor 8</description>
+      <guid isPermaLink="false">2026-09-18|aynor|crestwood</guid>
+      <pubDate>Fri, 18 Sep 2026 23:20:38 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Crestwood</awayTeam>
+      <awayScore>36</awayScore>
+      <homeTeam>Aynor</homeTeam>
+      <homeScore>8</homeScore>
+      <source>web</source>
+    </item>
+    <item>
       <title>FINAL — D.H. Conley 39 — Ayden - Grifton 7</title>
       <description>FINAL — D.H. Conley 39 — Ayden - Grifton 7</description>
       <guid isPermaLink="false">2026-09-18|ayden - grifton|d.h. conley</guid>
-      <pubDate>Fri, 18 Sep 2026 23:07:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:20:38 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>D.H. Conley</awayTeam>
       <awayScore>39</awayScore>
@@ -31,22 +43,34 @@
       <source>web</source>
     </item>
     <item>
-      <title>FINAL — East Bladen 30 — West Columbus 14</title>
-      <description>FINAL — East Bladen 30 — West Columbus 14</description>
-      <guid isPermaLink="false">2026-09-18|east bladen|west columbus</guid>
-      <pubDate>Fri, 18 Sep 2026 23:07:44 -0400</pubDate>
+      <title>FINAL — East Duplin 7 — Jacksonville 42</title>
+      <description>FINAL — East Duplin 7 — Jacksonville 42</description>
+      <guid isPermaLink="false">2026-09-18|east duplin|jacksonville</guid>
+      <pubDate>Fri, 18 Sep 2026 23:20:38 -0400</pubDate>
       <status>FINAL</status>
-      <awayTeam>East Bladen</awayTeam>
-      <awayScore>30</awayScore>
-      <homeTeam>West Columbus</homeTeam>
-      <homeScore>14</homeScore>
+      <awayTeam>East Duplin</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>Jacksonville</homeTeam>
+      <homeScore>42</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — Hobbton 32 — East Columbus 13</title>
+      <description>FINAL — Hobbton 32 — East Columbus 13</description>
+      <guid isPermaLink="false">2026-09-18|east columbus|hobbton</guid>
+      <pubDate>Fri, 18 Sep 2026 23:20:38 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Hobbton</awayTeam>
+      <awayScore>32</awayScore>
+      <homeTeam>East Columbus</homeTeam>
+      <homeScore>13</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>FINAL — Loris 48 — ACA 6</title>
       <description>FINAL — Loris 48 — ACA 6</description>
       <guid isPermaLink="false">2026-09-18|aca|loris</guid>
-      <pubDate>Fri, 18 Sep 2026 23:07:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:20:38 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Loris</awayTeam>
       <awayScore>48</awayScore>
@@ -55,22 +79,34 @@
       <source>web</source>
     </item>
     <item>
-      <title>FINAL — Union County 6 — Clinton 61</title>
-      <description>FINAL — Union County 6 — Clinton 61</description>
-      <guid isPermaLink="false">2026-09-18|clinton|union county</guid>
-      <pubDate>Fri, 18 Sep 2026 23:07:44 -0400</pubDate>
+      <title>FINAL — Middle Creek 35 — J.H. Rose 36</title>
+      <description>FINAL — Middle Creek 35 — J.H. Rose 36</description>
+      <guid isPermaLink="false">2026-09-18|j.h. rose|middle creek</guid>
+      <pubDate>Fri, 18 Sep 2026 23:20:38 -0400</pubDate>
       <status>FINAL</status>
-      <awayTeam>Union County</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>Clinton</homeTeam>
-      <homeScore>61</homeScore>
+      <awayTeam>Middle Creek</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>J.H. Rose</homeTeam>
+      <homeScore>36</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — NMBHS 41 — St. James 24</title>
+      <description>FINAL — NMBHS 41 — St. James 24</description>
+      <guid isPermaLink="false">2026-09-18|north myrtle beach|st. james</guid>
+      <pubDate>Fri, 18 Sep 2026 23:20:38 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>NMBHS</awayTeam>
+      <awayScore>41</awayScore>
+      <homeTeam>St. James</homeTeam>
+      <homeScore>24</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>FINAL — White Oak 30 — SOHS 15</title>
       <description>FINAL — White Oak 30 — SOHS 15</description>
       <guid isPermaLink="false">2026-09-18|sohs|white oak</guid>
-      <pubDate>Fri, 18 Sep 2026 23:07:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:20:38 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>White Oak</awayTeam>
       <awayScore>30</awayScore>
@@ -82,7 +118,7 @@
       <title>FINAL — Whiteville 34 — Clinton 21</title>
       <description>FINAL — Whiteville 34 — Clinton 21</description>
       <guid isPermaLink="false">2026-09-18|clinton|whiteville</guid>
-      <pubDate>Fri, 18 Sep 2026 23:07:44 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:20:38 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Whiteville</awayTeam>
       <awayScore>34</awayScore>
