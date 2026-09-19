@@ -151,6 +151,16 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
+    <AwayTeam>NECP</AwayTeam>
+    <AwayScore>43</AwayScore>
+    <HomeTeam>Jones Senior</HomeTeam>
+    <HomeScore>14</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 18 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
     <AwayTeam>Myrtle Beach</AwayTeam>
     <AwayScore>27</AwayScore>
     <HomeTeam>West Florence</HomeTeam>
@@ -195,6 +205,26 @@
     <AwayScore>48</AwayScore>
     <HomeTeam>ACA</HomeTeam>
     <HomeScore>6</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 18 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Lakewood</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>Darlington</HomeTeam>
+    <HomeScore>31</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 18 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Kinston</AwayTeam>
+    <AwayScore>51</AwayScore>
+    <HomeTeam>South Lenoir</HomeTeam>
+    <HomeScore>22</HomeScore>
     <AwayLogo />
     <HomeLogo />
     <Date>Fri, 18 Sep 2026 00:00:00 -0400</Date>

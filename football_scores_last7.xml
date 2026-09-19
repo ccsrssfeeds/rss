@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 11:25:04 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:23:47 -0400</lastBuildDate>
     <item>
       <title>9/18 — Wilson 22 — Conway 34</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=9/18/2026&amp;mobile=1</link>
@@ -234,6 +234,21 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
+      <title>9/18 — NECP 43 — Jones Senior 14</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/18/2026&amp;mobile=1</link>
+      <description>Final: 9/18 — NECP 43 — Jones Senior 14</description>
+      <awayTeam>NECP</awayTeam>
+      <awayScore>43</awayScore>
+      <homeTeam>Jones Senior</homeTeam>
+      <homeScore>14</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-18|jones senior|necp</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
       <title>9/18 — Myrtle Beach 27 — West Florence 41</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=9/18/2026&amp;mobile=1</link>
       <description>Final: 9/18 — Myrtle Beach 27 — West Florence 41</description>
@@ -306,6 +321,36 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-09-18|aca|loris</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/18 — Lakewood 14 — Darlington 31</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=9/18/2026&amp;mobile=1</link>
+      <description>Final: 9/18 — Lakewood 14 — Darlington 31</description>
+      <awayTeam>Lakewood</awayTeam>
+      <awayScore>14</awayScore>
+      <homeTeam>Darlington</homeTeam>
+      <homeScore>31</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-18|darlington|lakewood</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/18 — Kinston 51 — South Lenoir 22</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/18/2026&amp;mobile=1</link>
+      <description>Final: 9/18 — Kinston 51 — South Lenoir 22</description>
+      <awayTeam>Kinston</awayTeam>
+      <awayScore>51</awayScore>
+      <homeTeam>South Lenoir</homeTeam>
+      <homeScore>22</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-18|kinston|south lenoir</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
