@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:48:15 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:54:21 -0400</lastBuildDate>
     <item>
       <title>FINAL — Crestwood 36 — Aynor 8</title>
       <description>FINAL — Crestwood 36 — Aynor 8</description>
       <guid isPermaLink="false">2026-09-18|aynor|crestwood</guid>
-      <pubDate>Fri, 18 Sep 2026 23:48:15 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:54:21 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Crestwood</awayTeam>
       <awayScore>36</awayScore>
@@ -22,7 +22,7 @@
       <title>FINAL — GSFHS 40 — St. John's 14</title>
       <description>FINAL — GSFHS 40 — St. John's 14</description>
       <guid isPermaLink="false">2026-09-18|green sea floyds|st. john's</guid>
-      <pubDate>Fri, 18 Sep 2026 23:48:15 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:54:21 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>GSFHS</awayTeam>
       <awayScore>40</awayScore>
@@ -31,10 +31,22 @@
       <source>web</source>
     </item>
     <item>
+      <title>FINAL — Hobbton 32 — East Columbus 13</title>
+      <description>FINAL — Hobbton 32 — East Columbus 13</description>
+      <guid isPermaLink="false">2026-09-18|east columbus|hobbton</guid>
+      <pubDate>Fri, 18 Sep 2026 23:54:21 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Hobbton</awayTeam>
+      <awayScore>32</awayScore>
+      <homeTeam>East Columbus</homeTeam>
+      <homeScore>13</homeScore>
+      <source>web</source>
+    </item>
+    <item>
       <title>FINAL — Middle Creek 35 — J.H. Rose 36</title>
       <description>FINAL — Middle Creek 35 — J.H. Rose 36</description>
       <guid isPermaLink="false">2026-09-18|j.h. rose|middle creek</guid>
-      <pubDate>Fri, 18 Sep 2026 23:48:15 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:54:21 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Middle Creek</awayTeam>
       <awayScore>35</awayScore>
@@ -46,7 +58,7 @@
       <title>FINAL — North Johnston 0 — Eastern Wayne 27</title>
       <description>FINAL — North Johnston 0 — Eastern Wayne 27</description>
       <guid isPermaLink="false">2026-09-18|eastern wayne|north johnston</guid>
-      <pubDate>Fri, 18 Sep 2026 23:48:15 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:54:21 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>North Johnston</awayTeam>
       <awayScore>0</awayScore>
@@ -58,7 +70,7 @@
       <title>FINAL — NMBHS 41 — St. James 24</title>
       <description>FINAL — NMBHS 41 — St. James 24</description>
       <guid isPermaLink="false">2026-09-18|north myrtle beach|st. james</guid>
-      <pubDate>Fri, 18 Sep 2026 23:48:15 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:54:21 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>NMBHS</awayTeam>
       <awayScore>41</awayScore>
@@ -70,7 +82,7 @@
       <title>FINAL — SCPA 26 — Pamlico County 12</title>
       <description>FINAL — SCPA 26 — Pamlico County 12</description>
       <guid isPermaLink="false">2026-09-18|pamlico county|scpa</guid>
-      <pubDate>Fri, 18 Sep 2026 23:48:15 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:54:21 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>SCPA</awayTeam>
       <awayScore>26</awayScore>
@@ -82,7 +94,7 @@
       <title>FINAL — White Oak 30 — SOHS 15</title>
       <description>FINAL — White Oak 30 — SOHS 15</description>
       <guid isPermaLink="false">2026-09-18|sohs|white oak</guid>
-      <pubDate>Fri, 18 Sep 2026 23:48:15 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:54:21 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>White Oak</awayTeam>
       <awayScore>30</awayScore>
