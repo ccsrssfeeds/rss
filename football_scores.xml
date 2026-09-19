@@ -5,24 +5,24 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:45:38 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:52:11 -0400</lastBuildDate>
     <item>
-      <title>LIVE — Midway 30 — Princeton 24</title>
-      <description>LIVE — Midway 30 — Princeton 24</description>
+      <title>LIVE — Midway 32 — Princeton 32</title>
+      <description>LIVE — Midway 32 — Princeton 32</description>
       <guid isPermaLink="false">2026-09-18|midway|princeton</guid>
-      <pubDate>Fri, 18 Sep 2026 22:45:38 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:52:11 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Midway</awayTeam>
-      <awayScore>30</awayScore>
+      <awayScore>32</awayScore>
       <homeTeam>Princeton</homeTeam>
-      <homeScore>24</homeScore>
+      <homeScore>32</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>FINAL — Carolina Forest 42 — West Ashley 14</title>
       <description>FINAL — Carolina Forest 42 — West Ashley 14</description>
       <guid isPermaLink="false">2026-09-18|carolina forest|west ashley</guid>
-      <pubDate>Fri, 18 Sep 2026 22:45:38 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:52:11 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Carolina Forest</awayTeam>
       <awayScore>42</awayScore>
@@ -34,7 +34,7 @@
       <title>FINAL — Crestwood 36 — Aynor 8</title>
       <description>FINAL — Crestwood 36 — Aynor 8</description>
       <guid isPermaLink="false">2026-09-18|aynor|crestwood</guid>
-      <pubDate>Fri, 18 Sep 2026 22:45:38 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:52:11 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Crestwood</awayTeam>
       <awayScore>36</awayScore>
@@ -46,7 +46,7 @@
       <title>FINAL — D.H. Conley 39 — Ayden - Grifton 7</title>
       <description>FINAL — D.H. Conley 39 — Ayden - Grifton 7</description>
       <guid isPermaLink="false">2026-09-18|ayden - grifton|d.h. conley</guid>
-      <pubDate>Fri, 18 Sep 2026 22:45:38 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:52:11 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>D.H. Conley</awayTeam>
       <awayScore>39</awayScore>
@@ -58,7 +58,7 @@
       <title>FINAL — East Duplin 7 — Jacksonville 42</title>
       <description>FINAL — East Duplin 7 — Jacksonville 42</description>
       <guid isPermaLink="false">2026-09-18|east duplin|jacksonville</guid>
-      <pubDate>Fri, 18 Sep 2026 22:45:38 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:52:11 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>East Duplin</awayTeam>
       <awayScore>7</awayScore>
@@ -70,7 +70,7 @@
       <title>FINAL — Hobbton 32 — East Columbus 13</title>
       <description>FINAL — Hobbton 32 — East Columbus 13</description>
       <guid isPermaLink="false">2026-09-18|east columbus|hobbton</guid>
-      <pubDate>Fri, 18 Sep 2026 22:45:38 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:52:11 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Hobbton</awayTeam>
       <awayScore>32</awayScore>
@@ -82,7 +82,7 @@
       <title>FINAL — Loris 48 — ACA 6</title>
       <description>FINAL — Loris 48 — ACA 6</description>
       <guid isPermaLink="false">2026-09-18|aca|loris</guid>
-      <pubDate>Fri, 18 Sep 2026 22:45:38 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:52:11 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Loris</awayTeam>
       <awayScore>48</awayScore>
@@ -91,22 +91,22 @@
       <source>web</source>
     </item>
     <item>
-      <title>FINAL — West Craven 28 — North Pitt 6</title>
-      <description>FINAL — West Craven 28 — North Pitt 6</description>
+      <title>FINAL — West Craven 49 — North Pitt 12</title>
+      <description>FINAL — West Craven 49 — North Pitt 12</description>
       <guid isPermaLink="false">2026-09-18|north pitt|west craven</guid>
-      <pubDate>Fri, 18 Sep 2026 22:45:38 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:52:11 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>West Craven</awayTeam>
-      <awayScore>28</awayScore>
+      <awayScore>49</awayScore>
       <homeTeam>North Pitt</homeTeam>
-      <homeScore>6</homeScore>
+      <homeScore>12</homeScore>
       <source>web</source>
     </item>
     <item>
       <title>FINAL — White Oak 30 — SOHS 15</title>
       <description>FINAL — White Oak 30 — SOHS 15</description>
       <guid isPermaLink="false">2026-09-18|sohs|white oak</guid>
-      <pubDate>Fri, 18 Sep 2026 22:45:38 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:52:11 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>White Oak</awayTeam>
       <awayScore>30</awayScore>
@@ -118,7 +118,7 @@
       <title>FINAL — Whiteville 34 — Clinton 21</title>
       <description>FINAL — Whiteville 34 — Clinton 21</description>
       <guid isPermaLink="false">2026-09-18|clinton|whiteville</guid>
-      <pubDate>Fri, 18 Sep 2026 22:45:38 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:52:11 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Whiteville</awayTeam>
       <awayScore>34</awayScore>
