@@ -131,6 +131,16 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
+    <AwayTeam>North Lenoir</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>SWEHS</HomeTeam>
+    <HomeScore>48</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 18 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
     <AwayTeam>North Johnston</AwayTeam>
     <AwayScore>0</AwayScore>
     <HomeTeam>Eastern Wayne</HomeTeam>

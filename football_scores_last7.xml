@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:24:19 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:30:11 -0400</lastBuildDate>
     <item>
       <title>9/18 — Wilson 22 — Conway 34</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=9/18/2026&amp;mobile=1</link>
@@ -201,6 +201,21 @@
       <ns0:thumbnail url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" role="away" />
       <ns0:content url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" medium="image" />
       <guid isPermaLink="false">2026-09-18|north myrtle beach|st. james</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>9/18 — North Lenoir 6 — SWEHS 48</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=9/18/2026&amp;mobile=1</link>
+      <description>Final: 9/18 — North Lenoir 6 — SWEHS 48</description>
+      <awayTeam>North Lenoir</awayTeam>
+      <awayScore>6</awayScore>
+      <homeTeam>SWEHS</homeTeam>
+      <homeScore>48</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-09-18|north lenoir|swehs</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
