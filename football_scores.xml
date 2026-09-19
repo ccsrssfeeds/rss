@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 21:50:37 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:56:42 -0400</lastBuildDate>
     <item>
       <title>LIVE — Ashley 3 — Topsail 7</title>
       <description>LIVE — Ashley 3 — Topsail 7</description>
       <guid isPermaLink="false">2026-09-18|ashley|topsail</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Ashley</awayTeam>
       <awayScore>3</awayScore>
@@ -22,7 +22,7 @@
       <title>LIVE — Crestwood 36 — Aynor 8</title>
       <description>LIVE — Crestwood 36 — Aynor 8</description>
       <guid isPermaLink="false">2026-09-18|aynor|crestwood</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Crestwood</awayTeam>
       <awayScore>36</awayScore>
@@ -34,7 +34,7 @@
       <title>LIVE — GSFHS 34 — St. John's 14</title>
       <description>LIVE — GSFHS 34 — St. John's 14</description>
       <guid isPermaLink="false">2026-09-18|green sea floyds|st. john's</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>GSFHS</awayTeam>
       <awayScore>34</awayScore>
@@ -46,7 +46,7 @@
       <title>LIVE — Loris 48 — ACA 6</title>
       <description>LIVE — Loris 48 — ACA 6</description>
       <guid isPermaLink="false">2026-09-18|aca|loris</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Loris</awayTeam>
       <awayScore>48</awayScore>
@@ -58,7 +58,7 @@
       <title>LIVE — Myrtle Beach 20 — West Florence 35</title>
       <description>LIVE — Myrtle Beach 20 — West Florence 35</description>
       <guid isPermaLink="false">2026-09-18|myrtle beach|west florence</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Myrtle Beach</awayTeam>
       <awayScore>20</awayScore>
@@ -70,7 +70,7 @@
       <title>LIVE — North Brunswick 0 — New Hanover 7</title>
       <description>LIVE — North Brunswick 0 — New Hanover 7</description>
       <guid isPermaLink="false">2026-09-18|new hanover|north brunswick</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>North Brunswick</awayTeam>
       <awayScore>0</awayScore>
@@ -82,7 +82,7 @@
       <title>LIVE — North Lenoir 6 — SWEHS 32</title>
       <description>LIVE — North Lenoir 6 — SWEHS 32</description>
       <guid isPermaLink="false">2026-09-18|north lenoir|swehs</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>North Lenoir</awayTeam>
       <awayScore>6</awayScore>
@@ -91,13 +91,13 @@
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — NMBHS 28 — St. James 17</title>
-      <description>LIVE — NMBHS 28 — St. James 17</description>
+      <title>LIVE — NMBHS 35 — St. James 17</title>
+      <description>LIVE — NMBHS 35 — St. James 17</description>
       <guid isPermaLink="false">2026-09-18|north myrtle beach|st. james</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>NMBHS</awayTeam>
-      <awayScore>28</awayScore>
+      <awayScore>35</awayScore>
       <homeTeam>St. James</homeTeam>
       <homeScore>17</homeScore>
       <source>web</source>
@@ -106,7 +106,7 @@
       <title>LIVE — Richlands 8 — Havelock 41</title>
       <description>LIVE — Richlands 8 — Havelock 41</description>
       <guid isPermaLink="false">2026-09-18|havelock|richlands</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Richlands</awayTeam>
       <awayScore>8</awayScore>
@@ -118,7 +118,7 @@
       <title>LIVE — South Columbus 0 — Pender 0</title>
       <description>LIVE — South Columbus 0 — Pender 0</description>
       <guid isPermaLink="false">2026-09-18|pender|south columbus</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>South Columbus</awayTeam>
       <awayScore>0</awayScore>
@@ -130,7 +130,7 @@
       <title>LIVE — Swansboro 0 — Croatan 21</title>
       <description>LIVE — Swansboro 0 — Croatan 21</description>
       <guid isPermaLink="false">2026-09-18|croatan|swansboro</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Swansboro</awayTeam>
       <awayScore>0</awayScore>
@@ -142,7 +142,7 @@
       <title>LIVE — Union County 6 — Clinton 47</title>
       <description>LIVE — Union County 6 — Clinton 47</description>
       <guid isPermaLink="false">2026-09-18|clinton|union county</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>Union County</awayTeam>
       <awayScore>6</awayScore>
@@ -154,7 +154,7 @@
       <title>LIVE — West Carteret 7 — Dixon 0</title>
       <description>LIVE — West Carteret 7 — Dixon 0</description>
       <guid isPermaLink="false">2026-09-18|dixon|west carteret</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>West Carteret</awayTeam>
       <awayScore>7</awayScore>
@@ -166,7 +166,7 @@
       <title>FINAL — Carolina Forest 42 — West Ashley 14</title>
       <description>FINAL — Carolina Forest 42 — West Ashley 14</description>
       <guid isPermaLink="false">2026-09-18|carolina forest|west ashley</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Carolina Forest</awayTeam>
       <awayScore>42</awayScore>
@@ -178,7 +178,7 @@
       <title>FINAL — East Duplin 7 — Jacksonville 42</title>
       <description>FINAL — East Duplin 7 — Jacksonville 42</description>
       <guid isPermaLink="false">2026-09-18|east duplin|jacksonville</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>East Duplin</awayTeam>
       <awayScore>7</awayScore>
@@ -190,7 +190,7 @@
       <title>FINAL — Hobbton 32 — East Columbus 13</title>
       <description>FINAL — Hobbton 32 — East Columbus 13</description>
       <guid isPermaLink="false">2026-09-18|east columbus|hobbton</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Hobbton</awayTeam>
       <awayScore>32</awayScore>
@@ -202,7 +202,7 @@
       <title>FINAL — Middle Creek 35 — J.H. Rose 36</title>
       <description>FINAL — Middle Creek 35 — J.H. Rose 36</description>
       <guid isPermaLink="false">2026-09-18|j.h. rose|middle creek</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Middle Creek</awayTeam>
       <awayScore>35</awayScore>
@@ -214,7 +214,7 @@
       <title>FINAL — SCPA 26 — Pamlico County 12</title>
       <description>FINAL — SCPA 26 — Pamlico County 12</description>
       <guid isPermaLink="false">2026-09-18|pamlico county|scpa</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>SCPA</awayTeam>
       <awayScore>26</awayScore>
@@ -226,7 +226,7 @@
       <title>FINAL — White Oak 30 — SOHS 15</title>
       <description>FINAL — White Oak 30 — SOHS 15</description>
       <guid isPermaLink="false">2026-09-18|sohs|white oak</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>White Oak</awayTeam>
       <awayScore>30</awayScore>
@@ -238,7 +238,7 @@
       <title>FINAL — Whiteville 34 — Clinton 21</title>
       <description>FINAL — Whiteville 34 — Clinton 21</description>
       <guid isPermaLink="false">2026-09-18|clinton|whiteville</guid>
-      <pubDate>Fri, 18 Sep 2026 21:50:37 -0400</pubDate>
+      <pubDate>Fri, 18 Sep 2026 21:56:42 -0400</pubDate>
       <status>FINAL</status>
       <awayTeam>Whiteville</awayTeam>
       <awayScore>34</awayScore>
