@@ -5,6 +5,18 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:48:04 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:54:12 -0400</lastBuildDate>
+    <item>
+      <title>FINAL — Hunt 37 — C.B. Aycock 6</title>
+      <description>FINAL — Hunt 37 — C.B. Aycock 6</description>
+      <guid isPermaLink="false">2026-09-20|c.b. aycock|hunt</guid>
+      <pubDate>Sun, 20 Sep 2026 01:54:12 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Hunt</awayTeam>
+      <awayScore>37</awayScore>
+      <homeTeam>C.B. Aycock</homeTeam>
+      <homeScore>6</homeScore>
+      <source>web</source>
+    </item>
   </channel>
 </rss>
