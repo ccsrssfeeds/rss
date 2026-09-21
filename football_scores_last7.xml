@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 18:25:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:34:02 -0400</lastBuildDate>
     <item>
       <title>9/19 — Hunt 37 — C.B. Aycock 6</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/19/2026&amp;mobile=1</link>
@@ -234,13 +234,13 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>9/18 — North Lenoir 6 — SWEHS 48</title>
+      <title>9/18 — North Lenoir 6 — SWEHS 46</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/18/2026&amp;mobile=1</link>
-      <description>Final: 9/18 — North Lenoir 6 — SWEHS 48</description>
+      <description>Final: 9/18 — North Lenoir 6 — SWEHS 46</description>
       <awayTeam>North Lenoir</awayTeam>
       <awayScore>6</awayScore>
       <homeTeam>SWEHS</homeTeam>
-      <homeScore>48</homeScore>
+      <homeScore>46</homeScore>
       <awayLogo />
       <homeLogo />
       <awayImageUrl />
