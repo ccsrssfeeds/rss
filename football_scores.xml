@@ -5,12 +5,12 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 14:46:01 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:56:03 -0400</lastBuildDate>
     <item>
       <title>LIVE — North Brunswick 0 — New Hanover 7</title>
       <description>LIVE — North Brunswick 0 — New Hanover 7</description>
       <guid isPermaLink="false">2026-09-21|new hanover|north brunswick</guid>
-      <pubDate>Mon, 21 Sep 2026 14:46:01 -0400</pubDate>
+      <pubDate>Mon, 21 Sep 2026 14:56:03 -0400</pubDate>
       <status>LIVE</status>
       <awayTeam>North Brunswick</awayTeam>
       <awayScore>0</awayScore>
