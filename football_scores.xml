@@ -5,42 +5,6 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 20:15:48 -0400</lastBuildDate>
-    <item>
-      <title>LIVE — South Columbus 35 — Pender 14</title>
-      <description>LIVE — South Columbus 35 — Pender 14</description>
-      <guid isPermaLink="false">2026-09-21|pender|south columbus</guid>
-      <pubDate>Mon, 21 Sep 2026 20:15:48 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>South Columbus</awayTeam>
-      <awayScore>35</awayScore>
-      <homeTeam>Pender</homeTeam>
-      <homeScore>14</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — North Brunswick 14 — New Hanover 21</title>
-      <description>FINAL — North Brunswick 14 — New Hanover 21</description>
-      <guid isPermaLink="false">2026-09-21|new hanover|north brunswick</guid>
-      <pubDate>Mon, 21 Sep 2026 20:15:48 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>North Brunswick</awayTeam>
-      <awayScore>14</awayScore>
-      <homeTeam>New Hanover</homeTeam>
-      <homeScore>21</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — West Brunswick 14 — Laney 54</title>
-      <description>FINAL — West Brunswick 14 — Laney 54</description>
-      <guid isPermaLink="false">2026-09-21|laney|west brunswick</guid>
-      <pubDate>Mon, 21 Sep 2026 20:15:48 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>West Brunswick</awayTeam>
-      <awayScore>14</awayScore>
-      <homeTeam>Laney</homeTeam>
-      <homeScore>54</homeScore>
-      <source>web</source>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 00:58:30 -0400</lastBuildDate>
   </channel>
 </rss>
