@@ -1,6 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Scores>
   <Score>
+    <AwayTeam>West Brunswick</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>Laney</HomeTeam>
+    <HomeScore>54</HomeScore>
+    <AwayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</AwayLogo>
+    <HomeLogo />
+    <Date>Sun, 20 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>South Columbus</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>Pender</HomeTeam>
+    <HomeScore>14</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 20 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>North Brunswick</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>New Hanover</HomeTeam>
+    <HomeScore>21</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 20 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>East Carteret</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>ALAJ</HomeTeam>
+    <HomeScore>12</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 20 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
     <AwayTeam>Hunt</AwayTeam>
     <AwayScore>37</AwayScore>
     <HomeTeam>C.B. Aycock</HomeTeam>
@@ -348,6 +388,46 @@
     <AwayLogo />
     <HomeLogo />
     <Date>Fri, 18 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>West Brunswick</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>Laney</HomeTeam>
+    <HomeScore>54</HomeScore>
+    <AwayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</AwayLogo>
+    <HomeLogo />
+    <Date>Wed, 16 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>South Columbus</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>Pender</HomeTeam>
+    <HomeScore>14</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 16 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>North Brunswick</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>New Hanover</HomeTeam>
+    <HomeScore>21</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 16 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>East Carteret</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>ALAJ</HomeTeam>
+    <HomeScore>12</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 16 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
 </Scores>
