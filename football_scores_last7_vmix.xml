@@ -7,7 +7,7 @@
     <HomeScore>54</HomeScore>
     <AwayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</AwayLogo>
     <HomeLogo />
-    <Date>Sun, 20 Sep 2026 00:00:00 -0400</Date>
+    <Date>Mon, 21 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
@@ -17,7 +17,7 @@
     <HomeScore>14</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Sun, 20 Sep 2026 00:00:00 -0400</Date>
+    <Date>Mon, 21 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
@@ -27,7 +27,17 @@
     <HomeScore>21</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Sun, 20 Sep 2026 00:00:00 -0400</Date>
+    <Date>Mon, 21 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Lakewood</AwayTeam>
+    <AwayScore>28</AwayScore>
+    <HomeTeam>North Duplin</HomeTeam>
+    <HomeScore>14</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Mon, 21 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
@@ -37,7 +47,7 @@
     <HomeScore>12</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Sun, 20 Sep 2026 00:00:00 -0400</Date>
+    <Date>Mon, 21 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
@@ -194,7 +204,7 @@
     <AwayTeam>North Lenoir</AwayTeam>
     <AwayScore>6</AwayScore>
     <HomeTeam>SWEHS</HomeTeam>
-    <HomeScore>46</HomeScore>
+    <HomeScore>47</HomeScore>
     <AwayLogo />
     <HomeLogo />
     <Date>Fri, 18 Sep 2026 00:00:00 -0400</Date>
@@ -388,46 +398,6 @@
     <AwayLogo />
     <HomeLogo />
     <Date>Fri, 18 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>West Brunswick</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Laney</HomeTeam>
-    <HomeScore>54</HomeScore>
-    <AwayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</AwayLogo>
-    <HomeLogo />
-    <Date>Wed, 16 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Columbus</AwayTeam>
-    <AwayScore>35</AwayScore>
-    <HomeTeam>Pender</HomeTeam>
-    <HomeScore>14</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 16 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Brunswick</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>New Hanover</HomeTeam>
-    <HomeScore>21</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 16 Sep 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>East Carteret</AwayTeam>
-    <AwayScore>24</AwayScore>
-    <HomeTeam>ALAJ</HomeTeam>
-    <HomeScore>12</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 16 Sep 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
 </Scores>
