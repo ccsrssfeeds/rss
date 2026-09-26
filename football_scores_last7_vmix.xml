@@ -21,6 +21,16 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
+    <AwayTeam>West Columbus</AwayTeam>
+    <AwayScore>30</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>44</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 25 Sep 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
     <AwayTeam>Washington</AwayTeam>
     <AwayScore>8</AwayScore>
     <HomeTeam>West Craven</HomeTeam>
