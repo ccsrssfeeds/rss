@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 21:27:33 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 04:11:00 -0400</lastBuildDate>
     <item>
       <title>9/25 — WRHHS 65 — Goldsboro 0</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/25/2026&amp;mobile=1</link>
@@ -553,21 +553,6 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-09-21|alaj|east carteret</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/19 — Hunt 37 — C.B. Aycock 6</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/19/2026&amp;mobile=1</link>
-      <description>Final: 9/19 — Hunt 37 — C.B. Aycock 6</description>
-      <awayTeam>Hunt</awayTeam>
-      <awayScore>37</awayScore>
-      <homeTeam>C.B. Aycock</homeTeam>
-      <homeScore>6</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-19|c.b. aycock|hunt</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
