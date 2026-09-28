@@ -81,7 +81,7 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>(#10) South Florence</AwayTeam>
+    <AwayTeam>(#14) South Florence</AwayTeam>
     <AwayScore>46</AwayScore>
     <HomeTeam>Myrtle Beach</HomeTeam>
     <HomeScore>20</HomeScore>
@@ -163,7 +163,7 @@
   <Score>
     <AwayTeam>Lumberton</AwayTeam>
     <AwayScore>3</AwayScore>
-    <HomeTeam>(#24) Monroe</HomeTeam>
+    <HomeTeam>Monroe</HomeTeam>
     <HomeScore>43</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -213,7 +213,7 @@
   <Score>
     <AwayTeam>Hertford County</AwayTeam>
     <AwayScore>28</AwayScore>
-    <HomeTeam>New Bern</HomeTeam>
+    <HomeTeam>(#21) New Bern</HomeTeam>
     <HomeScore>56</HomeScore>
     <AwayLogo />
     <HomeLogo />

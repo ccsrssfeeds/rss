@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 09:59:50 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:48:34 -0400</lastBuildDate>
     <item>
       <title>9/25 — WRHHS 65 — Goldsboro 0</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/25/2026&amp;mobile=1</link>
@@ -127,10 +127,10 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>9/25 — (#10) South Florence 46 — Myrtle Beach 20</title>
+      <title>9/25 — (#14) South Florence 46 — Myrtle Beach 20</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=9/25/2026&amp;mobile=1</link>
-      <description>Final: 9/25 — (#10) South Florence 46 — Myrtle Beach 20</description>
-      <awayTeam>(#10) South Florence</awayTeam>
+      <description>Final: 9/25 — (#14) South Florence 46 — Myrtle Beach 20</description>
+      <awayTeam>(#14) South Florence</awayTeam>
       <awayScore>46</awayScore>
       <homeTeam>Myrtle Beach</homeTeam>
       <homeScore>20</homeScore>
@@ -251,12 +251,12 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>9/25 — Lumberton 3 — (#24) Monroe 43</title>
+      <title>9/25 — Lumberton 3 — Monroe 43</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/25/2026&amp;mobile=1</link>
-      <description>Final: 9/25 — Lumberton 3 — (#24) Monroe 43</description>
+      <description>Final: 9/25 — Lumberton 3 — Monroe 43</description>
       <awayTeam>Lumberton</awayTeam>
       <awayScore>3</awayScore>
-      <homeTeam>(#24) Monroe</homeTeam>
+      <homeTeam>Monroe</homeTeam>
       <homeScore>43</homeScore>
       <awayLogo />
       <homeLogo />
@@ -328,12 +328,12 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>9/25 — Hertford County 28 — New Bern 56</title>
+      <title>9/25 — Hertford County 28 — (#21) New Bern 56</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/25/2026&amp;mobile=1</link>
-      <description>Final: 9/25 — Hertford County 28 — New Bern 56</description>
+      <description>Final: 9/25 — Hertford County 28 — (#21) New Bern 56</description>
       <awayTeam>Hertford County</awayTeam>
       <awayScore>28</awayScore>
-      <homeTeam>New Bern</homeTeam>
+      <homeTeam>(#21) New Bern</homeTeam>
       <homeScore>56</homeScore>
       <awayLogo />
       <homeLogo />
