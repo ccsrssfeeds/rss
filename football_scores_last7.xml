@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 21:57:41 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:31:23 -0400</lastBuildDate>
     <item>
       <title>9/25 — WRHHS 65 — Goldsboro 0</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=9/25/2026&amp;mobile=1</link>
@@ -476,83 +476,6 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-09-25|anson|pender</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/21 — West Brunswick 14 — Laney 54</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/21/2026&amp;mobile=1</link>
-      <description>Final: 9/21 — West Brunswick 14 — Laney 54</description>
-      <awayTeam>West Brunswick</awayTeam>
-      <awayScore>14</awayScore>
-      <homeTeam>Laney</homeTeam>
-      <homeScore>54</homeScore>
-      <awayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</awayLogo>
-      <homeLogo />
-      <awayImageUrl>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</awayImageUrl>
-      <homeImageUrl />
-      <ns0:thumbnail url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" role="away" />
-      <ns0:content url="https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png" medium="image" />
-      <guid isPermaLink="false">2026-09-21|laney|west brunswick</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/21 — South Columbus 35 — Pender 14</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/21/2026&amp;mobile=1</link>
-      <description>Final: 9/21 — South Columbus 35 — Pender 14</description>
-      <awayTeam>South Columbus</awayTeam>
-      <awayScore>35</awayScore>
-      <homeTeam>Pender</homeTeam>
-      <homeScore>14</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-21|pender|south columbus</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/21 — North Brunswick 14 — New Hanover 21</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/21/2026&amp;mobile=1</link>
-      <description>Final: 9/21 — North Brunswick 14 — New Hanover 21</description>
-      <awayTeam>North Brunswick</awayTeam>
-      <awayScore>14</awayScore>
-      <homeTeam>New Hanover</homeTeam>
-      <homeScore>21</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-21|new hanover|north brunswick</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/21 — Lakewood 28 — North Duplin 14</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/21/2026&amp;mobile=1</link>
-      <description>Final: 9/21 — Lakewood 28 — North Duplin 14</description>
-      <awayTeam>Lakewood</awayTeam>
-      <awayScore>28</awayScore>
-      <homeTeam>North Duplin</homeTeam>
-      <homeScore>14</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-21|lakewood|north duplin</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>9/21 — East Carteret 24 — ALAJ 12</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=9/21/2026&amp;mobile=1</link>
-      <description>Final: 9/21 — East Carteret 24 — ALAJ 12</description>
-      <awayTeam>East Carteret</awayTeam>
-      <awayScore>24</awayScore>
-      <homeTeam>ALAJ</homeTeam>
-      <homeScore>12</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-09-21|alaj|east carteret</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
