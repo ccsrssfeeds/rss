@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 03:08:09 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:32:35 -0400</lastBuildDate>
     <item>
       <title>10/9 — Whiteville 41 — South Brunswick 20</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/9/2026&amp;mobile=1</link>
@@ -52,11 +52,11 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/9 — West Carteret 21 — NJHS 56</title>
+      <title>10/9 — West Carteret 20 — NJHS 56</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/9/2026&amp;mobile=1</link>
-      <description>Final: 10/9 — West Carteret 21 — NJHS 56</description>
+      <description>Final: 10/9 — West Carteret 20 — NJHS 56</description>
       <awayTeam>West Carteret</awayTeam>
-      <awayScore>21</awayScore>
+      <awayScore>20</awayScore>
       <homeTeam>NJHS</homeTeam>
       <homeScore>56</homeScore>
       <awayLogo />
@@ -371,13 +371,13 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/9 — Jones Senior 6 — Southside 33</title>
+      <title>10/9 — Jones Senior 6 — Southside 46</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/9/2026&amp;mobile=1</link>
-      <description>Final: 10/9 — Jones Senior 6 — Southside 33</description>
+      <description>Final: 10/9 — Jones Senior 6 — Southside 46</description>
       <awayTeam>Jones Senior</awayTeam>
       <awayScore>6</awayScore>
       <homeTeam>Southside</homeTeam>
-      <homeScore>33</homeScore>
+      <homeScore>46</homeScore>
       <awayLogo />
       <homeLogo />
       <awayImageUrl />
