@@ -5,6 +5,258 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 17:35:28 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:11:38 -0400</lastBuildDate>
+    <item>
+      <title>LIVE — Ashley 27 — North Brunswick 14</title>
+      <description>LIVE — Ashley 27 — North Brunswick 14</description>
+      <guid isPermaLink="false">2026-10-09|ashley|north brunswick</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Ashley</awayTeam>
+      <awayScore>27</awayScore>
+      <homeTeam>North Brunswick</homeTeam>
+      <homeScore>14</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Clinton 13 — Chesnee 28</title>
+      <description>LIVE — Clinton 13 — Chesnee 28</description>
+      <guid isPermaLink="false">2026-10-09|chesnee|clinton</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Clinton</awayTeam>
+      <awayScore>13</awayScore>
+      <homeTeam>Chesnee</homeTeam>
+      <homeScore>28</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Conway 24 — Myrtle Beach 23</title>
+      <description>LIVE — Conway 24 — Myrtle Beach 23</description>
+      <guid isPermaLink="false">2026-10-09|conway|myrtle beach</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Conway</awayTeam>
+      <awayScore>24</awayScore>
+      <homeTeam>Myrtle Beach</homeTeam>
+      <homeScore>23</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Darlington 0 — Aynor 18</title>
+      <description>LIVE — Darlington 0 — Aynor 18</description>
+      <guid isPermaLink="false">2026-10-09|aynor|darlington</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Darlington</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Aynor</homeTeam>
+      <homeScore>18</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — East Columbus 8 — East Bladen 22</title>
+      <description>LIVE — East Columbus 8 — East Bladen 22</description>
+      <guid isPermaLink="false">2026-10-09|east bladen|east columbus</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>East Columbus</awayTeam>
+      <awayScore>8</awayScore>
+      <homeTeam>East Bladen</homeTeam>
+      <homeScore>22</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Goldsboro 21 — James Kenan 21</title>
+      <description>LIVE — Goldsboro 21 — James Kenan 21</description>
+      <guid isPermaLink="false">2026-10-09|goldsboro|james kenan</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Goldsboro</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>James Kenan</homeTeam>
+      <homeScore>21</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Greene Central 28 — Kinston 8</title>
+      <description>LIVE — Greene Central 28 — Kinston 8</description>
+      <guid isPermaLink="false">2026-10-09|greene central|kinston</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Greene Central</awayTeam>
+      <awayScore>28</awayScore>
+      <homeTeam>Kinston</homeTeam>
+      <homeScore>8</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Havelock 41 — Dixon 16</title>
+      <description>LIVE — Havelock 41 — Dixon 16</description>
+      <guid isPermaLink="false">2026-10-09|dixon|havelock</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Havelock</awayTeam>
+      <awayScore>41</awayScore>
+      <homeTeam>Dixon</homeTeam>
+      <homeScore>16</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Lake View 49 — GSFHS 19</title>
+      <description>LIVE — Lake View 49 — GSFHS 19</description>
+      <guid isPermaLink="false">2026-10-09|green sea floyds|lake view</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Lake View</awayTeam>
+      <awayScore>49</awayScore>
+      <homeTeam>GSFHS</homeTeam>
+      <homeScore>19</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Lejeune 7 — East Carteret 22</title>
+      <description>LIVE — Lejeune 7 — East Carteret 22</description>
+      <guid isPermaLink="false">2026-10-09|east carteret|lejeune</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Lejeune</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>East Carteret</homeTeam>
+      <homeScore>22</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Midway 6 — WRHHS 16</title>
+      <description>LIVE — Midway 6 — WRHHS 16</description>
+      <guid isPermaLink="false">2026-10-09|midway|wrhhs</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Midway</awayTeam>
+      <awayScore>6</awayScore>
+      <homeTeam>WRHHS</homeTeam>
+      <homeScore>16</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Purnell Swett 7 — Cape Fear 29</title>
+      <description>LIVE — Purnell Swett 7 — Cape Fear 29</description>
+      <guid isPermaLink="false">2026-10-09|cape fear|purnell swett</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Purnell Swett</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>Cape Fear</homeTeam>
+      <homeScore>29</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Red Springs 0 — South Columbus 49</title>
+      <description>LIVE — Red Springs 0 — South Columbus 49</description>
+      <guid isPermaLink="false">2026-10-09|red springs|south columbus</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Red Springs</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>South Columbus</homeTeam>
+      <homeScore>49</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — SOHS 27 — Pender 28</title>
+      <description>LIVE — SOHS 27 — Pender 28</description>
+      <guid isPermaLink="false">2026-10-09|pender|sohs</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>SOHS</awayTeam>
+      <awayScore>27</awayScore>
+      <homeTeam>Pender</homeTeam>
+      <homeScore>28</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — (#14) South Florence 38 — St. James 0</title>
+      <description>LIVE — (#14) South Florence 38 — St. James 0</description>
+      <guid isPermaLink="false">2026-10-09|south florence|st. james</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>(#14) South Florence</awayTeam>
+      <awayScore>38</awayScore>
+      <homeTeam>St. James</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — West Brunswick 26 — New Hanover 21</title>
+      <description>LIVE — West Brunswick 26 — New Hanover 21</description>
+      <guid isPermaLink="false">2026-10-09|new hanover|west brunswick</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>West Brunswick</awayTeam>
+      <awayScore>26</awayScore>
+      <homeTeam>New Hanover</homeTeam>
+      <homeScore>21</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — C.B. Aycock 7 — Rocky Mount 44</title>
+      <description>FINAL — C.B. Aycock 7 — Rocky Mount 44</description>
+      <guid isPermaLink="false">2026-10-09|c.b. aycock|rocky mount</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>C.B. Aycock</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>Rocky Mount</homeTeam>
+      <homeScore>44</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — Lakewood 29 — Union 8</title>
+      <description>FINAL — Lakewood 29 — Union 8</description>
+      <guid isPermaLink="false">2026-10-09|lakewood|union</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Lakewood</awayTeam>
+      <awayScore>29</awayScore>
+      <homeTeam>Union</homeTeam>
+      <homeScore>8</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — North Lenoir Live Q4 TCHS Ravenscroft In progress B BACA Halifax Academy In progress F West Bladen 0 — Fairmont 2</title>
+      <description>FINAL — North Lenoir Live Q4 TCHS Ravenscroft In progress B BACA Halifax Academy In progress F West Bladen 0 — Fairmont 2</description>
+      <guid isPermaLink="false">2026-10-09|fairmont|north lenoir live q4 tchs ravenscroft in progress b baca halifax academy in progress f west bladen</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>North Lenoir Live Q4 TCHS Ravenscroft In progress B BACA Halifax Academy In progress F West Bladen</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Fairmont</homeTeam>
+      <homeScore>2</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — Pamlico County 6 — NPHS 68</title>
+      <description>FINAL — Pamlico County 6 — NPHS 68</description>
+      <guid isPermaLink="false">2026-10-09|nphs|pamlico county</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Pamlico County</awayTeam>
+      <awayScore>6</awayScore>
+      <homeTeam>NPHS</homeTeam>
+      <homeScore>68</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>FINAL — Whiteville 41 — South Brunswick 20</title>
+      <description>FINAL — Whiteville 41 — South Brunswick 20</description>
+      <guid isPermaLink="false">2026-10-09|south brunswick|whiteville</guid>
+      <pubDate>Fri, 09 Oct 2026 21:11:38 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Whiteville</awayTeam>
+      <awayScore>41</awayScore>
+      <homeTeam>South Brunswick</homeTeam>
+      <homeScore>20</homeScore>
+      <source>web</source>
+    </item>
   </channel>
 </rss>
