@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 11:41:25 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:17:14 -0400</lastBuildDate>
     <item>
       <title>10/9 — Whiteville 41 — South Brunswick 20</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/9/2026&amp;mobile=1</link>
@@ -22,12 +22,12 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/9 — White Oak 6 — (#24) New Bern 44</title>
+      <title>10/9 — White Oak 6 — New Bern 44</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/9/2026&amp;mobile=1</link>
-      <description>Final: 10/9 — White Oak 6 — (#24) New Bern 44</description>
+      <description>Final: 10/9 — White Oak 6 — New Bern 44</description>
       <awayTeam>White Oak</awayTeam>
       <awayScore>6</awayScore>
-      <homeTeam>(#24) New Bern</homeTeam>
+      <homeTeam>New Bern</homeTeam>
       <homeScore>44</homeScore>
       <awayLogo />
       <homeLogo />
@@ -52,12 +52,12 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/9 — West Carteret 20 — NJHS 56</title>
+      <title>10/9 — West Carteret 20 — (#24) NJHS 56</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/9/2026&amp;mobile=1</link>
-      <description>Final: 10/9 — West Carteret 20 — NJHS 56</description>
+      <description>Final: 10/9 — West Carteret 20 — (#24) NJHS 56</description>
       <awayTeam>West Carteret</awayTeam>
       <awayScore>20</awayScore>
-      <homeTeam>NJHS</homeTeam>
+      <homeTeam>(#24) NJHS</homeTeam>
       <homeScore>56</homeScore>
       <awayLogo />
       <homeLogo />
@@ -129,10 +129,10 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/9 — (#14) South Florence 51 — St. James 3</title>
+      <title>10/9 — (#23) South Florence 51 — St. James 3</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=10/9/2026&amp;mobile=1</link>
-      <description>Final: 10/9 — (#14) South Florence 51 — St. James 3</description>
-      <awayTeam>(#14) South Florence</awayTeam>
+      <description>Final: 10/9 — (#23) South Florence 51 — St. James 3</description>
+      <awayTeam>(#23) South Florence</awayTeam>
       <awayScore>51</awayScore>
       <homeTeam>St. James</homeTeam>
       <homeScore>3</homeScore>
@@ -386,12 +386,12 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/9 — Jacksonville 26 — J.H. Rose 28</title>
+      <title>10/9 — (#25) Jacksonville 26 — (#23) J.H. Rose 28</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/9/2026&amp;mobile=1</link>
-      <description>Final: 10/9 — Jacksonville 26 — J.H. Rose 28</description>
-      <awayTeam>Jacksonville</awayTeam>
+      <description>Final: 10/9 — (#25) Jacksonville 26 — (#23) J.H. Rose 28</description>
+      <awayTeam>(#25) Jacksonville</awayTeam>
       <awayScore>26</awayScore>
-      <homeTeam>J.H. Rose</homeTeam>
+      <homeTeam>(#23) J.H. Rose</homeTeam>
       <homeScore>28</homeScore>
       <awayLogo />
       <homeLogo />
@@ -551,10 +551,10 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/9 — (#13) Berkeley 36 — Carolina Forest 24</title>
+      <title>10/9 — (#10) Berkeley 36 — Carolina Forest 24</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=10/9/2026&amp;mobile=1</link>
-      <description>Final: 10/9 — (#13) Berkeley 36 — Carolina Forest 24</description>
-      <awayTeam>(#13) Berkeley</awayTeam>
+      <description>Final: 10/9 — (#10) Berkeley 36 — Carolina Forest 24</description>
+      <awayTeam>(#10) Berkeley</awayTeam>
       <awayScore>36</awayScore>
       <homeTeam>Carolina Forest</homeTeam>
       <homeScore>24</homeScore>

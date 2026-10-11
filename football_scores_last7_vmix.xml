@@ -13,7 +13,7 @@
   <Score>
     <AwayTeam>White Oak</AwayTeam>
     <AwayScore>6</AwayScore>
-    <HomeTeam>(#24) New Bern</HomeTeam>
+    <HomeTeam>New Bern</HomeTeam>
     <HomeScore>44</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -33,7 +33,7 @@
   <Score>
     <AwayTeam>West Carteret</AwayTeam>
     <AwayScore>20</AwayScore>
-    <HomeTeam>NJHS</HomeTeam>
+    <HomeTeam>(#24) NJHS</HomeTeam>
     <HomeScore>56</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -81,7 +81,7 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>(#14) South Florence</AwayTeam>
+    <AwayTeam>(#23) South Florence</AwayTeam>
     <AwayScore>51</AwayScore>
     <HomeTeam>St. James</HomeTeam>
     <HomeScore>3</HomeScore>
@@ -251,9 +251,9 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Jacksonville</AwayTeam>
+    <AwayTeam>(#25) Jacksonville</AwayTeam>
     <AwayScore>26</AwayScore>
-    <HomeTeam>J.H. Rose</HomeTeam>
+    <HomeTeam>(#23) J.H. Rose</HomeTeam>
     <HomeScore>28</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -361,7 +361,7 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>(#13) Berkeley</AwayTeam>
+    <AwayTeam>(#10) Berkeley</AwayTeam>
     <AwayScore>36</AwayScore>
     <HomeTeam>Carolina Forest</HomeTeam>
     <HomeScore>24</HomeScore>
