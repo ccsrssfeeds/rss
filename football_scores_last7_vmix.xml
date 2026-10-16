@@ -1,6 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Scores>
   <Score>
+    <AwayTeam>Carolina Forest</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>Socastee</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</HomeLogo>
+    <Date>Thu, 15 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
     <AwayTeam>Whiteville</AwayTeam>
     <AwayScore>41</AwayScore>
     <HomeTeam>South Brunswick</HomeTeam>

@@ -5,7 +5,24 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 21:20:57 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:09:09 -0400</lastBuildDate>
+    <item>
+      <title>10/15 — Carolina Forest 35 — Socastee 7</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=10/15/2026&amp;mobile=1</link>
+      <description>Final: 10/15 — Carolina Forest 35 — Socastee 7</description>
+      <awayTeam>Carolina Forest</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>Socastee</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</homeLogo>
+      <awayImageUrl />
+      <homeImageUrl>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</homeImageUrl>
+      <ns0:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="home" />
+      <ns0:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
+      <guid isPermaLink="false">2026-10-15|carolina forest|socastee</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>10/9 — Whiteville 41 — South Brunswick 20</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/9/2026&amp;mobile=1</link>
