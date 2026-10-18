@@ -113,7 +113,7 @@
   <Score>
     <AwayTeam>South Central</AwayTeam>
     <AwayScore>30</AwayScore>
-    <HomeTeam>(#25) Jacksonville</HomeTeam>
+    <HomeTeam>Jacksonville</HomeTeam>
     <HomeScore>62</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -171,7 +171,7 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>(#24) NJHS</AwayTeam>
+    <AwayTeam>NJHS</AwayTeam>
     <AwayScore>39</AwayScore>
     <HomeTeam>Dixon</HomeTeam>
     <HomeScore>6</HomeScore>
@@ -241,7 +241,7 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>(#23) J.H. Rose</AwayTeam>
+    <AwayTeam>(#25) J.H. Rose</AwayTeam>
     <AwayScore>62</AwayScore>
     <HomeTeam>White Oak</HomeTeam>
     <HomeScore>0</HomeScore>

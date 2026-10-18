@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:34:45 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:43:42 -0400</lastBuildDate>
     <item>
       <title>10/16 — West Carteret 14 — Richlands 13</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/16/2026&amp;mobile=1</link>
@@ -174,12 +174,12 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/16 — South Central 30 — (#25) Jacksonville 62</title>
+      <title>10/16 — South Central 30 — Jacksonville 62</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/16/2026&amp;mobile=1</link>
-      <description>Final: 10/16 — South Central 30 — (#25) Jacksonville 62</description>
+      <description>Final: 10/16 — South Central 30 — Jacksonville 62</description>
       <awayTeam>South Central</awayTeam>
       <awayScore>30</awayScore>
-      <homeTeam>(#25) Jacksonville</homeTeam>
+      <homeTeam>Jacksonville</homeTeam>
       <homeScore>62</homeScore>
       <awayLogo />
       <homeLogo />
@@ -266,10 +266,10 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/16 — (#24) NJHS 39 — Dixon 6</title>
+      <title>10/16 — NJHS 39 — Dixon 6</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/16/2026&amp;mobile=1</link>
-      <description>Final: 10/16 — (#24) NJHS 39 — Dixon 6</description>
-      <awayTeam>(#24) NJHS</awayTeam>
+      <description>Final: 10/16 — NJHS 39 — Dixon 6</description>
+      <awayTeam>NJHS</awayTeam>
       <awayScore>39</awayScore>
       <homeTeam>Dixon</homeTeam>
       <homeScore>6</homeScore>
@@ -371,10 +371,10 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/16 — (#23) J.H. Rose 62 — White Oak 0</title>
+      <title>10/16 — (#25) J.H. Rose 62 — White Oak 0</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/16/2026&amp;mobile=1</link>
-      <description>Final: 10/16 — (#23) J.H. Rose 62 — White Oak 0</description>
-      <awayTeam>(#23) J.H. Rose</awayTeam>
+      <description>Final: 10/16 — (#25) J.H. Rose 62 — White Oak 0</description>
+      <awayTeam>(#25) J.H. Rose</awayTeam>
       <awayScore>62</awayScore>
       <homeTeam>White Oak</homeTeam>
       <homeScore>0</homeScore>
