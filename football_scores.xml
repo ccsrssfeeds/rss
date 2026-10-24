@@ -5,6 +5,318 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:58:41 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:14:58 -0400</lastBuildDate>
+    <item>
+      <title>LIVE — Croatan 7 — West Carteret 0</title>
+      <description>LIVE — Croatan 7 — West Carteret 0</description>
+      <guid isPermaLink="false">2026-10-23|croatan|west carteret</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Croatan</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>West Carteret</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — East Carteret 30 — Jones Senior 0</title>
+      <description>LIVE — East Carteret 30 — Jones Senior 0</description>
+      <guid isPermaLink="false">2026-10-23|east carteret|jones senior</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>East Carteret</awayTeam>
+      <awayScore>30</awayScore>
+      <homeTeam>Jones Senior</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Fike 35 — C.B. Aycock 7</title>
+      <description>LIVE — Fike 35 — C.B. Aycock 7</description>
+      <guid isPermaLink="false">2026-10-23|c.b. aycock|fike</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Fike</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>C.B. Aycock</homeTeam>
+      <homeScore>7</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Hoggard 30 — North Brunswick 7</title>
+      <description>LIVE — Hoggard 30 — North Brunswick 7</description>
+      <guid isPermaLink="false">2026-10-23|hoggard|north brunswick</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Hoggard</awayTeam>
+      <awayScore>30</awayScore>
+      <homeTeam>North Brunswick</homeTeam>
+      <homeScore>7</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Jacksonville 35 — D.H. Conley 16</title>
+      <description>LIVE — Jacksonville 35 — D.H. Conley 16</description>
+      <guid isPermaLink="false">2026-10-23|d.h. conley|jacksonville</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Jacksonville</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>D.H. Conley</homeTeam>
+      <homeScore>16</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Kinston 0 — Beddingfield 0</title>
+      <description>LIVE — Kinston 0 — Beddingfield 0</description>
+      <guid isPermaLink="false">2026-10-23|beddingfield|kinston</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Kinston</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Beddingfield</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Lakewood 22 — Hobbton 16</title>
+      <description>LIVE — Lakewood 22 — Hobbton 16</description>
+      <guid isPermaLink="false">2026-10-23|hobbton|lakewood</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Lakewood</awayTeam>
+      <awayScore>22</awayScore>
+      <homeTeam>Hobbton</homeTeam>
+      <homeScore>16</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Lakewood 0 — Loris 27</title>
+      <description>LIVE — Lakewood 0 — Loris 27</description>
+      <guid isPermaLink="false">2026-10-23|lakewood|loris</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Lakewood</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Loris</homeTeam>
+      <homeScore>27</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Landrum 6 — Clinton 24</title>
+      <description>LIVE — Landrum 6 — Clinton 24</description>
+      <guid isPermaLink="false">2026-10-23|clinton|landrum</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Landrum</awayTeam>
+      <awayScore>6</awayScore>
+      <homeTeam>Clinton</homeTeam>
+      <homeScore>24</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Laney 28 — New Hanover 0</title>
+      <description>LIVE — Laney 28 — New Hanover 0</description>
+      <guid isPermaLink="false">2026-10-23|laney|new hanover</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Laney</awayTeam>
+      <awayScore>28</awayScore>
+      <homeTeam>New Hanover</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — NJHS 21 — Swansboro 0</title>
+      <description>LIVE — NJHS 21 — Swansboro 0</description>
+      <guid isPermaLink="false">2026-10-23|njhs|swansboro</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>NJHS</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>Swansboro</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — North Duplin 8 — East Columbus 7</title>
+      <description>LIVE — North Duplin 8 — East Columbus 7</description>
+      <guid isPermaLink="false">2026-10-23|east columbus|north duplin</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>North Duplin</awayTeam>
+      <awayScore>8</awayScore>
+      <homeTeam>East Columbus</homeTeam>
+      <homeScore>7</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Pamlico County 22 — Lejeune 14</title>
+      <description>LIVE — Pamlico County 22 — Lejeune 14</description>
+      <guid isPermaLink="false">2026-10-23|lejeune|pamlico county</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Pamlico County</awayTeam>
+      <awayScore>22</awayScore>
+      <homeTeam>Lejeune</homeTeam>
+      <homeScore>14</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Pender 0 — East Duplin 34</title>
+      <description>LIVE — Pender 0 — East Duplin 34</description>
+      <guid isPermaLink="false">2026-10-23|east duplin|pender</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Pender</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>East Duplin</homeTeam>
+      <homeScore>34</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Princeton 7 — James Kenan 21</title>
+      <description>LIVE — Princeton 7 — James Kenan 21</description>
+      <guid isPermaLink="false">2026-10-23|james kenan|princeton</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Princeton</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>James Kenan</homeTeam>
+      <homeScore>21</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Scotland 46 — Lumberton 0</title>
+      <description>LIVE — Scotland 46 — Lumberton 0</description>
+      <guid isPermaLink="false">2026-10-23|lumberton|scotland</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Scotland</awayTeam>
+      <awayScore>46</awayScore>
+      <homeTeam>Lumberton</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Socastee 0 — Goose Creek 13</title>
+      <description>LIVE — Socastee 0 — Goose Creek 13</description>
+      <guid isPermaLink="false">2026-10-23|goose creek|socastee</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Socastee</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Goose Creek</homeTeam>
+      <homeScore>13</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — (#16) South Florence 9 — NMBHS 7</title>
+      <description>LIVE — (#16) South Florence 9 — NMBHS 7</description>
+      <guid isPermaLink="false">2026-10-23|north myrtle beach|south florence</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>(#16) South Florence</awayTeam>
+      <awayScore>9</awayScore>
+      <homeTeam>NMBHS</homeTeam>
+      <homeScore>7</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — South Lenoir 0 — SOHS 24</title>
+      <description>LIVE — South Lenoir 0 — SOHS 24</description>
+      <guid isPermaLink="false">2026-10-23|sohs|south lenoir</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>South Lenoir</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>SOHS</homeTeam>
+      <homeScore>24</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — South View 8 — St. Pauls 21</title>
+      <description>LIVE — South View 8 — St. Pauls 21</description>
+      <guid isPermaLink="false">2026-10-23|south view|st. pauls</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>South View</awayTeam>
+      <awayScore>8</awayScore>
+      <homeTeam>St. Pauls</homeTeam>
+      <homeScore>21</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Wando 23 — Carolina Forest 21</title>
+      <description>LIVE — Wando 23 — Carolina Forest 21</description>
+      <guid isPermaLink="false">2026-10-23|carolina forest|wando</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Wando</awayTeam>
+      <awayScore>23</awayScore>
+      <homeTeam>Carolina Forest</homeTeam>
+      <homeScore>21</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Washington 6 — Eastern Wayne 0</title>
+      <description>LIVE — Washington 6 — Eastern Wayne 0</description>
+      <guid isPermaLink="false">2026-10-23|eastern wayne|washington</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Washington</awayTeam>
+      <awayScore>6</awayScore>
+      <homeTeam>Eastern Wayne</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — West Brunswick 0 — Ashley 19</title>
+      <description>LIVE — West Brunswick 0 — Ashley 19</description>
+      <guid isPermaLink="false">2026-10-23|ashley|west brunswick</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>West Brunswick</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Ashley</homeTeam>
+      <homeScore>19</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — West Columbus 64 — Goldsboro 0</title>
+      <description>LIVE — West Columbus 64 — Goldsboro 0</description>
+      <guid isPermaLink="false">2026-10-23|goldsboro|west columbus</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>West Columbus</awayTeam>
+      <awayScore>64</awayScore>
+      <homeTeam>Goldsboro</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — White Oak 6 — South Central 18</title>
+      <description>LIVE — White Oak 6 — South Central 18</description>
+      <guid isPermaLink="false">2026-10-23|south central|white oak</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>White Oak</awayTeam>
+      <awayScore>6</awayScore>
+      <homeTeam>South Central</homeTeam>
+      <homeScore>18</homeScore>
+      <source>web</source>
+    </item>
+    <item>
+      <title>LIVE — Whiteville 19 — Red Springs 0</title>
+      <description>LIVE — Whiteville 19 — Red Springs 0</description>
+      <guid isPermaLink="false">2026-10-23|red springs|whiteville</guid>
+      <pubDate>Fri, 23 Oct 2026 20:14:58 -0400</pubDate>
+      <status>LIVE</status>
+      <awayTeam>Whiteville</awayTeam>
+      <awayScore>19</awayScore>
+      <homeTeam>Red Springs</homeTeam>
+      <homeScore>0</homeScore>
+      <source>web</source>
+    </item>
   </channel>
 </rss>
