@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 08:40:32 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:29:16 -0400</lastBuildDate>
     <item>
       <title>10/23 — WRHHS 48 — Rosewood 20</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/23/2026&amp;mobile=1</link>
@@ -508,11 +508,11 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/23 — East Carteret 35 — Jones Senior 0</title>
+      <title>10/23 — East Carteret 34 — Jones Senior 0</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/23/2026&amp;mobile=1</link>
-      <description>Final: 10/23 — East Carteret 35 — Jones Senior 0</description>
+      <description>Final: 10/23 — East Carteret 34 — Jones Senior 0</description>
       <awayTeam>East Carteret</awayTeam>
-      <awayScore>35</awayScore>
+      <awayScore>34</awayScore>
       <homeTeam>Jones Senior</homeTeam>
       <homeScore>0</homeScore>
       <awayLogo />
