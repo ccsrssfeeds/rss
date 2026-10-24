@@ -1,153 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Scores>
   <Score>
-    <AwayTeam>White Oak</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>South Central</HomeTeam>
-    <HomeScore>46</HomeScore>
+    <AwayTeam>WRHHS</AwayTeam>
+    <AwayScore>48</AwayScore>
+    <HomeTeam>Rosewood</HomeTeam>
+    <HomeScore>20</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>West Columbus</AwayTeam>
-    <AwayScore>64</AwayScore>
-    <HomeTeam>Goldsboro Live</HomeTeam>
+    <AwayTeam>Whiteville</AwayTeam>
+    <AwayScore>40</AwayScore>
+    <HomeTeam>Red Springs</HomeTeam>
     <HomeScore>0</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Scotland</AwayTeam>
-    <AwayScore>46</AwayScore>
-    <HomeTeam>Lumberton</HomeTeam>
-    <HomeScore>8</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Princeton</AwayTeam>
-    <AwayScore>15</AwayScore>
-    <HomeTeam>James Kenan</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Pender</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>East Duplin</HomeTeam>
-    <HomeScore>34</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Pamlico County</AwayTeam>
-    <AwayScore>36</AwayScore>
-    <HomeTeam>Lejeune</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Duplin</AwayTeam>
-    <AwayScore>8</AwayScore>
-    <HomeTeam>East Columbus Live Q2 Oak Grove Glenn In progress Covenant Day V VOHS In progress 38 PCA 32 LA</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Myrtle Beach</AwayTeam>
-    <AwayScore>82</AwayScore>
-    <HomeTeam>Wilson In progress 6 Georgetown 37 Bishop England Live Q4 41 (#17) Camden 7 Lower Richland Live Q4 Edisto Bethune-Bowman In progress 28 NA 34 Laurens Academy</HomeTeam>
-    <HomeScore>2</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Laney</AwayTeam>
-    <AwayScore>34</AwayScore>
-    <HomeTeam>New Hanover</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Lakewood</AwayTeam>
-    <AwayScore>38</AwayScore>
-    <HomeTeam>Hobbton Live OT 0 (#12) Myers Park 35 (#1) Hough</HomeTeam>
-    <HomeScore>38</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Kinston</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Beddingfield Live Q1 54 FCHS 55 Greene Central Live Q4 21 TFA 14 (#18) ACS Live Q3 62 Jordan 14 Green Level</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Jacksonville</AwayTeam>
-    <AwayScore>63</AwayScore>
-    <HomeTeam>D.H. Conley</HomeTeam>
-    <HomeScore>22</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Hoggard</AwayTeam>
-    <AwayScore>30</AwayScore>
-    <HomeTeam>North Brunswick Live Q2 West Johnston Western Harnett In progress Mount Pleasant Monroe In progress POBAT Olympic Live</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>East Carteret</AwayTeam>
-    <AwayScore>35</AwayScore>
-    <HomeTeam>Jones Senior Live Q4 10 Concord 23 Salisbury Live Q4 Ayden - Grifton Tarboro In progress 29 CSD 3 LCA Live Q4 42 Franklin 35 Smoky Mountain</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Croatan</AwayTeam>
-    <AwayScore>20</AwayScore>
-    <HomeTeam>West Carteret</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 21 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
@@ -157,677 +27,357 @@
     <HomeScore>46</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>West Columbus</AwayTeam>
-    <AwayScore>64</AwayScore>
-    <HomeTeam>Goldsboro Live</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Scotland</AwayTeam>
-    <AwayScore>46</AwayScore>
-    <HomeTeam>Lumberton</HomeTeam>
-    <HomeScore>8</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Princeton</AwayTeam>
-    <AwayScore>15</AwayScore>
-    <HomeTeam>James Kenan</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Pender</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>East Duplin</HomeTeam>
-    <HomeScore>34</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Pamlico County</AwayTeam>
-    <AwayScore>36</AwayScore>
-    <HomeTeam>Lejeune</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Duplin</AwayTeam>
-    <AwayScore>8</AwayScore>
-    <HomeTeam>East Columbus Live Q2 Oak Grove Glenn In progress Covenant Day V VOHS In progress 38 PCA 32 LA</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Myrtle Beach</AwayTeam>
-    <AwayScore>82</AwayScore>
-    <HomeTeam>Wilson In progress 6 Georgetown 37 Bishop England Live Q4 41 (#17) Camden 7 Lower Richland Live Q4 Edisto Bethune-Bowman In progress 28 NA 34 Laurens Academy</HomeTeam>
-    <HomeScore>2</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Laney</AwayTeam>
-    <AwayScore>34</AwayScore>
-    <HomeTeam>New Hanover</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Lakewood</AwayTeam>
-    <AwayScore>38</AwayScore>
-    <HomeTeam>Hobbton Live OT 0 (#12) Myers Park 35 (#1) Hough</HomeTeam>
-    <HomeScore>38</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Kinston</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Beddingfield Live Q1 54 FCHS 55 Greene Central Live Q4 21 TFA 14 (#18) ACS Live Q3 62 Jordan 14 Green Level</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Jacksonville</AwayTeam>
-    <AwayScore>63</AwayScore>
-    <HomeTeam>D.H. Conley</HomeTeam>
-    <HomeScore>22</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Hoggard</AwayTeam>
-    <AwayScore>30</AwayScore>
-    <HomeTeam>North Brunswick Live Q2 West Johnston Western Harnett In progress Mount Pleasant Monroe In progress POBAT Olympic Live</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>East Carteret</AwayTeam>
-    <AwayScore>35</AwayScore>
-    <HomeTeam>Jones Senior Live Q4 10 Concord 23 Salisbury Live Q4 Ayden - Grifton Tarboro In progress 29 CSD 3 LCA Live Q4 42 Franklin 35 Smoky Mountain</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Croatan</AwayTeam>
+    <AwayTeam>West Craven</AwayTeam>
     <AwayScore>20</AwayScore>
-    <HomeTeam>West Carteret</HomeTeam>
-    <HomeScore>0</HomeScore>
+    <HomeTeam>SWEHS</HomeTeam>
+    <HomeScore>12</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Tue, 20 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Myrtle Beach</AwayTeam>
-    <AwayScore>82</AwayScore>
-    <HomeTeam>Wilson In progress 6 Georgetown 37 Bishop England Live Q4 41 (#17) Camden 7 Lower Richland Live Q4 Edisto Bethune-Bowman In progress 28 NA 34 Laurens Academy</HomeTeam>
-    <HomeScore>2</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Mon, 19 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>White Oak</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>South Central</HomeTeam>
-    <HomeScore>46</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>West Columbus</AwayTeam>
-    <AwayScore>64</AwayScore>
-    <HomeTeam>Goldsboro Live</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Scotland</AwayTeam>
-    <AwayScore>46</AwayScore>
-    <HomeTeam>Lumberton</HomeTeam>
-    <HomeScore>8</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Princeton</AwayTeam>
-    <AwayScore>15</AwayScore>
-    <HomeTeam>James Kenan</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Pender</AwayTeam>
+    <AwayTeam>West Brunswick</AwayTeam>
     <AwayScore>6</AwayScore>
-    <HomeTeam>East Duplin</HomeTeam>
-    <HomeScore>34</HomeScore>
-    <AwayLogo />
+    <HomeTeam>Ashley</HomeTeam>
+    <HomeScore>33</HomeScore>
+    <AwayLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</AwayLogo>
     <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Pamlico County</AwayTeam>
-    <AwayScore>36</AwayScore>
-    <HomeTeam>Lejeune</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Duplin</AwayTeam>
-    <AwayScore>8</AwayScore>
-    <HomeTeam>East Columbus Live Q2 Oak Grove Glenn In progress Covenant Day V VOHS In progress 38 PCA 32 LA</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Myrtle Beach</AwayTeam>
-    <AwayScore>82</AwayScore>
-    <HomeTeam>Wilson In progress 6 Georgetown 37 Bishop England Live Q4 41 (#17) Camden 7 Lower Richland Live Q4 Edisto Bethune-Bowman In progress 28 NA 34 Laurens Academy</HomeTeam>
-    <HomeScore>2</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Laney</AwayTeam>
-    <AwayScore>34</AwayScore>
-    <HomeTeam>New Hanover</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Lakewood</AwayTeam>
-    <AwayScore>38</AwayScore>
-    <HomeTeam>Hobbton Live OT 0 (#12) Myers Park 35 (#1) Hough</HomeTeam>
-    <HomeScore>38</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Kinston</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Beddingfield Live Q1 54 FCHS 55 Greene Central Live Q4 21 TFA 14 (#18) ACS Live Q3 62 Jordan 14 Green Level</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Jacksonville</AwayTeam>
-    <AwayScore>63</AwayScore>
-    <HomeTeam>D.H. Conley</HomeTeam>
-    <HomeScore>22</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Hoggard</AwayTeam>
-    <AwayScore>30</AwayScore>
-    <HomeTeam>North Brunswick Live Q2 West Johnston Western Harnett In progress Mount Pleasant Monroe In progress POBAT Olympic Live</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>East Carteret</AwayTeam>
-    <AwayScore>35</AwayScore>
-    <HomeTeam>Jones Senior Live Q4 10 Concord 23 Salisbury Live Q4 Ayden - Grifton Tarboro In progress 29 CSD 3 LCA Live Q4 42 Franklin 35 Smoky Mountain</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Croatan</AwayTeam>
+    <AwayTeam>Washington</AwayTeam>
     <AwayScore>20</AwayScore>
-    <HomeTeam>West Carteret</HomeTeam>
+    <HomeTeam>Eastern Wayne</HomeTeam>
     <HomeScore>0</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Sun, 18 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>West Carteret</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Richlands</HomeTeam>
-    <HomeScore>13</HomeScore>
+    <AwayTeam>Wando</AwayTeam>
+    <AwayScore>34</AwayScore>
+    <HomeTeam>Carolina Forest</HomeTeam>
+    <HomeScore>42</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>Union</AwayTeam>
-    <AwayScore>20</AwayScore>
-    <HomeTeam>North Duplin</HomeTeam>
-    <HomeScore>27</HomeScore>
+    <AwayScore>34</AwayScore>
+    <HomeTeam>East Bladen</HomeTeam>
+    <HomeScore>49</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Topsail</AwayTeam>
-    <AwayScore>28</AwayScore>
-    <HomeTeam>West Brunswick</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo>https://nchslogos.com/wp-content/uploads/2023/03/WestBrunswick_Trojans.png</HomeLogo>
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Terry Sanford</AwayTeam>
-    <AwayScore>35</AwayScore>
-    <HomeTeam>Lumberton</HomeTeam>
-    <HomeScore>11</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Swansboro</AwayTeam>
-    <AwayScore>19</AwayScore>
-    <HomeTeam>Havelock</HomeTeam>
-    <HomeScore>53</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>St. Pauls</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Westover</HomeTeam>
-    <HomeScore>16</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>St. James</AwayTeam>
+    <AwayScore>13</AwayScore>
+    <HomeTeam>Conway</HomeTeam>
+    <HomeScore>41</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>South View</AwayTeam>
     <AwayScore>24</AwayScore>
-    <HomeTeam>Myrtle Beach</HomeTeam>
-    <HomeScore>28</HomeScore>
+    <HomeTeam>St. Pauls</HomeTeam>
+    <HomeScore>34</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Southside</AwayTeam>
-    <AwayScore>28</AwayScore>
-    <HomeTeam>Pamlico County</HomeTeam>
-    <HomeScore>6</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Southern Wayne</AwayTeam>
-    <AwayScore>8</AwayScore>
-    <HomeTeam>Fike</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>South Lenoir</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Pender</HomeTeam>
-    <HomeScore>60</HomeScore>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>SOHS</HomeTeam>
+    <HomeScore>44</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>South Columbus</AwayTeam>
-    <AwayScore>18</AwayScore>
-    <HomeTeam>South Brunswick</HomeTeam>
-    <HomeScore>20</HomeScore>
+    <AwayTeam>(#16) South Florence</AwayTeam>
+    <AwayScore>40</AwayScore>
+    <HomeTeam>NMBHS</HomeTeam>
+    <HomeScore>29</HomeScore>
     <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <HomeLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</HomeLogo>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>South Central</AwayTeam>
-    <AwayScore>30</AwayScore>
-    <HomeTeam>Jacksonville</HomeTeam>
-    <HomeScore>62</HomeScore>
+    <AwayTeam>South Brunswick</AwayTeam>
+    <AwayScore>13</AwayScore>
+    <HomeTeam>Fairmont</HomeTeam>
+    <HomeScore>46</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Rosewood</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>Midway</HomeTeam>
-    <HomeScore>56</HomeScore>
+    <AwayTeam>Socastee</AwayTeam>
+    <AwayScore>41</AwayScore>
+    <HomeTeam>Goose Creek</HomeTeam>
+    <HomeScore>13</HomeScore>
+    <AwayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</AwayLogo>
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Scotland</AwayTeam>
+    <AwayScore>46</AwayScore>
+    <HomeTeam>Lumberton</HomeTeam>
+    <HomeScore>8</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>Purnell Swett</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>Scotland</HomeTeam>
-    <HomeScore>46</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>NPHS</AwayTeam>
-    <AwayScore>42</AwayScore>
-    <HomeTeam>East Carteret</HomeTeam>
-    <HomeScore>0</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>NMBHS</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>Conway</HomeTeam>
-    <HomeScore>23</HomeScore>
-    <AwayLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</AwayLogo>
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Lenoir</AwayTeam>
     <AwayScore>0</AwayScore>
-    <HomeTeam>West Craven</HomeTeam>
-    <HomeScore>57</HomeScore>
+    <HomeTeam>Gray's Creek</HomeTeam>
+    <HomeScore>6</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Princeton</AwayTeam>
+    <AwayScore>15</AwayScore>
+    <HomeTeam>James Kenan</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Pender</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>East Duplin</HomeTeam>
+    <HomeScore>34</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Pamlico County</AwayTeam>
+    <AwayScore>36</AwayScore>
+    <HomeTeam>Lejeune</HomeTeam>
+    <HomeScore>28</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>North Johnston</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>North Lenoir</HomeTeam>
+    <HomeScore>18</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>North Duplin</AwayTeam>
+    <AwayScore>8</AwayScore>
+    <HomeTeam>East Columbus</HomeTeam>
+    <HomeScore>23</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>NJHS</AwayTeam>
-    <AwayScore>39</AwayScore>
-    <HomeTeam>Dixon</HomeTeam>
-    <HomeScore>6</HomeScore>
+    <AwayScore>29</AwayScore>
+    <HomeTeam>Swansboro</HomeTeam>
+    <HomeScore>0</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>New Hanover</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>Ashley</HomeTeam>
-    <HomeScore>27</HomeScore>
+    <AwayTeam>New Bern</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>(#25) J.H. Rose</HomeTeam>
+    <HomeScore>39</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>MVP</AwayTeam>
+    <AwayTeam>Myrtle Beach</AwayTeam>
+    <AwayScore>23</AwayScore>
+    <HomeTeam>Wilson</HomeTeam>
+    <HomeScore>33</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Laney</AwayTeam>
     <AwayScore>34</AwayScore>
+    <HomeTeam>New Hanover</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Landrum</AwayTeam>
+    <AwayScore>14</AwayScore>
     <HomeTeam>Clinton</HomeTeam>
-    <HomeScore>46</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Marion</AwayTeam>
-    <AwayScore>40</AwayScore>
-    <HomeTeam>GSFHS</HomeTeam>
-    <HomeScore>13</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Loris</AwayTeam>
-    <AwayScore>49</AwayScore>
-    <HomeTeam>Hartsville</HomeTeam>
     <HomeScore>52</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Lejeune</AwayTeam>
-    <AwayScore>40</AwayScore>
-    <HomeTeam>Jones Senior</HomeTeam>
-    <HomeScore>0</HomeScore>
+    <AwayTeam>Lakewood</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>Loris</HomeTeam>
+    <HomeScore>51</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>James Kenan</AwayTeam>
-    <AwayScore>35</AwayScore>
-    <HomeTeam>C.B. Aycock</HomeTeam>
-    <HomeScore>12</HomeScore>
+    <AwayTeam>Lakewood</AwayTeam>
+    <AwayScore>44</AwayScore>
+    <HomeTeam>Hobbton</HomeTeam>
+    <HomeScore>38</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>(#25) J.H. Rose</AwayTeam>
-    <AwayScore>62</AwayScore>
-    <HomeTeam>White Oak</HomeTeam>
-    <HomeScore>0</HomeScore>
+    <AwayTeam>Kinston</AwayTeam>
+    <AwayScore>53</AwayScore>
+    <HomeTeam>Beddingfield</HomeTeam>
+    <HomeScore>6</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Jacksonville</AwayTeam>
+    <AwayScore>63</AwayScore>
+    <HomeTeam>D.H. Conley</HomeTeam>
+    <HomeScore>22</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>Hoggard</AwayTeam>
-    <AwayScore>36</AwayScore>
-    <HomeTeam>Laney</HomeTeam>
+    <AwayScore>67</AwayScore>
+    <HomeTeam>North Brunswick</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>GSFHS</AwayTeam>
+    <AwayScore>31</AwayScore>
+    <HomeTeam>Mullins</HomeTeam>
+    <HomeScore>28</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Fike</AwayTeam>
+    <AwayScore>49</AwayScore>
+    <HomeTeam>C.B. Aycock</HomeTeam>
+    <HomeScore>7</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>East Carteret</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>Jones Senior</HomeTeam>
     <HomeScore>0</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Hobbton</AwayTeam>
+    <AwayTeam>Dixon</AwayTeam>
     <AwayScore>28</AwayScore>
-    <HomeTeam>West Columbus</HomeTeam>
-    <HomeScore>44</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Heide Trask</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>SOHS</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Greene Central</AwayTeam>
-    <AwayScore>49</AwayScore>
-    <HomeTeam>Ayden - Grifton</HomeTeam>
-    <HomeScore>20</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Goldsboro</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>Princeton</HomeTeam>
-    <HomeScore>71</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>FCHS</AwayTeam>
-    <AwayScore>31</AwayScore>
-    <HomeTeam>Kinston</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Fairmont</AwayTeam>
-    <AwayScore>22</AwayScore>
-    <HomeTeam>Whiteville</HomeTeam>
-    <HomeScore>31</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Eastern Wayne</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>North Pitt</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>East Bladen</AwayTeam>
-    <AwayScore>29</AwayScore>
-    <HomeTeam>Lakewood</HomeTeam>
+    <HomeTeam>Richlands</HomeTeam>
     <HomeScore>34</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>D.H. Conley</AwayTeam>
-    <AwayScore>35</AwayScore>
-    <HomeTeam>New Bern</HomeTeam>
-    <HomeScore>42</HomeScore>
+    <AwayTeam>Croatan</AwayTeam>
+    <AwayScore>20</AwayScore>
+    <HomeTeam>West Carteret</HomeTeam>
+    <HomeScore>0</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>Clinton</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>East Duplin</HomeTeam>
-    <HomeScore>35</HomeScore>
+    <AwayScore>49</AwayScore>
+    <HomeTeam>Heide Trask</HomeTeam>
+    <HomeScore>0</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Aynor</AwayTeam>
-    <AwayScore>43</AwayScore>
-    <HomeTeam>Lakewood</HomeTeam>
-    <HomeScore>18</HomeScore>
+    <AwayTeam>Ayden - Grifton</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Tarboro</HomeTeam>
+    <HomeScore>41</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 16 Oct 2026 00:00:00 -0400</Date>
+    <Date>Fri, 23 Oct 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
 </Scores>
