@@ -111,7 +111,7 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>(#16) South Florence</AwayTeam>
+    <AwayTeam>(#15) South Florence</AwayTeam>
     <AwayScore>40</AwayScore>
     <HomeTeam>NMBHS</HomeTeam>
     <HomeScore>29</HomeScore>
@@ -211,7 +211,7 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>NJHS</AwayTeam>
+    <AwayTeam>(#22) NJHS</AwayTeam>
     <AwayScore>29</AwayScore>
     <HomeTeam>Swansboro</HomeTeam>
     <HomeScore>0</HomeScore>
@@ -223,7 +223,7 @@
   <Score>
     <AwayTeam>New Bern</AwayTeam>
     <AwayScore>26</AwayScore>
-    <HomeTeam>(#25) J.H. Rose</HomeTeam>
+    <HomeTeam>(#21) J.H. Rose</HomeTeam>
     <HomeScore>39</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -291,7 +291,7 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Jacksonville</AwayTeam>
+    <AwayTeam>(#23) Jacksonville</AwayTeam>
     <AwayScore>63</AwayScore>
     <HomeTeam>D.H. Conley</HomeTeam>
     <HomeScore>22</HomeScore>
