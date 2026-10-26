@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:30:25 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:10:38 -0400</lastBuildDate>
     <item>
       <title>10/23 — WRHHS 48 — Rosewood 20</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/23/2026&amp;mobile=1</link>
@@ -64,6 +64,21 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-10-23|swehs|west craven</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>10/23 — West Columbus 2 — Goldsboro 0</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=10/23/2026&amp;mobile=1</link>
+      <description>Final: 10/23 — West Columbus 2 — Goldsboro 0</description>
+      <awayTeam>West Columbus</awayTeam>
+      <awayScore>2</awayScore>
+      <homeTeam>Goldsboro</homeTeam>
+      <homeScore>0</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-10-23|goldsboro|west columbus</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
