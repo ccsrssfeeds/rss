@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:07:25 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:07:35 -0400</lastBuildDate>
     <item>
       <title>10/23 — WRHHS 48 — Rosewood 20</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/23/2026&amp;mobile=1</link>
@@ -189,10 +189,10 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/23 — (#15) South Florence 40 — NMBHS 29</title>
+      <title>10/23 — (#17) South Florence 40 — NMBHS 29</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=10/23/2026&amp;mobile=1</link>
-      <description>Final: 10/23 — (#15) South Florence 40 — NMBHS 29</description>
-      <awayTeam>(#15) South Florence</awayTeam>
+      <description>Final: 10/23 — (#17) South Florence 40 — NMBHS 29</description>
+      <awayTeam>(#17) South Florence</awayTeam>
       <awayScore>40</awayScore>
       <homeTeam>NMBHS</homeTeam>
       <homeScore>29</homeScore>
@@ -343,10 +343,10 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/23 — (#22) NJHS 29 — Swansboro 0</title>
+      <title>10/23 — (#21) NJHS 29 — Swansboro 0</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/23/2026&amp;mobile=1</link>
-      <description>Final: 10/23 — (#22) NJHS 29 — Swansboro 0</description>
-      <awayTeam>(#22) NJHS</awayTeam>
+      <description>Final: 10/23 — (#21) NJHS 29 — Swansboro 0</description>
+      <awayTeam>(#21) NJHS</awayTeam>
       <awayScore>29</awayScore>
       <homeTeam>Swansboro</homeTeam>
       <homeScore>0</homeScore>
@@ -358,12 +358,12 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/23 — New Bern 26 — (#21) J.H. Rose 39</title>
+      <title>10/23 — New Bern 26 — (#20) J.H. Rose 39</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/23/2026&amp;mobile=1</link>
-      <description>Final: 10/23 — New Bern 26 — (#21) J.H. Rose 39</description>
+      <description>Final: 10/23 — New Bern 26 — (#20) J.H. Rose 39</description>
       <awayTeam>New Bern</awayTeam>
       <awayScore>26</awayScore>
-      <homeTeam>(#21) J.H. Rose</homeTeam>
+      <homeTeam>(#20) J.H. Rose</homeTeam>
       <homeScore>39</homeScore>
       <awayLogo />
       <homeLogo />
@@ -463,10 +463,10 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/23 — (#23) Jacksonville 63 — D.H. Conley 22</title>
+      <title>10/23 — (#22) Jacksonville 63 — D.H. Conley 22</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/23/2026&amp;mobile=1</link>
-      <description>Final: 10/23 — (#23) Jacksonville 63 — D.H. Conley 22</description>
-      <awayTeam>(#23) Jacksonville</awayTeam>
+      <description>Final: 10/23 — (#22) Jacksonville 63 — D.H. Conley 22</description>
+      <awayTeam>(#22) Jacksonville</awayTeam>
       <awayScore>63</awayScore>
       <homeTeam>D.H. Conley</homeTeam>
       <homeScore>22</homeScore>
