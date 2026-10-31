@@ -5,30 +5,6 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 22:36:40 -0400</lastBuildDate>
-    <item>
-      <title>FINAL — Aynor 8 — Loris 42</title>
-      <description>FINAL — Aynor 8 — Loris 42</description>
-      <guid isPermaLink="false">2026-10-30|aynor|loris</guid>
-      <pubDate>Fri, 30 Oct 2026 22:36:40 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Aynor</awayTeam>
-      <awayScore>8</awayScore>
-      <homeTeam>Loris</homeTeam>
-      <homeScore>42</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — GSFHS 14 — Latta 28</title>
-      <description>FINAL — GSFHS 14 — Latta 28</description>
-      <guid isPermaLink="false">2026-10-30|green sea floyds|latta</guid>
-      <pubDate>Fri, 30 Oct 2026 22:36:40 -0400</pubDate>
-      <status>FINAL</status>
-      <awayTeam>GSFHS</awayTeam>
-      <awayScore>14</awayScore>
-      <homeTeam>Latta</homeTeam>
-      <homeScore>28</homeScore>
-      <source>web</source>
-    </item>
+    <lastBuildDate>Sat, 31 Oct 2026 04:48:31 -0400</lastBuildDate>
   </channel>
 </rss>
