@@ -5,257 +5,29 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 19:27:16 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:36:40 -0400</lastBuildDate>
     <item>
-      <title>LIVE — Conway 6 — West Florence 7</title>
-      <description>LIVE — Conway 6 — West Florence 7</description>
-      <guid isPermaLink="false">2026-10-30|conway|west florence</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Conway</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>West Florence</homeTeam>
-      <homeScore>7</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — D.H. Conley 0 — (#20) J.H. Rose 6</title>
-      <description>LIVE — D.H. Conley 0 — (#20) J.H. Rose 6</description>
-      <guid isPermaLink="false">2026-10-30|d.h. conley|j.h. rose</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>D.H. Conley</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>(#20) J.H. Rose</homeTeam>
-      <homeScore>6</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — East Carteret 7 — Pamlico County 0</title>
-      <description>LIVE — East Carteret 7 — Pamlico County 0</description>
-      <guid isPermaLink="false">2026-10-30|east carteret|pamlico county</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>East Carteret</awayTeam>
-      <awayScore>7</awayScore>
-      <homeTeam>Pamlico County</homeTeam>
-      <homeScore>0</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — East Duplin 13 — South Lenoir 0</title>
-      <description>LIVE — East Duplin 13 — South Lenoir 0</description>
-      <guid isPermaLink="false">2026-10-30|east duplin|south lenoir</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>East Duplin</awayTeam>
-      <awayScore>13</awayScore>
-      <homeTeam>South Lenoir</homeTeam>
-      <homeScore>0</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — FCHS 8 — Ayden - Grifton 0</title>
-      <description>LIVE — FCHS 8 — Ayden - Grifton 0</description>
-      <guid isPermaLink="false">2026-10-30|ayden - grifton|fchs</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>FCHS</awayTeam>
+      <title>FINAL — Aynor 8 — Loris 42</title>
+      <description>FINAL — Aynor 8 — Loris 42</description>
+      <guid isPermaLink="false">2026-10-30|aynor|loris</guid>
+      <pubDate>Fri, 30 Oct 2026 22:36:40 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Aynor</awayTeam>
       <awayScore>8</awayScore>
-      <homeTeam>Ayden - Grifton</homeTeam>
-      <homeScore>0</homeScore>
+      <homeTeam>Loris</homeTeam>
+      <homeScore>42</homeScore>
       <source>web</source>
     </item>
     <item>
-      <title>LIVE — Goldsboro 0 — Midway 14</title>
-      <description>LIVE — Goldsboro 0 — Midway 14</description>
-      <guid isPermaLink="false">2026-10-30|goldsboro|midway</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Goldsboro</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Midway</homeTeam>
-      <homeScore>14</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — Havelock 7 — (#21) NJHS 7</title>
-      <description>LIVE — Havelock 7 — (#21) NJHS 7</description>
-      <guid isPermaLink="false">2026-10-30|havelock|njhs</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Havelock</awayTeam>
-      <awayScore>7</awayScore>
-      <homeTeam>(#21) NJHS</homeTeam>
-      <homeScore>7</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — (#22) Jacksonville 20 — White Oak 0</title>
-      <description>LIVE — (#22) Jacksonville 20 — White Oak 0</description>
-      <guid isPermaLink="false">2026-10-30|jacksonville|white oak</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>(#22) Jacksonville</awayTeam>
-      <awayScore>20</awayScore>
-      <homeTeam>White Oak</homeTeam>
-      <homeScore>0</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — James Kenan 0 — WRHHS 0</title>
-      <description>LIVE — James Kenan 0 — WRHHS 0</description>
-      <guid isPermaLink="false">2026-10-30|james kenan|wrhhs</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>James Kenan</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>WRHHS</homeTeam>
-      <homeScore>0</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — Jones Senior 0 — NPHS 21</title>
-      <description>LIVE — Jones Senior 0 — NPHS 21</description>
-      <guid isPermaLink="false">2026-10-30|jones senior|nphs</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Jones Senior</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>NPHS</homeTeam>
-      <homeScore>21</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — Kinston 6 — Tarboro 7</title>
-      <description>LIVE — Kinston 6 — Tarboro 7</description>
-      <guid isPermaLink="false">2026-10-30|kinston|tarboro</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Kinston</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>Tarboro</homeTeam>
-      <homeScore>7</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — New Hanover 0 — Topsail 0</title>
-      <description>LIVE — New Hanover 0 — Topsail 0</description>
-      <guid isPermaLink="false">2026-10-30|new hanover|topsail</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>New Hanover</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Topsail</homeTeam>
-      <homeScore>0</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — North Brunswick 0 — Laney 0</title>
-      <description>LIVE — North Brunswick 0 — Laney 0</description>
-      <guid isPermaLink="false">2026-10-30|laney|north brunswick</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>North Brunswick</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Laney</homeTeam>
-      <homeScore>0</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — Northwood 0 — West Carteret 0</title>
-      <description>LIVE — Northwood 0 — West Carteret 0</description>
-      <guid isPermaLink="false">2026-10-30|northwood|west carteret</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Northwood</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>West Carteret</homeTeam>
-      <homeScore>0</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — Pender 14 — Heide Trask 0</title>
-      <description>LIVE — Pender 14 — Heide Trask 0</description>
-      <guid isPermaLink="false">2026-10-30|heide trask|pender</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Pender</awayTeam>
+      <title>FINAL — GSFHS 14 — Latta 28</title>
+      <description>FINAL — GSFHS 14 — Latta 28</description>
+      <guid isPermaLink="false">2026-10-30|green sea floyds|latta</guid>
+      <pubDate>Fri, 30 Oct 2026 22:36:40 -0400</pubDate>
+      <status>FINAL</status>
+      <awayTeam>GSFHS</awayTeam>
       <awayScore>14</awayScore>
-      <homeTeam>Heide Trask</homeTeam>
-      <homeScore>0</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — Princeton 7 — Rosewood 0</title>
-      <description>LIVE — Princeton 7 — Rosewood 0</description>
-      <guid isPermaLink="false">2026-10-30|princeton|rosewood</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Princeton</awayTeam>
-      <awayScore>7</awayScore>
-      <homeTeam>Rosewood</homeTeam>
-      <homeScore>0</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — Richlands 0 — Swansboro 7</title>
-      <description>LIVE — Richlands 0 — Swansboro 7</description>
-      <guid isPermaLink="false">2026-10-30|richlands|swansboro</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Richlands</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Swansboro</homeTeam>
-      <homeScore>7</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — SOHS 0 — Clinton 3</title>
-      <description>LIVE — SOHS 0 — Clinton 3</description>
-      <guid isPermaLink="false">2026-10-30|clinton|sohs</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>SOHS</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Clinton</homeTeam>
-      <homeScore>3</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — South Central 6 — New Bern 6</title>
-      <description>LIVE — South Central 6 — New Bern 6</description>
-      <guid isPermaLink="false">2026-10-30|new bern|south central</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>South Central</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>New Bern</homeTeam>
-      <homeScore>6</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — South Columbus 6 — Whiteville 14</title>
-      <description>LIVE — South Columbus 6 — Whiteville 14</description>
-      <guid isPermaLink="false">2026-10-30|south columbus|whiteville</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>South Columbus</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>Whiteville</homeTeam>
-      <homeScore>14</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — West Columbus 0 — Union 8</title>
-      <description>LIVE — West Columbus 0 — Union 8</description>
-      <guid isPermaLink="false">2026-10-30|union|west columbus</guid>
-      <pubDate>Fri, 30 Oct 2026 19:27:16 -0400</pubDate>
-      <status>LIVE</status>
-      <awayTeam>West Columbus</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Union</homeTeam>
-      <homeScore>8</homeScore>
+      <homeTeam>Latta</homeTeam>
+      <homeScore>28</homeScore>
       <source>web</source>
     </item>
   </channel>
