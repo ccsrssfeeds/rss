@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 21:10:21 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 02:33:02 -0500</lastBuildDate>
     <item>
       <title>10/30 — Woodruff 21 — Clinton 43</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=10/30/2026&amp;mobile=1</link>
@@ -309,10 +309,10 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/30 — (#22) Jacksonville 49 — White Oak 0</title>
+      <title>10/30 — Jacksonville 49 — White Oak 0</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — (#22) Jacksonville 49 — White Oak 0</description>
-      <awayTeam>(#22) Jacksonville</awayTeam>
+      <description>Final: 10/30 — Jacksonville 49 — White Oak 0</description>
+      <awayTeam>Jacksonville</awayTeam>
       <awayScore>49</awayScore>
       <homeTeam>White Oak</homeTeam>
       <homeScore>0</homeScore>
@@ -339,12 +339,12 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/30 — Havelock 35 — (#21) NJHS 42</title>
+      <title>10/30 — Havelock 35 — NJHS 42</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Havelock 35 — (#21) NJHS 42</description>
+      <description>Final: 10/30 — Havelock 35 — NJHS 42</description>
       <awayTeam>Havelock</awayTeam>
       <awayScore>35</awayScore>
-      <homeTeam>(#21) NJHS</homeTeam>
+      <homeTeam>NJHS</homeTeam>
       <homeScore>42</homeScore>
       <awayLogo />
       <homeLogo />
@@ -549,10 +549,10 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>10/30 — (#20) Berkeley 62 — Socastee 28</title>
+      <title>10/30 — (#15) Berkeley 62 — Socastee 28</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — (#20) Berkeley 62 — Socastee 28</description>
-      <awayTeam>(#20) Berkeley</awayTeam>
+      <description>Final: 10/30 — (#15) Berkeley 62 — Socastee 28</description>
+      <awayTeam>(#15) Berkeley</awayTeam>
       <awayScore>62</awayScore>
       <homeTeam>Socastee</homeTeam>
       <homeScore>28</homeScore>
