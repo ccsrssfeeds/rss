@@ -5,6 +5,6 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 03:28:18 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:38:35 -0500</lastBuildDate>
   </channel>
 </rss>
