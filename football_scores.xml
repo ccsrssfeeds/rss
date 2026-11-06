@@ -5,66 +5,6 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 21:26:40 -0500</lastBuildDate>
-    <item>
-      <title>LIVE — Pamlico County 10 — Rosewood 36</title>
-      <description>LIVE — Pamlico County 10 — Rosewood 36</description>
-      <guid isPermaLink="false">2026-11-05|pamlico county|rosewood</guid>
-      <pubDate>Thu, 05 Nov 2026 21:26:40 -0500</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Pamlico County</awayTeam>
-      <awayScore>10</awayScore>
-      <homeTeam>Rosewood</homeTeam>
-      <homeScore>36</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>LIVE — Sanderson 34 — South Central 28</title>
-      <description>LIVE — Sanderson 34 — South Central 28</description>
-      <guid isPermaLink="false">2026-11-05|sanderson|south central</guid>
-      <pubDate>Thu, 05 Nov 2026 21:26:40 -0500</pubDate>
-      <status>LIVE</status>
-      <awayTeam>Sanderson</awayTeam>
-      <awayScore>34</awayScore>
-      <homeTeam>South Central</homeTeam>
-      <homeScore>28</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — Ayden - Grifton 60 — Louisburg 58</title>
-      <description>FINAL — Ayden - Grifton 60 — Louisburg 58</description>
-      <guid isPermaLink="false">2026-11-05|ayden - grifton|louisburg</guid>
-      <pubDate>Thu, 05 Nov 2026 21:26:40 -0500</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Ayden - Grifton</awayTeam>
-      <awayScore>60</awayScore>
-      <homeTeam>Louisburg</homeTeam>
-      <homeScore>58</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — Heide Trask 6 — FCHS 49</title>
-      <description>FINAL — Heide Trask 6 — FCHS 49</description>
-      <guid isPermaLink="false">2026-11-05|fchs|heide trask</guid>
-      <pubDate>Thu, 05 Nov 2026 21:26:40 -0500</pubDate>
-      <status>FINAL</status>
-      <awayTeam>Heide Trask</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>FCHS</homeTeam>
-      <homeScore>49</homeScore>
-      <source>web</source>
-    </item>
-    <item>
-      <title>FINAL — New Hanover 7 — (#25) SRHS 41</title>
-      <description>FINAL — New Hanover 7 — (#25) SRHS 41</description>
-      <guid isPermaLink="false">2026-11-05|new hanover|srhs</guid>
-      <pubDate>Thu, 05 Nov 2026 21:26:40 -0500</pubDate>
-      <status>FINAL</status>
-      <awayTeam>New Hanover</awayTeam>
-      <awayScore>7</awayScore>
-      <homeTeam>(#25) SRHS</homeTeam>
-      <homeScore>41</homeScore>
-      <source>web</source>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 04:35:45 -0500</lastBuildDate>
   </channel>
 </rss>
