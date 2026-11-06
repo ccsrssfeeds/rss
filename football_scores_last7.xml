@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 05:53:08 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:57:36 -0500</lastBuildDate>
     <item>
       <title>11/5 — Union 6 — East Carteret 36</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/5/2026&amp;mobile=1</link>
@@ -172,13 +172,13 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/5 — Ayden - Grifton 60 — Louisburg 58</title>
+      <title>11/5 — Ayden - Grifton 15 — Louisburg 20</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/5/2026&amp;mobile=1</link>
-      <description>Final: 11/5 — Ayden - Grifton 60 — Louisburg 58</description>
+      <description>Final: 11/5 — Ayden - Grifton 15 — Louisburg 20</description>
       <awayTeam>Ayden - Grifton</awayTeam>
-      <awayScore>60</awayScore>
+      <awayScore>15</awayScore>
       <homeTeam>Louisburg</homeTeam>
-      <homeScore>58</homeScore>
+      <homeScore>20</homeScore>
       <awayLogo />
       <homeLogo />
       <awayImageUrl />
