@@ -33,7 +33,7 @@
   <Score>
     <AwayTeam>New Hanover</AwayTeam>
     <AwayScore>7</AwayScore>
-    <HomeTeam>(#25) SRHS</HomeTeam>
+    <HomeTeam>SRHS</HomeTeam>
     <HomeScore>41</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -118,6 +118,196 @@
     <AwayLogo />
     <HomeLogo />
     <Date>Thu, 05 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Socastee</AwayTeam>
+    <AwayScore>27</AwayScore>
+    <HomeTeam>GCA</HomeTeam>
+    <HomeScore>61</HomeScore>
+    <AwayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</AwayLogo>
+    <HomeLogo />
+    <Date>Wed, 04 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Richlands</AwayTeam>
+    <AwayScore>21</AwayScore>
+    <HomeTeam>Orange</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 04 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Pender</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>Princeton</HomeTeam>
+    <HomeScore>58</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 04 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Laney</AwayTeam>
+    <AwayScore>47</AwayScore>
+    <HomeTeam>Panther Creek</HomeTeam>
+    <HomeScore>27</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 04 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Kinston</AwayTeam>
+    <AwayScore>30</AwayScore>
+    <HomeTeam>Northwood</HomeTeam>
+    <HomeScore>34</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 04 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Carver</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>Fairmont</HomeTeam>
+    <HomeScore>58</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Wed, 04 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Socastee</AwayTeam>
+    <AwayScore>27</AwayScore>
+    <HomeTeam>GCA</HomeTeam>
+    <HomeScore>61</HomeScore>
+    <AwayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</AwayLogo>
+    <HomeLogo />
+    <Date>Tue, 03 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Richlands</AwayTeam>
+    <AwayScore>21</AwayScore>
+    <HomeTeam>Orange</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Tue, 03 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Pender</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>Princeton</HomeTeam>
+    <HomeScore>58</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Tue, 03 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Laney</AwayTeam>
+    <AwayScore>47</AwayScore>
+    <HomeTeam>Panther Creek</HomeTeam>
+    <HomeScore>27</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Tue, 03 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Kinston</AwayTeam>
+    <AwayScore>30</AwayScore>
+    <HomeTeam>Northwood</HomeTeam>
+    <HomeScore>34</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Tue, 03 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Carver</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>Fairmont</HomeTeam>
+    <HomeScore>58</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Tue, 03 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Socastee</AwayTeam>
+    <AwayScore>27</AwayScore>
+    <HomeTeam>GCA</HomeTeam>
+    <HomeScore>61</HomeScore>
+    <AwayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</AwayLogo>
+    <HomeLogo />
+    <Date>Mon, 02 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Socastee</AwayTeam>
+    <AwayScore>27</AwayScore>
+    <HomeTeam>GCA</HomeTeam>
+    <HomeScore>61</HomeScore>
+    <AwayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</AwayLogo>
+    <HomeLogo />
+    <Date>Sun, 01 Nov 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Richlands</AwayTeam>
+    <AwayScore>21</AwayScore>
+    <HomeTeam>Orange</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 01 Nov 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Pender</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>Princeton</HomeTeam>
+    <HomeScore>58</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 01 Nov 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Laney</AwayTeam>
+    <AwayScore>47</AwayScore>
+    <HomeTeam>Panther Creek</HomeTeam>
+    <HomeScore>27</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 01 Nov 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Kinston</AwayTeam>
+    <AwayScore>30</AwayScore>
+    <HomeTeam>Northwood</HomeTeam>
+    <HomeScore>34</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 01 Nov 2026 00:00:00 -0400</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Carver</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>Fairmont</HomeTeam>
+    <HomeScore>58</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Sun, 01 Nov 2026 00:00:00 -0400</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
