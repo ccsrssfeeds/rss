@@ -5,7 +5,356 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 21:48:31 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:09:53 -0500</lastBuildDate>
+    <item>
+      <title>11/6 — White Oak 6 — Swansboro 19</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — White Oak 6 — Swansboro 19</description>
+      <awayTeam>White Oak</awayTeam>
+      <awayScore>6</awayScore>
+      <homeTeam>Swansboro</homeTeam>
+      <homeScore>19</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|swansboro|white oak</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Topsail 34 — Fuquay-Varina 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Topsail 34 — Fuquay-Varina 7</description>
+      <awayTeam>Topsail</awayTeam>
+      <awayScore>34</awayScore>
+      <homeTeam>Fuquay-Varina</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|fuquay-varina|topsail</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Southern Wayne 0 — WAHS 56</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Southern Wayne 0 — WAHS 56</description>
+      <awayTeam>Southern Wayne</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>WAHS</homeTeam>
+      <homeScore>56</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|southern wayne|wahs</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — South Lenoir 6 — PGHS 35</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — South Lenoir 6 — PGHS 35</description>
+      <awayTeam>South Lenoir</awayTeam>
+      <awayScore>6</awayScore>
+      <homeTeam>PGHS</homeTeam>
+      <homeScore>35</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|pghs|south lenoir</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — South Brunswick 29 — South Granville 31</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — South Brunswick 29 — South Granville 31</description>
+      <awayTeam>South Brunswick</awayTeam>
+      <awayScore>29</awayScore>
+      <homeTeam>South Granville</homeTeam>
+      <homeScore>31</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|south brunswick|south granville</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — SOHS 48 — North Pitt 8</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — SOHS 48 — North Pitt 8</description>
+      <awayTeam>SOHS</awayTeam>
+      <awayScore>48</awayScore>
+      <homeTeam>North Pitt</homeTeam>
+      <homeScore>8</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|north pitt|sohs</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Socastee 27 — GCA 61</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Socastee 27 — GCA 61</description>
+      <awayTeam>Socastee</awayTeam>
+      <awayScore>27</awayScore>
+      <homeTeam>GCA</homeTeam>
+      <homeScore>61</homeScore>
+      <awayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayLogo>
+      <homeLogo />
+      <awayImageUrl>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayImageUrl>
+      <homeImageUrl />
+      <ns0:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="away" />
+      <ns0:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
+      <guid isPermaLink="false">2026-11-06|gca|socastee</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — RSMHS 48 — GSFHS 72</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — RSMHS 48 — GSFHS 72</description>
+      <awayTeam>RSMHS</awayTeam>
+      <awayScore>48</awayScore>
+      <homeTeam>GSFHS</homeTeam>
+      <homeScore>72</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|green sea floyds|rsmhs</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Richlands 21 — Orange 35</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Richlands 21 — Orange 35</description>
+      <awayTeam>Richlands</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>Orange</homeTeam>
+      <homeScore>35</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|orange|richlands</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Pine Forest 7 — Ashley 38</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Pine Forest 7 — Ashley 38</description>
+      <awayTeam>Pine Forest</awayTeam>
+      <awayScore>7</awayScore>
+      <homeTeam>Ashley</homeTeam>
+      <homeScore>38</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|ashley|pine forest</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Person 32 — St. Pauls 33</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Person 32 — St. Pauls 33</description>
+      <awayTeam>Person</awayTeam>
+      <awayScore>32</awayScore>
+      <homeTeam>St. Pauls</homeTeam>
+      <homeScore>33</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|person|st. pauls</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Pender 26 — Princeton 58</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Pender 26 — Princeton 58</description>
+      <awayTeam>Pender</awayTeam>
+      <awayScore>26</awayScore>
+      <homeTeam>Princeton</homeTeam>
+      <homeScore>58</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|pender|princeton</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — NMBHS 0 — Lucy Beckham 56</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — NMBHS 0 — Lucy Beckham 56</description>
+      <awayTeam>NMBHS</awayTeam>
+      <awayScore>0</awayScore>
+      <homeTeam>Lucy Beckham</homeTeam>
+      <homeScore>56</homeScore>
+      <awayLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</awayLogo>
+      <homeLogo />
+      <awayImageUrl>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</awayImageUrl>
+      <homeImageUrl />
+      <ns0:thumbnail url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" role="away" />
+      <ns0:content url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" medium="image" />
+      <guid isPermaLink="false">2026-11-06|lucy beckham|north myrtle beach</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — North Brunswick 28 — Heritage 15</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — North Brunswick 28 — Heritage 15</description>
+      <awayTeam>North Brunswick</awayTeam>
+      <awayScore>28</awayScore>
+      <homeTeam>Heritage</homeTeam>
+      <homeScore>15</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|heritage|north brunswick</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — McMichael 6 — South Columbus 58</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — McMichael 6 — South Columbus 58</description>
+      <awayTeam>McMichael</awayTeam>
+      <awayScore>6</awayScore>
+      <homeTeam>South Columbus</homeTeam>
+      <homeScore>58</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|mcmichael|south columbus</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — May River 21 — Conway 37</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — May River 21 — Conway 37</description>
+      <awayTeam>May River</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>Conway</homeTeam>
+      <homeScore>37</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|conway|may river</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Lumberton 23 — Davie County 50</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Lumberton 23 — Davie County 50</description>
+      <awayTeam>Lumberton</awayTeam>
+      <awayScore>23</awayScore>
+      <homeTeam>Davie County</homeTeam>
+      <homeScore>50</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|davie county|lumberton</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Liberty 30 — Clinton 63</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Liberty 30 — Clinton 63</description>
+      <awayTeam>Liberty</awayTeam>
+      <awayScore>30</awayScore>
+      <homeTeam>Clinton</homeTeam>
+      <homeScore>63</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|clinton|liberty</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Laney 47 — Panther Creek 27</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Laney 47 — Panther Creek 27</description>
+      <awayTeam>Laney</awayTeam>
+      <awayScore>47</awayScore>
+      <homeTeam>Panther Creek</homeTeam>
+      <homeScore>27</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|laney|panther creek</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Kinston 30 — Northwood 34</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Kinston 30 — Northwood 34</description>
+      <awayTeam>Kinston</awayTeam>
+      <awayScore>30</awayScore>
+      <homeTeam>Northwood</homeTeam>
+      <homeScore>34</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|kinston|northwood</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Darlington 14 — Loris 42</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Darlington 14 — Loris 42</description>
+      <awayTeam>Darlington</awayTeam>
+      <awayScore>14</awayScore>
+      <homeTeam>Loris</homeTeam>
+      <homeScore>42</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|darlington|loris</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Carver 6 — Fairmont 58</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Carver 6 — Fairmont 58</description>
+      <awayTeam>Carver</awayTeam>
+      <awayScore>6</awayScore>
+      <homeTeam>Fairmont</homeTeam>
+      <homeScore>58</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|carver|fairmont</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/6 — Aynor 22 — Crestwood 23</title>
+      <link>https://www.maxpreps.com/sc/football/scores/?date=11/6/2026&amp;mobile=1</link>
+      <description>Final: 11/6 — Aynor 22 — Crestwood 23</description>
+      <awayTeam>Aynor</awayTeam>
+      <awayScore>22</awayScore>
+      <homeTeam>Crestwood</homeTeam>
+      <homeScore>23</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-06|aynor|crestwood</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>11/5 — Union 6 — East Carteret 36</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/5/2026&amp;mobile=1</link>
@@ -185,888 +534,6 @@
       <homeImageUrl />
       <guid isPermaLink="false">2026-11-05|ayden - grifton|louisburg</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/4 — Socastee 27 — GCA 61</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=11/4/2026&amp;mobile=1</link>
-      <description>Final: 11/4 — Socastee 27 — GCA 61</description>
-      <awayTeam>Socastee</awayTeam>
-      <awayScore>27</awayScore>
-      <homeTeam>GCA</homeTeam>
-      <homeScore>61</homeScore>
-      <awayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayLogo>
-      <homeLogo />
-      <awayImageUrl>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayImageUrl>
-      <homeImageUrl />
-      <ns0:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="away" />
-      <ns0:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
-      <guid isPermaLink="false">2026-11-04|gca|socastee</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/4 — Richlands 21 — Orange 35</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/4/2026&amp;mobile=1</link>
-      <description>Final: 11/4 — Richlands 21 — Orange 35</description>
-      <awayTeam>Richlands</awayTeam>
-      <awayScore>21</awayScore>
-      <homeTeam>Orange</homeTeam>
-      <homeScore>35</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-04|orange|richlands</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/4 — Pender 26 — Princeton 58</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/4/2026&amp;mobile=1</link>
-      <description>Final: 11/4 — Pender 26 — Princeton 58</description>
-      <awayTeam>Pender</awayTeam>
-      <awayScore>26</awayScore>
-      <homeTeam>Princeton</homeTeam>
-      <homeScore>58</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-04|pender|princeton</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/4 — Laney 47 — Panther Creek 27</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/4/2026&amp;mobile=1</link>
-      <description>Final: 11/4 — Laney 47 — Panther Creek 27</description>
-      <awayTeam>Laney</awayTeam>
-      <awayScore>47</awayScore>
-      <homeTeam>Panther Creek</homeTeam>
-      <homeScore>27</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-04|laney|panther creek</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/4 — Kinston 30 — Northwood 34</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/4/2026&amp;mobile=1</link>
-      <description>Final: 11/4 — Kinston 30 — Northwood 34</description>
-      <awayTeam>Kinston</awayTeam>
-      <awayScore>30</awayScore>
-      <homeTeam>Northwood</homeTeam>
-      <homeScore>34</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-04|kinston|northwood</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/4 — Carver 6 — Fairmont 58</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/4/2026&amp;mobile=1</link>
-      <description>Final: 11/4 — Carver 6 — Fairmont 58</description>
-      <awayTeam>Carver</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>Fairmont</homeTeam>
-      <homeScore>58</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-04|carver|fairmont</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/3 — Socastee 27 — GCA 61</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=11/3/2026&amp;mobile=1</link>
-      <description>Final: 11/3 — Socastee 27 — GCA 61</description>
-      <awayTeam>Socastee</awayTeam>
-      <awayScore>27</awayScore>
-      <homeTeam>GCA</homeTeam>
-      <homeScore>61</homeScore>
-      <awayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayLogo>
-      <homeLogo />
-      <awayImageUrl>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayImageUrl>
-      <homeImageUrl />
-      <ns0:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="away" />
-      <ns0:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
-      <guid isPermaLink="false">2026-11-03|gca|socastee</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/3 — Richlands 21 — Orange 35</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/3/2026&amp;mobile=1</link>
-      <description>Final: 11/3 — Richlands 21 — Orange 35</description>
-      <awayTeam>Richlands</awayTeam>
-      <awayScore>21</awayScore>
-      <homeTeam>Orange</homeTeam>
-      <homeScore>35</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-03|orange|richlands</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/3 — Pender 26 — Princeton 58</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/3/2026&amp;mobile=1</link>
-      <description>Final: 11/3 — Pender 26 — Princeton 58</description>
-      <awayTeam>Pender</awayTeam>
-      <awayScore>26</awayScore>
-      <homeTeam>Princeton</homeTeam>
-      <homeScore>58</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-03|pender|princeton</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/3 — Laney 47 — Panther Creek 27</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/3/2026&amp;mobile=1</link>
-      <description>Final: 11/3 — Laney 47 — Panther Creek 27</description>
-      <awayTeam>Laney</awayTeam>
-      <awayScore>47</awayScore>
-      <homeTeam>Panther Creek</homeTeam>
-      <homeScore>27</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-03|laney|panther creek</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/3 — Kinston 30 — Northwood 34</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/3/2026&amp;mobile=1</link>
-      <description>Final: 11/3 — Kinston 30 — Northwood 34</description>
-      <awayTeam>Kinston</awayTeam>
-      <awayScore>30</awayScore>
-      <homeTeam>Northwood</homeTeam>
-      <homeScore>34</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-03|kinston|northwood</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/3 — Carver 6 — Fairmont 58</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/3/2026&amp;mobile=1</link>
-      <description>Final: 11/3 — Carver 6 — Fairmont 58</description>
-      <awayTeam>Carver</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>Fairmont</homeTeam>
-      <homeScore>58</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-03|carver|fairmont</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/2 — Socastee 27 — GCA 61</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=11/2/2026&amp;mobile=1</link>
-      <description>Final: 11/2 — Socastee 27 — GCA 61</description>
-      <awayTeam>Socastee</awayTeam>
-      <awayScore>27</awayScore>
-      <homeTeam>GCA</homeTeam>
-      <homeScore>61</homeScore>
-      <awayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayLogo>
-      <homeLogo />
-      <awayImageUrl>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayImageUrl>
-      <homeImageUrl />
-      <ns0:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="away" />
-      <ns0:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
-      <guid isPermaLink="false">2026-11-02|gca|socastee</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/1 — Socastee 27 — GCA 61</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=11/1/2026&amp;mobile=1</link>
-      <description>Final: 11/1 — Socastee 27 — GCA 61</description>
-      <awayTeam>Socastee</awayTeam>
-      <awayScore>27</awayScore>
-      <homeTeam>GCA</homeTeam>
-      <homeScore>61</homeScore>
-      <awayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayLogo>
-      <homeLogo />
-      <awayImageUrl>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</awayImageUrl>
-      <homeImageUrl />
-      <ns0:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="away" />
-      <ns0:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
-      <guid isPermaLink="false">2026-11-01|gca|socastee</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>11/1 — Richlands 21 — Orange 35</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/1/2026&amp;mobile=1</link>
-      <description>Final: 11/1 — Richlands 21 — Orange 35</description>
-      <awayTeam>Richlands</awayTeam>
-      <awayScore>21</awayScore>
-      <homeTeam>Orange</homeTeam>
-      <homeScore>35</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-01|orange|richlands</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>11/1 — Pender 26 — Princeton 58</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/1/2026&amp;mobile=1</link>
-      <description>Final: 11/1 — Pender 26 — Princeton 58</description>
-      <awayTeam>Pender</awayTeam>
-      <awayScore>26</awayScore>
-      <homeTeam>Princeton</homeTeam>
-      <homeScore>58</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-01|pender|princeton</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>11/1 — Laney 47 — Panther Creek 27</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/1/2026&amp;mobile=1</link>
-      <description>Final: 11/1 — Laney 47 — Panther Creek 27</description>
-      <awayTeam>Laney</awayTeam>
-      <awayScore>47</awayScore>
-      <homeTeam>Panther Creek</homeTeam>
-      <homeScore>27</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-01|laney|panther creek</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>11/1 — Kinston 30 — Northwood 34</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/1/2026&amp;mobile=1</link>
-      <description>Final: 11/1 — Kinston 30 — Northwood 34</description>
-      <awayTeam>Kinston</awayTeam>
-      <awayScore>30</awayScore>
-      <homeTeam>Northwood</homeTeam>
-      <homeScore>34</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-01|kinston|northwood</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>11/1 — Carver 6 — Fairmont 58</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/1/2026&amp;mobile=1</link>
-      <description>Final: 11/1 — Carver 6 — Fairmont 58</description>
-      <awayTeam>Carver</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>Fairmont</homeTeam>
-      <homeScore>58</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-01|carver|fairmont</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Woodruff 21 — Clinton 43</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Woodruff 21 — Clinton 43</description>
-      <awayTeam>Woodruff</awayTeam>
-      <awayScore>21</awayScore>
-      <homeTeam>Clinton</homeTeam>
-      <homeScore>43</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|clinton|woodruff</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — West Columbus 59 — Union 20</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — West Columbus 59 — Union 20</description>
-      <awayTeam>West Columbus</awayTeam>
-      <awayScore>59</awayScore>
-      <homeTeam>Union</homeTeam>
-      <homeScore>20</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|union|west columbus</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — St. Pauls 54 — Douglas Byrd 14</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — St. Pauls 54 — Douglas Byrd 14</description>
-      <awayTeam>St. Pauls</awayTeam>
-      <awayScore>54</awayScore>
-      <homeTeam>Douglas Byrd</homeTeam>
-      <homeScore>14</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|douglas byrd|st. pauls</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — South Columbus 12 — Whiteville 48</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — South Columbus 12 — Whiteville 48</description>
-      <awayTeam>South Columbus</awayTeam>
-      <awayScore>12</awayScore>
-      <homeTeam>Whiteville</homeTeam>
-      <homeScore>48</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|south columbus|whiteville</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — South Central 22 — New Bern 44</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — South Central 22 — New Bern 44</description>
-      <awayTeam>South Central</awayTeam>
-      <awayScore>22</awayScore>
-      <homeTeam>New Bern</homeTeam>
-      <homeScore>44</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|new bern|south central</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — South Brunswick 40 — NWSHS 0</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — South Brunswick 40 — NWSHS 0</description>
-      <awayTeam>South Brunswick</awayTeam>
-      <awayScore>40</awayScore>
-      <homeTeam>NWSHS</homeTeam>
-      <homeScore>0</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|nwshs|south brunswick</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — SOHS 16 — Clinton 30</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — SOHS 16 — Clinton 30</description>
-      <awayTeam>SOHS</awayTeam>
-      <awayScore>16</awayScore>
-      <homeTeam>Clinton</homeTeam>
-      <homeScore>30</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|clinton|sohs</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Richlands 0 — Swansboro 21</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Richlands 0 — Swansboro 21</description>
-      <awayTeam>Richlands</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Swansboro</homeTeam>
-      <homeScore>21</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|richlands|swansboro</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Red Springs 0 — Fairmont 52</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Red Springs 0 — Fairmont 52</description>
-      <awayTeam>Red Springs</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Fairmont</homeTeam>
-      <homeScore>52</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|fairmont|red springs</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Princeton 52 — Rosewood 28</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Princeton 52 — Rosewood 28</description>
-      <awayTeam>Princeton</awayTeam>
-      <awayScore>52</awayScore>
-      <homeTeam>Rosewood</homeTeam>
-      <homeScore>28</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|princeton|rosewood</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Pender 58 — Heide Trask 14</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Pender 58 — Heide Trask 14</description>
-      <awayTeam>Pender</awayTeam>
-      <awayScore>58</awayScore>
-      <homeTeam>Heide Trask</homeTeam>
-      <homeScore>14</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|heide trask|pender</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Northwood 13 — West Carteret 16</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Northwood 13 — West Carteret 16</description>
-      <awayTeam>Northwood</awayTeam>
-      <awayScore>13</awayScore>
-      <homeTeam>West Carteret</homeTeam>
-      <homeScore>16</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|northwood|west carteret</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — North Pitt 28 — Washington 14</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — North Pitt 28 — Washington 14</description>
-      <awayTeam>North Pitt</awayTeam>
-      <awayScore>28</awayScore>
-      <homeTeam>Washington</homeTeam>
-      <homeScore>14</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|north pitt|washington</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — North Brunswick 13 — Laney 14</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — North Brunswick 13 — Laney 14</description>
-      <awayTeam>North Brunswick</awayTeam>
-      <awayScore>13</awayScore>
-      <homeTeam>Laney</homeTeam>
-      <homeScore>14</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|laney|north brunswick</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — New Hanover 21 — Topsail 24</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — New Hanover 21 — Topsail 24</description>
-      <awayTeam>New Hanover</awayTeam>
-      <awayScore>21</awayScore>
-      <homeTeam>Topsail</homeTeam>
-      <homeScore>24</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|new hanover|topsail</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Myrtle Beach 55 — NMBHS 21</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Myrtle Beach 55 — NMBHS 21</description>
-      <awayTeam>Myrtle Beach</awayTeam>
-      <awayScore>55</awayScore>
-      <homeTeam>NMBHS</homeTeam>
-      <homeScore>21</homeScore>
-      <awayLogo />
-      <homeLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</homeLogo>
-      <awayImageUrl />
-      <homeImageUrl>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</homeImageUrl>
-      <ns0:thumbnail url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" role="home" />
-      <ns0:content url="https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png" medium="image" />
-      <guid isPermaLink="false">2026-10-30|myrtle beach|north myrtle beach</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Lumberton 28 — Purnell Swett 26</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Lumberton 28 — Purnell Swett 26</description>
-      <awayTeam>Lumberton</awayTeam>
-      <awayScore>28</awayScore>
-      <homeTeam>Purnell Swett</homeTeam>
-      <homeScore>26</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|lumberton|purnell swett</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Kinston 12 — Tarboro 48</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Kinston 12 — Tarboro 48</description>
-      <awayTeam>Kinston</awayTeam>
-      <awayScore>12</awayScore>
-      <homeTeam>Tarboro</homeTeam>
-      <homeScore>48</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|kinston|tarboro</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Jones Senior 0 — NPHS 42</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Jones Senior 0 — NPHS 42</description>
-      <awayTeam>Jones Senior</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>NPHS</homeTeam>
-      <homeScore>42</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|jones senior|nphs</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — James Kenan 13 — WRHHS 10</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — James Kenan 13 — WRHHS 10</description>
-      <awayTeam>James Kenan</awayTeam>
-      <awayScore>13</awayScore>
-      <homeTeam>WRHHS</homeTeam>
-      <homeScore>10</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|james kenan|wrhhs</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Jacksonville 49 — White Oak 0</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Jacksonville 49 — White Oak 0</description>
-      <awayTeam>Jacksonville</awayTeam>
-      <awayScore>49</awayScore>
-      <homeTeam>White Oak</homeTeam>
-      <homeScore>0</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|jacksonville|white oak</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Hobbton 30 — North Duplin 25</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Hobbton 30 — North Duplin 25</description>
-      <awayTeam>Hobbton</awayTeam>
-      <awayScore>30</awayScore>
-      <homeTeam>North Duplin</homeTeam>
-      <homeScore>25</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|hobbton|north duplin</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Havelock 35 — NJHS 42</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Havelock 35 — NJHS 42</description>
-      <awayTeam>Havelock</awayTeam>
-      <awayScore>35</awayScore>
-      <homeTeam>NJHS</homeTeam>
-      <homeScore>42</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|havelock|njhs</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — GSFHS 14 — Latta 28</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — GSFHS 14 — Latta 28</description>
-      <awayTeam>GSFHS</awayTeam>
-      <awayScore>14</awayScore>
-      <homeTeam>Latta</homeTeam>
-      <homeScore>28</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|green sea floyds|latta</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Goldsboro 6 — Midway 55</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Goldsboro 6 — Midway 55</description>
-      <awayTeam>Goldsboro</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>Midway</homeTeam>
-      <homeScore>55</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|goldsboro|midway</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — FCHS 36 — Ayden - Grifton 7</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — FCHS 36 — Ayden - Grifton 7</description>
-      <awayTeam>FCHS</awayTeam>
-      <awayScore>36</awayScore>
-      <homeTeam>Ayden - Grifton</homeTeam>
-      <homeScore>7</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|ayden - grifton|fchs</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Eastern Wayne 6 — West Craven 35</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Eastern Wayne 6 — West Craven 35</description>
-      <awayTeam>Eastern Wayne</awayTeam>
-      <awayScore>6</awayScore>
-      <homeTeam>West Craven</homeTeam>
-      <homeScore>35</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|eastern wayne|west craven</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — East Duplin 54 — South Lenoir 0</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — East Duplin 54 — South Lenoir 0</description>
-      <awayTeam>East Duplin</awayTeam>
-      <awayScore>54</awayScore>
-      <homeTeam>South Lenoir</homeTeam>
-      <homeScore>0</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|east duplin|south lenoir</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — East Columbus 0 — Lakewood 14</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — East Columbus 0 — Lakewood 14</description>
-      <awayTeam>East Columbus</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>Lakewood</homeTeam>
-      <homeScore>14</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|east columbus|lakewood</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — East Carteret 47 — Pamlico County 8</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — East Carteret 47 — Pamlico County 8</description>
-      <awayTeam>East Carteret</awayTeam>
-      <awayScore>47</awayScore>
-      <homeTeam>Pamlico County</homeTeam>
-      <homeScore>8</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|east carteret|pamlico county</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Dixon 20 — Croatan 56</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Dixon 20 — Croatan 56</description>
-      <awayTeam>Dixon</awayTeam>
-      <awayScore>20</awayScore>
-      <homeTeam>Croatan</homeTeam>
-      <homeScore>56</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|croatan|dixon</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — D.H. Conley 0 — (#20) J.H. Rose 53</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — D.H. Conley 0 — (#20) J.H. Rose 53</description>
-      <awayTeam>D.H. Conley</awayTeam>
-      <awayScore>0</awayScore>
-      <homeTeam>(#20) J.H. Rose</homeTeam>
-      <homeScore>53</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|d.h. conley|j.h. rose</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Crestwood 55 — Lakewood 6</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Crestwood 55 — Lakewood 6</description>
-      <awayTeam>Crestwood</awayTeam>
-      <awayScore>55</awayScore>
-      <homeTeam>Lakewood</homeTeam>
-      <homeScore>6</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|crestwood|lakewood</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Conway 45 — West Florence 34</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Conway 45 — West Florence 34</description>
-      <awayTeam>Conway</awayTeam>
-      <awayScore>45</awayScore>
-      <homeTeam>West Florence</homeTeam>
-      <homeScore>34</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|conway|west florence</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Carolina Forest 41 — Cane Bay 12</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Carolina Forest 41 — Cane Bay 12</description>
-      <awayTeam>Carolina Forest</awayTeam>
-      <awayScore>41</awayScore>
-      <homeTeam>Cane Bay</homeTeam>
-      <homeScore>12</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|cane bay|carolina forest</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — C.B. Aycock 14 — Southern Wayne 34</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — C.B. Aycock 14 — Southern Wayne 34</description>
-      <awayTeam>C.B. Aycock</awayTeam>
-      <awayScore>14</awayScore>
-      <homeTeam>Southern Wayne</homeTeam>
-      <homeScore>34</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|c.b. aycock|southern wayne</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — (#15) Berkeley 62 — Socastee 28</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — (#15) Berkeley 62 — Socastee 28</description>
-      <awayTeam>(#15) Berkeley</awayTeam>
-      <awayScore>62</awayScore>
-      <homeTeam>Socastee</homeTeam>
-      <homeScore>28</homeScore>
-      <awayLogo />
-      <homeLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</homeLogo>
-      <awayImageUrl />
-      <homeImageUrl>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</homeImageUrl>
-      <ns0:thumbnail url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" role="home" />
-      <ns0:content url="https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png" medium="image" />
-      <guid isPermaLink="false">2026-10-30|berkeley|socastee</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Aynor 8 — Loris 42</title>
-      <link>https://www.maxpreps.com/sc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Aynor 8 — Loris 42</description>
-      <awayTeam>Aynor</awayTeam>
-      <awayScore>8</awayScore>
-      <homeTeam>Loris</homeTeam>
-      <homeScore>42</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|aynor|loris</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>10/30 — Ashley 13 — Hoggard 30</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=10/30/2026&amp;mobile=1</link>
-      <description>Final: 10/30 — Ashley 13 — Hoggard 30</description>
-      <awayTeam>Ashley</awayTeam>
-      <awayScore>13</awayScore>
-      <homeTeam>Hoggard</homeTeam>
-      <homeScore>30</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-10-30|ashley|hoggard</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
