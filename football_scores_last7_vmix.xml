@@ -1,1423 +1,343 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Scores>
   <Score>
-    <AwayTeam>West Carteret</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>SAHS</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Washington</AwayTeam>
-    <AwayScore>20</AwayScore>
-    <HomeTeam>East Duplin</HomeTeam>
-    <HomeScore>41</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>WAHS</AwayTeam>
-    <AwayScore>22</AwayScore>
-    <HomeTeam>Croatan</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Topsail</AwayTeam>
-    <AwayScore>24</AwayScore>
-    <HomeTeam>(#16) Cleveland</HomeTeam>
-    <HomeScore>38</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Swansboro</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Scotland</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Johnston</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>(#18) J.H. Rose</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Columbus</AwayTeam>
-    <AwayScore>26</AwayScore>
-    <HomeTeam>Martin County</HomeTeam>
-    <HomeScore>61</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>SOHS</AwayTeam>
-    <AwayScore>16</AwayScore>
-    <HomeTeam>Clinton</HomeTeam>
-    <HomeScore>17</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rosewood</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Tarboro</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rocky Mount</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>Havelock</HomeTeam>
-    <HomeScore>43</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Northwood</AwayTeam>
-    <AwayScore>18</AwayScore>
-    <HomeTeam>Whiteville</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Duplin</AwayTeam>
-    <AwayScore>12</AwayScore>
-    <HomeTeam>Gates County</HomeTeam>
-    <HomeScore>20</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Brunswick</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>(#8) Garner</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Louisburg</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>James Kenan</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ledford</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>West Craven</HomeTeam>
-    <HomeScore>65</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Laney</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>(#7) Millbrook</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Jordan</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Hoggard</HomeTeam>
-    <HomeScore>40</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Gray's Creek</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>(#25) Jacksonville</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>East Carteret</AwayTeam>
-    <AwayScore>8</AwayScore>
-    <HomeTeam>Warren County</HomeTeam>
-    <HomeScore>59</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>D.H. Conley</AwayTeam>
-    <AwayScore>28</AwayScore>
-    <HomeTeam>Cape Fear</HomeTeam>
-    <HomeScore>21</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ashley</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>New Bern</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Thu, 12 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>West Carteret</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>SAHS</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Washington</AwayTeam>
-    <AwayScore>20</AwayScore>
-    <HomeTeam>East Duplin</HomeTeam>
-    <HomeScore>41</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>WAHS</AwayTeam>
-    <AwayScore>22</AwayScore>
-    <HomeTeam>Croatan</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Topsail</AwayTeam>
-    <AwayScore>24</AwayScore>
-    <HomeTeam>(#16) Cleveland</HomeTeam>
-    <HomeScore>38</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Swansboro</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Scotland</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Johnston</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>(#18) J.H. Rose</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Columbus</AwayTeam>
-    <AwayScore>26</AwayScore>
-    <HomeTeam>Martin County</HomeTeam>
-    <HomeScore>61</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>SOHS</AwayTeam>
-    <AwayScore>16</AwayScore>
-    <HomeTeam>Clinton</HomeTeam>
-    <HomeScore>17</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rosewood</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Tarboro</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rocky Mount</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>Havelock</HomeTeam>
-    <HomeScore>43</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Northwood</AwayTeam>
-    <AwayScore>18</AwayScore>
-    <HomeTeam>Whiteville</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Duplin</AwayTeam>
-    <AwayScore>12</AwayScore>
-    <HomeTeam>Gates County</HomeTeam>
-    <HomeScore>20</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Brunswick</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>(#8) Garner</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Louisburg</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>James Kenan</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Loris</AwayTeam>
-    <AwayScore>51</AwayScore>
-    <HomeTeam>Bishop England Live Q4 16 Chesnee 28 Crescent</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ledford</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>West Craven</HomeTeam>
-    <HomeScore>65</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Laney</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>(#7) Millbrook</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Jordan</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Hoggard</HomeTeam>
-    <HomeScore>40</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>GSFHS</AwayTeam>
-    <AwayScore>37</AwayScore>
-    <HomeTeam>BHHS</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Gray's Creek</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>(#25) Jacksonville</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>East Carteret</AwayTeam>
-    <AwayScore>8</AwayScore>
-    <HomeTeam>Warren County</HomeTeam>
-    <HomeScore>59</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>D.H. Conley</AwayTeam>
-    <AwayScore>28</AwayScore>
-    <HomeTeam>Cape Fear</HomeTeam>
-    <HomeScore>21</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Conway</AwayTeam>
-    <AwayScore>24</AwayScore>
-    <HomeTeam>Lugoff-Elgin</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Clinton</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>SCHS</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ashley</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>New Bern</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Wed, 11 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>West Carteret</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>SAHS</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Washington</AwayTeam>
-    <AwayScore>20</AwayScore>
-    <HomeTeam>East Duplin</HomeTeam>
-    <HomeScore>41</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>WAHS</AwayTeam>
-    <AwayScore>22</AwayScore>
-    <HomeTeam>Croatan</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Topsail</AwayTeam>
-    <AwayScore>24</AwayScore>
-    <HomeTeam>(#16) Cleveland</HomeTeam>
-    <HomeScore>38</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Swansboro</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Scotland</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Johnston</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>(#18) J.H. Rose</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Columbus</AwayTeam>
-    <AwayScore>26</AwayScore>
-    <HomeTeam>Martin County</HomeTeam>
-    <HomeScore>61</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>SOHS</AwayTeam>
-    <AwayScore>16</AwayScore>
-    <HomeTeam>Clinton</HomeTeam>
-    <HomeScore>17</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rosewood</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Tarboro</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rocky Mount</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>Havelock</HomeTeam>
-    <HomeScore>43</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Northwood</AwayTeam>
-    <AwayScore>18</AwayScore>
-    <HomeTeam>Whiteville</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Duplin</AwayTeam>
-    <AwayScore>12</AwayScore>
-    <HomeTeam>Gates County</HomeTeam>
-    <HomeScore>20</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Brunswick</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>(#8) Garner</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Louisburg</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>James Kenan</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Loris</AwayTeam>
-    <AwayScore>51</AwayScore>
-    <HomeTeam>Bishop England Live Q4 16 Chesnee 28 Crescent</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ledford</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>West Craven</HomeTeam>
-    <HomeScore>65</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Laney</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>(#7) Millbrook</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Jordan</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Hoggard</HomeTeam>
-    <HomeScore>40</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>GSFHS</AwayTeam>
-    <AwayScore>37</AwayScore>
-    <HomeTeam>BHHS</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Gray's Creek</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>(#25) Jacksonville</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>East Carteret</AwayTeam>
-    <AwayScore>8</AwayScore>
-    <HomeTeam>Warren County</HomeTeam>
-    <HomeScore>59</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>D.H. Conley</AwayTeam>
-    <AwayScore>28</AwayScore>
-    <HomeTeam>Cape Fear</HomeTeam>
-    <HomeScore>21</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Conway</AwayTeam>
-    <AwayScore>24</AwayScore>
-    <HomeTeam>Lugoff-Elgin</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Clinton</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>SCHS</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ashley</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>New Bern</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Tue, 10 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Loris</AwayTeam>
-    <AwayScore>51</AwayScore>
-    <HomeTeam>Bishop England Live Q4 16 Chesnee 28 Crescent</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Mon, 09 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>GSFHS</AwayTeam>
-    <AwayScore>37</AwayScore>
-    <HomeTeam>BHHS</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Mon, 09 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Conway</AwayTeam>
-    <AwayScore>24</AwayScore>
-    <HomeTeam>Lugoff-Elgin</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Mon, 09 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Clinton</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>SCHS</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Mon, 09 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>West Carteret</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>SAHS</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Washington</AwayTeam>
-    <AwayScore>20</AwayScore>
-    <HomeTeam>East Duplin</HomeTeam>
-    <HomeScore>41</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>WAHS</AwayTeam>
-    <AwayScore>22</AwayScore>
-    <HomeTeam>Croatan</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Topsail</AwayTeam>
-    <AwayScore>24</AwayScore>
-    <HomeTeam>(#16) Cleveland</HomeTeam>
-    <HomeScore>38</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Swansboro</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Scotland</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Johnston</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>(#18) J.H. Rose</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Columbus</AwayTeam>
-    <AwayScore>26</AwayScore>
-    <HomeTeam>Martin County</HomeTeam>
-    <HomeScore>61</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>SOHS</AwayTeam>
-    <AwayScore>16</AwayScore>
-    <HomeTeam>Clinton</HomeTeam>
-    <HomeScore>17</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rosewood</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Tarboro</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rocky Mount</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>Havelock</HomeTeam>
-    <HomeScore>43</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Northwood</AwayTeam>
-    <AwayScore>18</AwayScore>
-    <HomeTeam>Whiteville</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Duplin</AwayTeam>
-    <AwayScore>12</AwayScore>
-    <HomeTeam>Gates County</HomeTeam>
-    <HomeScore>20</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Brunswick</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>(#8) Garner</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Louisburg</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>James Kenan</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Loris</AwayTeam>
-    <AwayScore>51</AwayScore>
-    <HomeTeam>Bishop England Live Q4 16 Chesnee 28 Crescent</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ledford</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>West Craven</HomeTeam>
-    <HomeScore>65</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Laney</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>(#7) Millbrook</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Jordan</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Hoggard</HomeTeam>
-    <HomeScore>40</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>GSFHS</AwayTeam>
-    <AwayScore>37</AwayScore>
-    <HomeTeam>BHHS</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Gray's Creek</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>(#25) Jacksonville</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>East Carteret</AwayTeam>
-    <AwayScore>8</AwayScore>
-    <HomeTeam>Warren County</HomeTeam>
-    <HomeScore>59</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>D.H. Conley</AwayTeam>
-    <AwayScore>28</AwayScore>
-    <HomeTeam>Cape Fear</HomeTeam>
-    <HomeScore>21</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Conway</AwayTeam>
-    <AwayScore>24</AwayScore>
-    <HomeTeam>Lugoff-Elgin Live Q4 17 (#6) Rock Hill 42 (#1) Northwestern</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Clinton</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>SCHS</HomeTeam>
-    <HomeScore>28</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ashley</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>New Bern</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sun, 08 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Washington</AwayTeam>
-    <AwayScore>20</AwayScore>
-    <HomeTeam>East Duplin</HomeTeam>
-    <HomeScore>41</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>WAHS</AwayTeam>
-    <AwayScore>22</AwayScore>
-    <HomeTeam>Croatan</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Topsail</AwayTeam>
-    <AwayScore>24</AwayScore>
-    <HomeTeam>(#16) Cleveland</HomeTeam>
-    <HomeScore>38</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Swansboro</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Scotland</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Johnston</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>(#18) J.H. Rose</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Columbus</AwayTeam>
-    <AwayScore>26</AwayScore>
-    <HomeTeam>Martin County</HomeTeam>
-    <HomeScore>61</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>SOHS</AwayTeam>
-    <AwayScore>16</AwayScore>
-    <HomeTeam>Clinton</HomeTeam>
-    <HomeScore>17</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rosewood</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Tarboro</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Rocky Mount</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>Havelock</HomeTeam>
-    <HomeScore>43</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Northwood</AwayTeam>
-    <AwayScore>18</AwayScore>
-    <HomeTeam>Whiteville</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>North Brunswick</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>(#8) Garner</HomeTeam>
-    <HomeScore>49</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Louisburg</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>James Kenan</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ledford</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>West Craven</HomeTeam>
-    <HomeScore>65</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Laney</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>(#7) Millbrook</HomeTeam>
-    <HomeScore>42</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Jordan</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Hoggard</HomeTeam>
-    <HomeScore>40</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Gray's Creek</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>(#25) Jacksonville</HomeTeam>
-    <HomeScore>48</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>East Carteret</AwayTeam>
-    <AwayScore>8</AwayScore>
-    <HomeTeam>Warren County</HomeTeam>
-    <HomeScore>59</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>D.H. Conley</AwayTeam>
-    <AwayScore>28</AwayScore>
-    <HomeTeam>Cape Fear</HomeTeam>
-    <HomeScore>21</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Ashley</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>New Bern</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Sat, 07 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>White Oak</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>Swansboro</HomeTeam>
-    <HomeScore>19</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Topsail</AwayTeam>
-    <AwayScore>34</AwayScore>
-    <HomeTeam>Fuquay-Varina</HomeTeam>
-    <HomeScore>7</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Southern Wayne</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>WAHS</HomeTeam>
-    <HomeScore>56</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Lenoir</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>PGHS</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>South Brunswick</AwayTeam>
-    <AwayScore>29</AwayScore>
-    <HomeTeam>South Granville</HomeTeam>
-    <HomeScore>31</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>SOHS</AwayTeam>
-    <AwayScore>48</AwayScore>
-    <HomeTeam>North Pitt</HomeTeam>
-    <HomeScore>8</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Socastee</AwayTeam>
-    <AwayScore>27</AwayScore>
-    <HomeTeam>GCA</HomeTeam>
-    <HomeScore>61</HomeScore>
-    <AwayLogo>https://5starassets.blob.core.windows.net/athleticsites/2579771/1014/images/06a24c87-c2b2-442f-9590-f71faaca0689.png</AwayLogo>
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>RSMHS</AwayTeam>
-    <AwayScore>48</AwayScore>
-    <HomeTeam>GSFHS</HomeTeam>
-    <HomeScore>72</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Richlands</AwayTeam>
-    <AwayScore>21</AwayScore>
-    <HomeTeam>Orange</HomeTeam>
-    <HomeScore>35</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Pine Forest</AwayTeam>
-    <AwayScore>7</AwayScore>
-    <HomeTeam>Ashley</HomeTeam>
-    <HomeScore>38</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Person</AwayTeam>
-    <AwayScore>32</AwayScore>
-    <HomeTeam>St. Pauls</HomeTeam>
+    <AwayTeam>West Columbus</AwayTeam>
+    <AwayScore>50</AwayScore>
+    <HomeTeam>Southside</HomeTeam>
     <HomeScore>33</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Pender</AwayTeam>
-    <AwayScore>26</AwayScore>
-    <HomeTeam>Princeton</HomeTeam>
-    <HomeScore>58</HomeScore>
+    <AwayTeam>West Carteret</AwayTeam>
+    <AwayScore>21</AwayScore>
+    <HomeTeam>SAHS</HomeTeam>
+    <HomeScore>49</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>NMBHS</AwayTeam>
-    <AwayScore>0</AwayScore>
-    <HomeTeam>Lucy Beckham</HomeTeam>
-    <HomeScore>56</HomeScore>
-    <AwayLogo>https://assets.hometownticketing.com/clients/horry/logos/school_logo_93a49dfc.png</AwayLogo>
+    <AwayTeam>Washington</AwayTeam>
+    <AwayScore>20</AwayScore>
+    <HomeTeam>East Duplin</HomeTeam>
+    <HomeScore>41</HomeScore>
+    <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>WAHS</AwayTeam>
+    <AwayScore>22</AwayScore>
+    <HomeTeam>Croatan</HomeTeam>
+    <HomeScore>42</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Topsail</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>(#16) Cleveland</HomeTeam>
+    <HomeScore>38</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Swansboro</AwayTeam>
+    <AwayScore>7</AwayScore>
+    <HomeTeam>Scotland</HomeTeam>
+    <HomeScore>49</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Summerville</AwayTeam>
+    <AwayScore>30</AwayScore>
+    <HomeTeam>Carolina Forest</HomeTeam>
+    <HomeScore>23</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>St. Pauls</AwayTeam>
+    <AwayScore>17</AwayScore>
+    <HomeTeam>Fike</HomeTeam>
+    <HomeScore>28</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>South Johnston</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>(#18) J.H. Rose</HomeTeam>
+    <HomeScore>48</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>South Columbus</AwayTeam>
+    <AwayScore>26</AwayScore>
+    <HomeTeam>Martin County</HomeTeam>
+    <HomeScore>61</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>SOHS</AwayTeam>
+    <AwayScore>16</AwayScore>
+    <HomeTeam>Clinton</HomeTeam>
+    <HomeScore>17</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Rosewood</AwayTeam>
+    <AwayScore>7</AwayScore>
+    <HomeTeam>Tarboro</HomeTeam>
+    <HomeScore>49</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Rocky Mount</AwayTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>Havelock</HomeTeam>
+    <HomeScore>43</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Princeton</AwayTeam>
+    <AwayScore>73</AwayScore>
+    <HomeTeam>Midway</HomeTeam>
+    <HomeScore>75</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Northwood</AwayTeam>
+    <AwayScore>18</AwayScore>
+    <HomeTeam>Whiteville</HomeTeam>
+    <HomeScore>42</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>North Duplin</AwayTeam>
+    <AwayScore>12</AwayScore>
+    <HomeTeam>Gates County</HomeTeam>
+    <HomeScore>20</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>North Brunswick</AwayTeam>
-    <AwayScore>28</AwayScore>
-    <HomeTeam>Heritage</HomeTeam>
-    <HomeScore>15</HomeScore>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>(#8) Garner</HomeTeam>
+    <HomeScore>49</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>McMichael</AwayTeam>
-    <AwayScore>6</AwayScore>
-    <HomeTeam>South Columbus</HomeTeam>
-    <HomeScore>58</HomeScore>
+    <AwayTeam>NHCTA</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>Lakewood</HomeTeam>
+    <HomeScore>57</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>May River</AwayTeam>
+    <AwayTeam>Louisburg</AwayTeam>
+    <AwayScore>7</AwayScore>
+    <HomeTeam>James Kenan</HomeTeam>
+    <HomeScore>42</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Loris</AwayTeam>
+    <AwayScore>51</AwayScore>
+    <HomeTeam>Bishop England</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Ledford</AwayTeam>
     <AwayScore>21</AwayScore>
-    <HomeTeam>Conway</HomeTeam>
-    <HomeScore>37</HomeScore>
+    <HomeTeam>West Craven</HomeTeam>
+    <HomeScore>65</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Lumberton</AwayTeam>
-    <AwayScore>23</AwayScore>
-    <HomeTeam>Davie County</HomeTeam>
-    <HomeScore>50</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Liberty</AwayTeam>
-    <AwayScore>30</AwayScore>
-    <HomeTeam>Clinton</HomeTeam>
-    <HomeScore>63</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
     <AwayTeam>Laney</AwayTeam>
-    <AwayScore>47</AwayScore>
-    <HomeTeam>Panther Creek</HomeTeam>
-    <HomeScore>27</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Kinston</AwayTeam>
-    <AwayScore>30</AwayScore>
-    <HomeTeam>Northwood</HomeTeam>
-    <HomeScore>34</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
-    <AwayTeam>Darlington</AwayTeam>
-    <AwayScore>14</AwayScore>
-    <HomeTeam>Loris</HomeTeam>
+    <AwayScore>6</AwayScore>
+    <HomeTeam>(#7) Millbrook</HomeTeam>
     <HomeScore>42</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Carver</AwayTeam>
+    <AwayTeam>Jordan</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>Hoggard</HomeTeam>
+    <HomeScore>40</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Hobbton</AwayTeam>
     <AwayScore>6</AwayScore>
-    <HomeTeam>Fairmont</HomeTeam>
-    <HomeScore>58</HomeScore>
+    <HomeTeam>Holmes</HomeTeam>
+    <HomeScore>42</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Aynor</AwayTeam>
-    <AwayScore>22</AwayScore>
-    <HomeTeam>Crestwood</HomeTeam>
-    <HomeScore>23</HomeScore>
+    <AwayTeam>GSFHS</AwayTeam>
+    <AwayScore>37</AwayScore>
+    <HomeTeam>BHHS</HomeTeam>
+    <HomeScore>42</HomeScore>
     <AwayLogo />
     <HomeLogo />
-    <Date>Fri, 06 Nov 2026 00:00:00 -0500</Date>
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Gray's Creek</AwayTeam>
+    <AwayScore>7</AwayScore>
+    <HomeTeam>(#25) Jacksonville</HomeTeam>
+    <HomeScore>48</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Fairmont</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>SRHS</HomeTeam>
+    <HomeScore>43</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>East Columbus</AwayTeam>
+    <AwayScore>20</AwayScore>
+    <HomeTeam>WSPA</HomeTeam>
+    <HomeScore>14</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>East Carteret</AwayTeam>
+    <AwayScore>8</AwayScore>
+    <HomeTeam>Warren County</HomeTeam>
+    <HomeScore>59</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>D.H. Conley</AwayTeam>
+    <AwayScore>28</AwayScore>
+    <HomeTeam>Cape Fear</HomeTeam>
+    <HomeScore>21</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Conway</AwayTeam>
+    <AwayScore>24</AwayScore>
+    <HomeTeam>Lugoff-Elgin</HomeTeam>
+    <HomeScore>28</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Clinton</AwayTeam>
+    <AwayScore>14</AwayScore>
+    <HomeTeam>SCHS</HomeTeam>
+    <HomeScore>28</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Bertie</AwayTeam>
+    <AwayScore>18</AwayScore>
+    <HomeTeam>East Bladen</HomeTeam>
+    <HomeScore>49</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Ashley</AwayTeam>
+    <AwayScore>0</AwayScore>
+    <HomeTeam>New Bern</HomeTeam>
+    <HomeScore>35</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 13 Nov 2026 00:00:00 -0500</Date>
     <Final>FINAL</Final>
   </Score>
 </Scores>
