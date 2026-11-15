@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:54:01 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:42:37 -0500</lastBuildDate>
     <item>
       <title>11/13 — West Columbus 50 — Southside 33</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/13/2026&amp;mobile=1</link>
@@ -67,12 +67,12 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/13 — Topsail 24 — (#16) Cleveland 38</title>
+      <title>11/13 — Topsail 24 — (#20) Cleveland 38</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/13/2026&amp;mobile=1</link>
-      <description>Final: 11/13 — Topsail 24 — (#16) Cleveland 38</description>
+      <description>Final: 11/13 — Topsail 24 — (#20) Cleveland 38</description>
       <awayTeam>Topsail</awayTeam>
       <awayScore>24</awayScore>
-      <homeTeam>(#16) Cleveland</homeTeam>
+      <homeTeam>(#20) Cleveland</homeTeam>
       <homeScore>38</homeScore>
       <awayLogo />
       <homeLogo />
@@ -97,10 +97,10 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/13 — Summerville 30 — Carolina Forest 23</title>
+      <title>11/13 — (#25) Summerville 30 — Carolina Forest 23</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=11/13/2026&amp;mobile=1</link>
-      <description>Final: 11/13 — Summerville 30 — Carolina Forest 23</description>
-      <awayTeam>Summerville</awayTeam>
+      <description>Final: 11/13 — (#25) Summerville 30 — Carolina Forest 23</description>
+      <awayTeam>(#25) Summerville</awayTeam>
       <awayScore>30</awayScore>
       <homeTeam>Carolina Forest</homeTeam>
       <homeScore>23</homeScore>
@@ -127,12 +127,12 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/13 — South Johnston 0 — (#18) J.H. Rose 48</title>
+      <title>11/13 — South Johnston 0 — (#22) J.H. Rose 48</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/13/2026&amp;mobile=1</link>
-      <description>Final: 11/13 — South Johnston 0 — (#18) J.H. Rose 48</description>
+      <description>Final: 11/13 — South Johnston 0 — (#22) J.H. Rose 48</description>
       <awayTeam>South Johnston</awayTeam>
       <awayScore>0</awayScore>
-      <homeTeam>(#18) J.H. Rose</homeTeam>
+      <homeTeam>(#22) J.H. Rose</homeTeam>
       <homeScore>48</homeScore>
       <awayLogo />
       <homeLogo />
@@ -247,12 +247,12 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/13 — North Brunswick 0 — (#8) Garner 49</title>
+      <title>11/13 — North Brunswick 0 — (#13) Garner 49</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/13/2026&amp;mobile=1</link>
-      <description>Final: 11/13 — North Brunswick 0 — (#8) Garner 49</description>
+      <description>Final: 11/13 — North Brunswick 0 — (#13) Garner 49</description>
       <awayTeam>North Brunswick</awayTeam>
       <awayScore>0</awayScore>
-      <homeTeam>(#8) Garner</homeTeam>
+      <homeTeam>(#13) Garner</homeTeam>
       <homeScore>49</homeScore>
       <awayLogo />
       <homeLogo />
@@ -322,12 +322,12 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/13 — Laney 6 — (#7) Millbrook 42</title>
+      <title>11/13 — Laney 6 — (#12) Millbrook 42</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/13/2026&amp;mobile=1</link>
-      <description>Final: 11/13 — Laney 6 — (#7) Millbrook 42</description>
+      <description>Final: 11/13 — Laney 6 — (#12) Millbrook 42</description>
       <awayTeam>Laney</awayTeam>
       <awayScore>6</awayScore>
-      <homeTeam>(#7) Millbrook</homeTeam>
+      <homeTeam>(#12) Millbrook</homeTeam>
       <homeScore>42</homeScore>
       <awayLogo />
       <homeLogo />

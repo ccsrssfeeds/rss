@@ -43,7 +43,7 @@
   <Score>
     <AwayTeam>Topsail</AwayTeam>
     <AwayScore>24</AwayScore>
-    <HomeTeam>(#16) Cleveland</HomeTeam>
+    <HomeTeam>(#20) Cleveland</HomeTeam>
     <HomeScore>38</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -61,7 +61,7 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Summerville</AwayTeam>
+    <AwayTeam>(#25) Summerville</AwayTeam>
     <AwayScore>30</AwayScore>
     <HomeTeam>Carolina Forest</HomeTeam>
     <HomeScore>23</HomeScore>
@@ -83,7 +83,7 @@
   <Score>
     <AwayTeam>South Johnston</AwayTeam>
     <AwayScore>0</AwayScore>
-    <HomeTeam>(#18) J.H. Rose</HomeTeam>
+    <HomeTeam>(#22) J.H. Rose</HomeTeam>
     <HomeScore>48</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -163,7 +163,7 @@
   <Score>
     <AwayTeam>North Brunswick</AwayTeam>
     <AwayScore>0</AwayScore>
-    <HomeTeam>(#8) Garner</HomeTeam>
+    <HomeTeam>(#13) Garner</HomeTeam>
     <HomeScore>49</HomeScore>
     <AwayLogo />
     <HomeLogo />
@@ -213,7 +213,7 @@
   <Score>
     <AwayTeam>Laney</AwayTeam>
     <AwayScore>6</AwayScore>
-    <HomeTeam>(#7) Millbrook</HomeTeam>
+    <HomeTeam>(#12) Millbrook</HomeTeam>
     <HomeScore>42</HomeScore>
     <AwayLogo />
     <HomeLogo />
