@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 08:07:45 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:34:32 -0500</lastBuildDate>
     <item>
       <title>11/13 — West Columbus 50 — Southside 33</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/13/2026&amp;mobile=1</link>
@@ -67,12 +67,12 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/13 — Topsail 24 — (#20) Cleveland 38</title>
+      <title>11/13 — Topsail 24 — (#18) Cleveland 38</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/13/2026&amp;mobile=1</link>
-      <description>Final: 11/13 — Topsail 24 — (#20) Cleveland 38</description>
+      <description>Final: 11/13 — Topsail 24 — (#18) Cleveland 38</description>
       <awayTeam>Topsail</awayTeam>
       <awayScore>24</awayScore>
-      <homeTeam>(#20) Cleveland</homeTeam>
+      <homeTeam>(#18) Cleveland</homeTeam>
       <homeScore>38</homeScore>
       <awayLogo />
       <homeLogo />
@@ -97,10 +97,10 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/13 — (#25) Summerville 30 — Carolina Forest 23</title>
+      <title>11/13 — (#24) Summerville 30 — Carolina Forest 23</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=11/13/2026&amp;mobile=1</link>
-      <description>Final: 11/13 — (#25) Summerville 30 — Carolina Forest 23</description>
-      <awayTeam>(#25) Summerville</awayTeam>
+      <description>Final: 11/13 — (#24) Summerville 30 — Carolina Forest 23</description>
+      <awayTeam>(#24) Summerville</awayTeam>
       <awayScore>30</awayScore>
       <homeTeam>Carolina Forest</homeTeam>
       <homeScore>23</homeScore>
@@ -382,12 +382,12 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/13 — Gray's Creek 7 — (#25) Jacksonville 48</title>
+      <title>11/13 — Gray's Creek 7 — Jacksonville 48</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/13/2026&amp;mobile=1</link>
-      <description>Final: 11/13 — Gray's Creek 7 — (#25) Jacksonville 48</description>
+      <description>Final: 11/13 — Gray's Creek 7 — Jacksonville 48</description>
       <awayTeam>Gray's Creek</awayTeam>
       <awayScore>7</awayScore>
-      <homeTeam>(#25) Jacksonville</homeTeam>
+      <homeTeam>Jacksonville</homeTeam>
       <homeScore>48</homeScore>
       <awayLogo />
       <homeLogo />
