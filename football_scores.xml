@@ -5,6 +5,18 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores.xml</link>
     <description>Today's regional football scores from web sources plus manual Google Sheet overrides. Includes structured fields for vMix.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:23:19 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:03:49 -0500</lastBuildDate>
+    <item>
+      <title>FINAL — Middle Creek 27 — (#22) J.H. Rose 25</title>
+      <description>FINAL — Middle Creek 27 — (#22) J.H. Rose 25</description>
+      <guid isPermaLink="false">2026-11-20|j.h. rose|middle creek</guid>
+      <pubDate>Fri, 20 Nov 2026 23:03:49 -0500</pubDate>
+      <status>FINAL</status>
+      <awayTeam>Middle Creek</awayTeam>
+      <awayScore>27</awayScore>
+      <homeTeam>(#22) J.H. Rose</homeTeam>
+      <homeScore>25</homeScore>
+      <source>web</source>
+    </item>
   </channel>
 </rss>
