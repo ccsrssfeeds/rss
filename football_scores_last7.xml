@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 10:17:10 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 16:45:45 -0500</lastBuildDate>
     <item>
       <title>11/20 — Williams 14 — Jacksonville 42</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/20/2026&amp;mobile=1</link>
@@ -112,12 +112,12 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/20 — Middle Creek 27 — (#22) J.H. Rose 25</title>
+      <title>11/20 — (#22) Middle Creek 27 — (#23) J.H. Rose 25</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/20/2026&amp;mobile=1</link>
-      <description>Final: 11/20 — Middle Creek 27 — (#22) J.H. Rose 25</description>
-      <awayTeam>Middle Creek</awayTeam>
+      <description>Final: 11/20 — (#22) Middle Creek 27 — (#23) J.H. Rose 25</description>
+      <awayTeam>(#22) Middle Creek</awayTeam>
       <awayScore>27</awayScore>
-      <homeTeam>(#22) J.H. Rose</homeTeam>
+      <homeTeam>(#23) J.H. Rose</homeTeam>
       <homeScore>25</homeScore>
       <awayLogo />
       <homeLogo />
@@ -157,12 +157,12 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/20 — Loris 14 — (#23) Camden 28</title>
+      <title>11/20 — Loris 14 — (#24) Camden 28</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=11/20/2026&amp;mobile=1</link>
-      <description>Final: 11/20 — Loris 14 — (#23) Camden 28</description>
+      <description>Final: 11/20 — Loris 14 — (#24) Camden 28</description>
       <awayTeam>Loris</awayTeam>
       <awayScore>14</awayScore>
-      <homeTeam>(#23) Camden</homeTeam>
+      <homeTeam>(#24) Camden</homeTeam>
       <homeScore>28</homeScore>
       <awayLogo />
       <homeLogo />
@@ -247,12 +247,12 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/20 — D.H. Conley 7 — (#18) Cleveland 57</title>
+      <title>11/20 — D.H. Conley 7 — (#19) Cleveland 57</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/20/2026&amp;mobile=1</link>
-      <description>Final: 11/20 — D.H. Conley 7 — (#18) Cleveland 57</description>
+      <description>Final: 11/20 — D.H. Conley 7 — (#19) Cleveland 57</description>
       <awayTeam>D.H. Conley</awayTeam>
       <awayScore>7</awayScore>
-      <homeTeam>(#18) Cleveland</homeTeam>
+      <homeTeam>(#19) Cleveland</homeTeam>
       <homeScore>57</homeScore>
       <awayLogo />
       <homeLogo />
