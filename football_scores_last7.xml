@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:55:17 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:11:24 -0500</lastBuildDate>
     <item>
       <title>11/20 — Williams 14 — Jacksonville 42</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/20/2026&amp;mobile=1</link>
@@ -64,21 +64,6 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-11-20|east duplin|srhs</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>11/20 — Seaforth 63 — Croatan 64</title>
-      <link>https://www.maxpreps.com/nc/football/scores/?date=11/20/2026&amp;mobile=1</link>
-      <description>Final: 11/20 — Seaforth 63 — Croatan 64</description>
-      <awayTeam>Seaforth</awayTeam>
-      <awayScore>63</awayScore>
-      <homeTeam>Croatan</homeTeam>
-      <homeScore>64</homeScore>
-      <awayLogo />
-      <homeLogo />
-      <awayImageUrl />
-      <homeImageUrl />
-      <guid isPermaLink="false">2026-11-20|croatan|seaforth</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
@@ -169,6 +154,21 @@
       <awayImageUrl />
       <homeImageUrl />
       <guid isPermaLink="false">2026-11-20|camden|loris</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/20 — Hoggard 35 — Apex Friendship 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/20/2026&amp;mobile=1</link>
+      <description>Final: 11/20 — Hoggard 35 — Apex Friendship 7</description>
+      <awayTeam>Hoggard</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>Apex Friendship</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-20|apex friendship|hoggard</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>

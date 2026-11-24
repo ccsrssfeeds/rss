@@ -41,16 +41,6 @@
     <Final>FINAL</Final>
   </Score>
   <Score>
-    <AwayTeam>Seaforth</AwayTeam>
-    <AwayScore>63</AwayScore>
-    <HomeTeam>Croatan</HomeTeam>
-    <HomeScore>64</HomeScore>
-    <AwayLogo />
-    <HomeLogo />
-    <Date>Fri, 20 Nov 2026 00:00:00 -0500</Date>
-    <Final>FINAL</Final>
-  </Score>
-  <Score>
     <AwayTeam>Reidsville</AwayTeam>
     <AwayScore>41</AwayScore>
     <HomeTeam>West Craven</HomeTeam>
@@ -105,6 +95,16 @@
     <AwayScore>14</AwayScore>
     <HomeTeam>(#24) Camden</HomeTeam>
     <HomeScore>28</HomeScore>
+    <AwayLogo />
+    <HomeLogo />
+    <Date>Fri, 20 Nov 2026 00:00:00 -0500</Date>
+    <Final>FINAL</Final>
+  </Score>
+  <Score>
+    <AwayTeam>Hoggard</AwayTeam>
+    <AwayScore>35</AwayScore>
+    <HomeTeam>Apex Friendship</HomeTeam>
+    <HomeScore>7</HomeScore>
     <AwayLogo />
     <HomeLogo />
     <Date>Fri, 20 Nov 2026 00:00:00 -0500</Date>
