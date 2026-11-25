@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:30:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:37:14 -0500</lastBuildDate>
     <item>
       <title>11/20 — Williams 14 — Jacksonville 42</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/20/2026&amp;mobile=1</link>
@@ -142,12 +142,12 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>11/20 — Loris 14 — (#24) Camden 28</title>
+      <title>11/20 — Loris 14 — (#22) Camden 28</title>
       <link>https://www.maxpreps.com/sc/football/scores/?date=11/20/2026&amp;mobile=1</link>
-      <description>Final: 11/20 — Loris 14 — (#24) Camden 28</description>
+      <description>Final: 11/20 — Loris 14 — (#22) Camden 28</description>
       <awayTeam>Loris</awayTeam>
       <awayScore>14</awayScore>
-      <homeTeam>(#24) Camden</homeTeam>
+      <homeTeam>(#22) Camden</homeTeam>
       <homeScore>28</homeScore>
       <awayLogo />
       <homeLogo />
