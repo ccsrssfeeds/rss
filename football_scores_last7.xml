@@ -5,7 +5,457 @@
     <link>https://raw.githubusercontent.com/ccsrssfeeds/rss/main/football_scores_last7.xml</link>
     <description>Varsity high school football final scores for the Eastern North Carolina regional school list and Horry County, South Carolina, from the previous 7 calendar days, excluding today.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:57:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:41:24 -0500</lastBuildDate>
+    <item>
+      <title>11/26 — Reidsville 35 — East Duplin 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/26/2026&amp;mobile=1</link>
+      <description>Final: 11/26 — Reidsville 35 — East Duplin 7</description>
+      <awayTeam>Reidsville</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>East Duplin</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-26|east duplin|reidsville</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/26 — Northern Nash 21 — Jacksonville 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/26/2026&amp;mobile=1</link>
+      <description>Final: 11/26 — Northern Nash 21 — Jacksonville 7</description>
+      <awayTeam>Northern Nash</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>Jacksonville</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-26|jacksonville|northern nash</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/26 — Lakewood 14 — Tarboro 42</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/26/2026&amp;mobile=1</link>
+      <description>Final: 11/26 — Lakewood 14 — Tarboro 42</description>
+      <awayTeam>Lakewood</awayTeam>
+      <awayScore>14</awayScore>
+      <homeTeam>Tarboro</homeTeam>
+      <homeScore>42</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-26|lakewood|tarboro</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/26 — James Kenan 20 — Northeastern 34</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/26/2026&amp;mobile=1</link>
+      <description>Final: 11/26 — James Kenan 20 — Northeastern 34</description>
+      <awayTeam>James Kenan</awayTeam>
+      <awayScore>20</awayScore>
+      <homeTeam>Northeastern</homeTeam>
+      <homeScore>34</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-26|james kenan|northeastern</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/26 — ERHS 31 — Whiteville 21</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/26/2026&amp;mobile=1</link>
+      <description>Final: 11/26 — ERHS 31 — Whiteville 21</description>
+      <awayTeam>ERHS</awayTeam>
+      <awayScore>31</awayScore>
+      <homeTeam>Whiteville</homeTeam>
+      <homeScore>21</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-26|erhs|whiteville</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/25 — Reidsville 35 — East Duplin 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/25/2026&amp;mobile=1</link>
+      <description>Final: 11/25 — Reidsville 35 — East Duplin 7</description>
+      <awayTeam>Reidsville</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>East Duplin</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-25|east duplin|reidsville</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/25 — Northern Nash 21 — Jacksonville 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/25/2026&amp;mobile=1</link>
+      <description>Final: 11/25 — Northern Nash 21 — Jacksonville 7</description>
+      <awayTeam>Northern Nash</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>Jacksonville</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-25|jacksonville|northern nash</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/25 — Lakewood 14 — Tarboro 42</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/25/2026&amp;mobile=1</link>
+      <description>Final: 11/25 — Lakewood 14 — Tarboro 42</description>
+      <awayTeam>Lakewood</awayTeam>
+      <awayScore>14</awayScore>
+      <homeTeam>Tarboro</homeTeam>
+      <homeScore>42</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-25|lakewood|tarboro</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/25 — James Kenan 20 — Northeastern 34</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/25/2026&amp;mobile=1</link>
+      <description>Final: 11/25 — James Kenan 20 — Northeastern 34</description>
+      <awayTeam>James Kenan</awayTeam>
+      <awayScore>20</awayScore>
+      <homeTeam>Northeastern</homeTeam>
+      <homeScore>34</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-25|james kenan|northeastern</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/25 — ERHS 31 — Whiteville 21</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/25/2026&amp;mobile=1</link>
+      <description>Final: 11/25 — ERHS 31 — Whiteville 21</description>
+      <awayTeam>ERHS</awayTeam>
+      <awayScore>31</awayScore>
+      <homeTeam>Whiteville</homeTeam>
+      <homeScore>21</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-25|erhs|whiteville</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/24 — Reidsville 35 — East Duplin 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/24/2026&amp;mobile=1</link>
+      <description>Final: 11/24 — Reidsville 35 — East Duplin 7</description>
+      <awayTeam>Reidsville</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>East Duplin</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-24|east duplin|reidsville</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/24 — Northern Nash 21 — Jacksonville 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/24/2026&amp;mobile=1</link>
+      <description>Final: 11/24 — Northern Nash 21 — Jacksonville 7</description>
+      <awayTeam>Northern Nash</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>Jacksonville</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-24|jacksonville|northern nash</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/24 — Lakewood 14 — Tarboro 42</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/24/2026&amp;mobile=1</link>
+      <description>Final: 11/24 — Lakewood 14 — Tarboro 42</description>
+      <awayTeam>Lakewood</awayTeam>
+      <awayScore>14</awayScore>
+      <homeTeam>Tarboro</homeTeam>
+      <homeScore>42</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-24|lakewood|tarboro</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/24 — James Kenan 20 — Northeastern 34</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/24/2026&amp;mobile=1</link>
+      <description>Final: 11/24 — James Kenan 20 — Northeastern 34</description>
+      <awayTeam>James Kenan</awayTeam>
+      <awayScore>20</awayScore>
+      <homeTeam>Northeastern</homeTeam>
+      <homeScore>34</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-24|james kenan|northeastern</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/24 — ERHS 31 — Whiteville 21</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/24/2026&amp;mobile=1</link>
+      <description>Final: 11/24 — ERHS 31 — Whiteville 21</description>
+      <awayTeam>ERHS</awayTeam>
+      <awayScore>31</awayScore>
+      <homeTeam>Whiteville</homeTeam>
+      <homeScore>21</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-24|erhs|whiteville</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/23 — Reidsville 35 — East Duplin 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/23/2026&amp;mobile=1</link>
+      <description>Final: 11/23 — Reidsville 35 — East Duplin 7</description>
+      <awayTeam>Reidsville</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>East Duplin</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-23|east duplin|reidsville</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/23 — Northern Nash 21 — Jacksonville 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/23/2026&amp;mobile=1</link>
+      <description>Final: 11/23 — Northern Nash 21 — Jacksonville 7</description>
+      <awayTeam>Northern Nash</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>Jacksonville</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-23|jacksonville|northern nash</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/23 — Lakewood 14 — Tarboro 42</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/23/2026&amp;mobile=1</link>
+      <description>Final: 11/23 — Lakewood 14 — Tarboro 42</description>
+      <awayTeam>Lakewood</awayTeam>
+      <awayScore>14</awayScore>
+      <homeTeam>Tarboro</homeTeam>
+      <homeScore>42</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-23|lakewood|tarboro</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/23 — James Kenan 20 — Northeastern 34</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/23/2026&amp;mobile=1</link>
+      <description>Final: 11/23 — James Kenan 20 — Northeastern 34</description>
+      <awayTeam>James Kenan</awayTeam>
+      <awayScore>20</awayScore>
+      <homeTeam>Northeastern</homeTeam>
+      <homeScore>34</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-23|james kenan|northeastern</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/23 — ERHS 31 — Whiteville 21</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/23/2026&amp;mobile=1</link>
+      <description>Final: 11/23 — ERHS 31 — Whiteville 21</description>
+      <awayTeam>ERHS</awayTeam>
+      <awayScore>31</awayScore>
+      <homeTeam>Whiteville</homeTeam>
+      <homeScore>21</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-23|erhs|whiteville</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/22 — Reidsville 35 — East Duplin 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/22/2026&amp;mobile=1</link>
+      <description>Final: 11/22 — Reidsville 35 — East Duplin 7</description>
+      <awayTeam>Reidsville</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>East Duplin</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-22|east duplin|reidsville</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/22 — Northern Nash 21 — Jacksonville 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/22/2026&amp;mobile=1</link>
+      <description>Final: 11/22 — Northern Nash 21 — Jacksonville 7</description>
+      <awayTeam>Northern Nash</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>Jacksonville</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-22|jacksonville|northern nash</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/22 — Lakewood 14 — Tarboro 42</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/22/2026&amp;mobile=1</link>
+      <description>Final: 11/22 — Lakewood 14 — Tarboro 42</description>
+      <awayTeam>Lakewood</awayTeam>
+      <awayScore>14</awayScore>
+      <homeTeam>Tarboro</homeTeam>
+      <homeScore>42</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-22|lakewood|tarboro</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/22 — James Kenan 20 — Northeastern 34</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/22/2026&amp;mobile=1</link>
+      <description>Final: 11/22 — James Kenan 20 — Northeastern 34</description>
+      <awayTeam>James Kenan</awayTeam>
+      <awayScore>20</awayScore>
+      <homeTeam>Northeastern</homeTeam>
+      <homeScore>34</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-22|james kenan|northeastern</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/22 — ERHS 31 — Whiteville 21</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/22/2026&amp;mobile=1</link>
+      <description>Final: 11/22 — ERHS 31 — Whiteville 21</description>
+      <awayTeam>ERHS</awayTeam>
+      <awayScore>31</awayScore>
+      <homeTeam>Whiteville</homeTeam>
+      <homeScore>21</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-22|erhs|whiteville</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/21 — Reidsville 35 — East Duplin 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/21/2026&amp;mobile=1</link>
+      <description>Final: 11/21 — Reidsville 35 — East Duplin 7</description>
+      <awayTeam>Reidsville</awayTeam>
+      <awayScore>35</awayScore>
+      <homeTeam>East Duplin</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-21|east duplin|reidsville</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/21 — Northern Nash 21 — Jacksonville 7</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/21/2026&amp;mobile=1</link>
+      <description>Final: 11/21 — Northern Nash 21 — Jacksonville 7</description>
+      <awayTeam>Northern Nash</awayTeam>
+      <awayScore>21</awayScore>
+      <homeTeam>Jacksonville</homeTeam>
+      <homeScore>7</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-21|jacksonville|northern nash</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/21 — Lakewood 14 — Tarboro 42</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/21/2026&amp;mobile=1</link>
+      <description>Final: 11/21 — Lakewood 14 — Tarboro 42</description>
+      <awayTeam>Lakewood</awayTeam>
+      <awayScore>14</awayScore>
+      <homeTeam>Tarboro</homeTeam>
+      <homeScore>42</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-21|lakewood|tarboro</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/21 — James Kenan 20 — Northeastern 34</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/21/2026&amp;mobile=1</link>
+      <description>Final: 11/21 — James Kenan 20 — Northeastern 34</description>
+      <awayTeam>James Kenan</awayTeam>
+      <awayScore>20</awayScore>
+      <homeTeam>Northeastern</homeTeam>
+      <homeScore>34</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-21|james kenan|northeastern</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>11/21 — ERHS 31 — Whiteville 21</title>
+      <link>https://www.maxpreps.com/nc/football/scores/?date=11/21/2026&amp;mobile=1</link>
+      <description>Final: 11/21 — ERHS 31 — Whiteville 21</description>
+      <awayTeam>ERHS</awayTeam>
+      <awayScore>31</awayScore>
+      <homeTeam>Whiteville</homeTeam>
+      <homeScore>21</homeScore>
+      <awayLogo />
+      <homeLogo />
+      <awayImageUrl />
+      <homeImageUrl />
+      <guid isPermaLink="false">2026-11-21|erhs|whiteville</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>11/20 — Williams 14 — Jacksonville 42</title>
       <link>https://www.maxpreps.com/nc/football/scores/?date=11/20/2026&amp;mobile=1</link>
